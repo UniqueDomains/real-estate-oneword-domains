@@ -94,7 +94,7 @@ floor.online,available,98,88%,5,"Construction,Real Estate,Retail",,,
 resort.store,available,98,76%,6,"Hospitality,Real Estate,Travel",,,
 resort.ninja,available,98,76%,6,"Hospitality,Real Estate,Travel",,,
 multiplex.net,resell,96,76%,9,"Entertainment,Real Estate,Technology",09/10/1997 04:00,08/10/2026 04:00,Dynadot Inc
-patent.space,available,96,88%,6,"Business,Real Estate",,,
+patent.space,available,96,48%,6,"Business,Real Estate",,,
 actual.expert,available,96,48%,6,"Real Estate,Retail,Technology",,,
 multiplex.at,sold,96,76%,9,"Entertainment,Real Estate,Technology",,,fonira Telekom GmbH ( https://nic.at/registrar/162 )
 unlock.expert,available,96,88%,6,"Finance,Real Estate,Technology",,,
@@ -107,15 +107,16 @@ putty.us,expiring,96,88%,5,"Construction,Real Estate,Retail",31/07/2019 00:01,31
 putty.so,available,96,88%,5,"Construction,Real Estate,Retail",,,
 putty.cloud,expired,96,88%,5,"Construction,Real Estate,Retail",23/04/2024 11:57,23/04/2025 11:57,"eNom, Inc."
 multiplex.me,resell,96,76%,9,"Entertainment,Real Estate,Technology",02/03/2017 01:06,02/03/2026 01:06,Dynadot Inc
-patent.co,resell,96,88%,6,"Business,Real Estate",25/02/2010 00:32,24/02/2026 23:59,Hello Internet Corp.
+patent.co,resell,96,48%,6,"Business,Real Estate",25/02/2010 00:32,24/02/2026 23:59,Hello Internet Corp.
 leave.so,available,96,84%,5,"Business,Real Estate,Travel",,,
 leave.dev,available,96,84%,5,"Business,Real Estate,Travel",,,
 putty.it,resell,96,88%,5,"Construction,Real Estate,Retail",09/05/2010 14:31,31/05/2026 00:00,
+patent.at,available,96,48%,6,"Business,Real Estate",,,
 leave.cloud,available,96,84%,5,"Business,Real Estate,Travel",,,
 actual.pro,resell,96,48%,6,"Real Estate,Retail,Technology",30/12/2020 14:30,30/12/2025 14:30,One.com A/S
 unlock.tech,available,96,88%,6,"Finance,Real Estate,Technology",,,
 actual.xyz,resell,96,48%,6,"Real Estate,Retail,Technology",06/09/2014 15:04,06/09/2029 23:59,Dynadot LLC
-patent.it,resell,96,88%,6,"Business,Real Estate",18/02/2013 21:44,04/03/2026 00:00,
+patent.it,resell,96,48%,6,"Business,Real Estate",18/02/2013 21:44,04/03/2026 00:00,
 unlock.online,available,96,88%,6,"Finance,Real Estate,Technology",,,
 unlock.store,expiring,96,88%,6,"Finance,Real Estate,Technology",18/07/2023 16:50,18/07/2025 23:59,CSL Computer Service Langenbach GmbH
 bathroom.space,available,94,84%,8,"Hospitality,Real Estate,Travel",,,
@@ -150,8 +151,8 @@ accommodate.gg,available,92,76%,11,"Business,Hospitality,Real Estate",,,
 prefab.pro,resell,92,84%,6,"Construction,Manufacturing,Real Estate",30/01/2025 15:15,30/01/2026 15:15,"Sav.com, LLC - 17"
 curtain.online,available,92,72%,7,"Real Estate,Retail",,,
 curtain.gg,available,92,72%,7,"Real Estate,Retail",,,
-manifest.site,available,92,100%,8,"Business,Real Estate",,,
-manifest.ninja,available,92,100%,8,"Business,Real Estate",,,
+manifest.site,available,92,64%,8,"Business,Real Estate",,,
+manifest.ninja,available,92,64%,8,"Business,Real Estate",,,
 rebuild.ninja,available,92,84%,7,"Construction,Real Estate,Technology",,,
 landscape.us,resell,92,84%,9,"Arts,Environment,Real Estate",24/04/2002 14:05,23/04/2026 23:59,"GoDaddy.com, LLC"
 curtain.it,resell,92,72%,7,"Real Estate,Retail",29/10/2011 13:07,28/11/2025 00:00,
@@ -160,14 +161,14 @@ landscape.site,available,92,84%,9,"Arts,Environment,Real Estate",,,
 prefab.zone,available,92,84%,6,"Construction,Manufacturing,Real Estate",,,
 accommodate.co,expiring,92,76%,11,"Business,Hospitality,Real Estate",21/07/2010 13:17,20/07/2025 23:59,"eName Technology Co., Ltd."
 curtain.io,resell,92,72%,7,"Real Estate,Retail",25/02/2014 00:35,25/02/2026 00:35,"NameCheap, Inc."
-manifest.store,available,92,100%,8,"Business,Real Estate",,,
+manifest.store,available,92,64%,8,"Business,Real Estate",,,
 curtain.site,available,92,72%,7,"Real Estate,Retail",,,
 curtain.dev,available,92,72%,7,"Real Estate,Retail",,,
-manifest.space,available,92,100%,8,"Business,Real Estate",,,
+manifest.space,available,92,64%,8,"Business,Real Estate",,,
 accommodate.expert,available,92,76%,11,"Business,Hospitality,Real Estate",,,
 rebuild.gg,resell,92,84%,7,"Construction,Real Estate,Technology",,,Sav.com LLC (https://www.sav.com)
 accommodate.cloud,available,92,76%,11,"Business,Hospitality,Real Estate",,,
-manifest.pro,resell,92,100%,8,"Business,Real Estate",28/11/2020 14:30,28/11/2025 14:30,Dynadot Inc
+manifest.pro,resell,92,64%,8,"Business,Real Estate",28/11/2020 14:30,28/11/2025 14:30,Dynadot Inc
 builtin.tech,available,91,76%,8,"Manufacturing,Real Estate,Technology",,,
 builtin.expert,available,91,76%,8,"Manufacturing,Real Estate,Technology",,,
 bequest.ninja,available,90,80%,7,"Finance,Law,Real Estate",,,
@@ -1178,7 +1179,6 @@ developer.site,available,72,92%,9,"Business,Real Estate,Technology",,,
 driveup.tech,available,72,76%,8,"Automotive,Real Estate,Retail",,,
 transportable.tech,available,72,72%,13,"Real Estate,Technology",,,
 moved.space,available,72,80%,5,"Media,Real Estate,Transportation",,,
-developed.site,available,72,76%,9,"Business,Real Estate,Technology",,,
 inbuilt.me,available,71,80%,7,"Manufacturing,Real Estate,Technology",,,
 inbuilt.zone,available,71,80%,7,"Manufacturing,Real Estate,Technology",,,
 pristine.xyz,sold,71,80%,8,"Environment,Real Estate,Travel",07/02/2018 12:26,07/02/2028 23:59,Dynadot LLC
@@ -2816,7 +2816,7 @@ lot.app,available,62,88%,3,"Business,Real Estate,Retail",,,
 tidiness.app,available,62,72%,8,"Health and Fitness,Hospitality,Real Estate",,,
 dormroom.dev,available,62,76%,9,"Education,Hospitality,Real Estate",,,
 acreage.me,expiring,62,76%,7,"Agriculture,Environment,Real Estate",17/07/2008 17:55,17/07/2025 17:55,"GoDaddy.com, LLC"
-plain.us,resell,62,80%,5,"Fashion,Real Estate",24/04/2002 21:58,23/04/2026 23:59,"GoDaddy.com, LLC"
+plain.us,resell,62,44%,5,"Fashion,Real Estate",24/04/2002 21:58,23/04/2026 23:59,"GoDaddy.com, LLC"
 nigher.org,available,62,72%,6,"Geography,Real Estate,Travel",,,
 valencia.online,available,62,88%,8,"Geography,Real Estate,Travel",,,
 allotment.us,expired,62,80%,9,"Agriculture,Business,Real Estate",07/06/2024 19:25,07/06/2025 19:25,Sav.com LLC
@@ -2965,7 +2965,7 @@ summercottage.gg,available,62,72%,14,"Hospitality,Real Estate,Travel",,,
 located.ninja,available,62,80%,7,"Business,Real Estate,Technology",,,
 mower.org,resell,62,76%,5,"Manufacturing,Real Estate,Retail",19/10/2003 14:46,19/10/2025 14:46,"Sea Wasp, LLC"
 nightstand.so,available,62,72%,10,"Hospitality,Real Estate,Retail",,,
-plain.space,available,62,80%,5,"Fashion,Real Estate",,,
+plain.space,available,62,44%,5,"Fashion,Real Estate",,,
 sumptuous.ai,available,62,84%,9,"Fashion,Hospitality,Real Estate",,,
 contracted.me,available,62,72%,10,"Business,Healthcare,Real Estate",,,
 inviteout.pro,available,62,72%,10,"Hospitality,Real Estate",,,
@@ -2999,7 +2999,7 @@ knoblock.me,available,62,76%,9,"Construction,Real Estate,Retail",,,
 doublebed.app,available,62,68%,10,"Hospitality,Real Estate,Retail",,,
 refinance.pro,resell,62,76%,9,"Banking,Finance,Real Estate",02/03/2005 00:00,02/03/2026 00:00,Porkbun LLC
 shotgunhouse.io,available,62,76%,13,"Construction,Real Estate",,,
-plain.online,available,62,80%,5,"Fashion,Real Estate",,,
+plain.online,available,62,44%,5,"Fashion,Real Estate",,,
 repositioning.org,resell,62,72%,13,"Business,Real Estate",18/04/2012 14:30,18/04/2026 14:30,Dynadot Inc
 sheltering.expert,available,62,68%,10,"Environment,Healthcare,Real Estate",,,
 apportion.io,available,62,72%,9,"Business,Finance,Real Estate",,,
@@ -3156,6 +3156,7 @@ swingdoor.at,available,62,72%,10,"Construction,Hospitality,Real Estate",,,
 padding.tech,available,62,80%,7,"Real Estate,Retail",,,
 gasjet.ninja,available,62,72%,7,"Energy,Real Estate,Utilities",,,
 valuepremium.so,available,62,72%,13,"Business,Finance,Real Estate",,,
+evident.us,resell,62,44%,7,"Business,Real Estate",25/11/2021 00:00,25/11/2025 00:00,Dynadot Inc
 valuer.co,resell,62,76%,6,"Business,Finance,Real Estate",26/09/2014 20:39,25/09/2025 23:59,1API GmbH
 locally.it,resell,62,80%,7,"Business,Media,Real Estate",03/02/2010 10:04,10/02/2026 00:00,
 remodelling.io,available,62,72%,11,"Construction,Real Estate",,,
@@ -3306,7 +3307,7 @@ boardingschool.pro,available,62,80%,15,"Education,Hospitality,Real Estate",,,
 baserent.so,available,62,72%,9,Real Estate,,,
 telephonekiosk.com,available,62,72%,15,"Real Estate,Technology,Telecommunications",,,
 suburb.gg,available,62,76%,6,"Construction,Geography,Real Estate",,,
-plain.site,expiring,62,80%,5,"Fashion,Real Estate",15/07/2015 16:00,15/07/2025 23:59,IONOS SE
+plain.site,sold,62,44%,5,"Fashion,Real Estate",15/07/2015 16:00,15/07/2026 23:59,IONOS SE
 smaller.online,available,62,68%,7,"Manufacturing,Real Estate,Retail",,,
 baserent.site,available,62,72%,9,Real Estate,,,
 plantation.ninja,available,62,76%,10,"Agriculture,Food and Beverage,Real Estate",,,
@@ -3329,7 +3330,7 @@ lessee.ninja,available,62,80%,6,"Business,Law,Real Estate",,,
 railwaystation.dev,available,62,72%,15,"Real Estate,Transportation,Travel",,,
 fireescape.ninja,available,62,76%,11,"Construction,Real Estate",,,
 valuer.expert,available,62,76%,6,"Business,Finance,Real Estate",,,
-evident.gg,available,62,84%,7,"Business,Real Estate",,,
+evident.gg,available,62,44%,7,"Business,Real Estate",,,
 summercottage.zone,available,62,72%,14,"Hospitality,Real Estate,Travel",,,
 requeststop.at,available,62,72%,12,"Real Estate,Transportation,Travel",,,
 allotment.ninja,available,62,80%,9,"Agriculture,Business,Real Estate",,,
@@ -3351,7 +3352,7 @@ resurface.ninja,available,62,80%,9,"Construction,Real Estate,Transportation",,,
 remodelling.at,available,62,72%,11,"Construction,Real Estate",,,
 securityguard.com,resell,62,88%,14,"Business,Real Estate",13/05/2002 18:17,13/05/2027 18:17,Tucows Domains Inc.
 repositioning.gg,available,62,72%,13,"Business,Real Estate",,,
-evident.expert,available,62,84%,7,"Business,Real Estate",,,
+evident.expert,available,62,44%,7,"Business,Real Estate",,,
 boardingschool.at,sold,62,80%,15,"Education,Hospitality,Real Estate",,,World4You Internet Services GmbH ( https://nic.at/registrar/61 )
 revolvingdoor.expert,available,62,80%,14,"Construction,Hospitality,Real Estate",,,
 tinted.at,available,62,80%,6,"Automotive,Fashion,Real Estate",,,
@@ -3443,6 +3444,7 @@ furnishing.space,available,62,84%,10,"Construction,Real Estate,Retail",,,
 traditionalowner.zone,available,62,72%,17,"Law,Politics,Real Estate",,,
 homestay.expert,available,62,88%,8,"Hospitality,Real Estate,Travel",,,
 ecovillage.xyz,expiring,62,76%,11,"Environment,Real Estate",21/07/2021 12:32,21/07/2025 23:59,"Spaceship, Inc."
+evident.space,resell,62,44%,7,"Business,Real Estate",16/06/2025 20:49,16/06/2026 23:59,West263 International Limited
 surfacing.cloud,available,62,80%,9,"Construction,Real Estate,Technology",,,
 sheltering.it,resell,62,68%,10,"Environment,Healthcare,Real Estate",15/05/2012 03:34,05/06/2026 00:00,
 resurface.co,available,62,80%,9,"Construction,Real Estate,Transportation",,,
@@ -4397,7 +4399,6 @@ clubchair.so,available,60,72%,10,"Hospitality,Real Estate,Retail",,,
 bargainbin.ninja,available,60,84%,11,"Business,Real Estate,Retail",,,
 frontwall.cloud,available,60,76%,10,"Construction,Engineering,Real Estate",,,
 outside.ninja,available,60,60%,7,"Real Estate,Travel",,,
-insectscreen.expert,available,60,76%,13,"Construction,Real Estate,Retail",,,
 wellfixed.online,available,59,72%,10,"Business,Finance,Real Estate",,,
 wellfixed.store,available,59,72%,10,"Business,Finance,Real Estate",,,
 prospect.ai,resell,59,76%,8,"Business,Finance,Real Estate",15/12/2017 22:59,26/02/2026 22:59,Porkbun LLC
@@ -4485,7 +4486,7 @@ brickover.me,available,58,72%,10,"Construction,Engineering,Real Estate",,,
 continentalUS.at,available,58,72%,14,"General,Geography,Real Estate",,,
 firetower.tech,available,58,80%,10,"Construction,Real Estate",,,
 modernizing.io,available,58,76%,11,"Business,Real Estate,Technology",,,
-apparent.expert,available,58,72%,8,"Business,Real Estate",,,
+apparent.expert,available,58,32%,8,"Business,Real Estate",,,
 Constantinople.gg,available,58,84%,14,"General,Geography,Real Estate",,,
 Americanaspen.gg,available,58,72%,14,"Agriculture,Environment,Real Estate",,,
 interestinland.me,available,58,72%,16,Real Estate,,,
@@ -4494,7 +4495,7 @@ polebuilding.tech,available,58,76%,13,"Agriculture,Construction,Real Estate",,,
 quietroom.pro,available,58,72%,10,"Hospitality,Real Estate",,,
 airrights.store,available,58,76%,10,"General,Law,Real Estate",,,
 centerisland.co,available,58,72%,13,Real Estate,,,
-apparent.at,available,58,72%,8,"Business,Real Estate",,,
+apparent.at,available,58,32%,8,"Business,Real Estate",,,
 flats.gg,resell,58,80%,5,"Fashion,Real Estate,Retail",,,1API (http://www.1api.net)
 cosigner.expert,available,58,76%,8,"Banking,Finance,Real Estate",,,
 devisee.io,available,58,72%,7,"Business,Law,Real Estate",,,
@@ -4521,7 +4522,7 @@ flats.xyz,available,58,80%,5,"Fashion,Real Estate,Retail",,,
 Americanaspen.online,available,58,72%,14,"Agriculture,Environment,Real Estate",,,
 liveable.at,available,58,80%,8,"Construction,Environment,Real Estate",,,
 glassin.tech,available,58,72%,8,"Construction,Manufacturing,Real Estate",,,
-apparent.xyz,sold,58,72%,8,"Business,Real Estate",09/06/2020 21:02,09/06/2026 23:59,Dynadot LLC
+apparent.xyz,resell,58,32%,8,"Business,Real Estate",09/06/2020 21:02,09/06/2026 23:59,Dynadot LLC
 nurseryman.site,available,58,72%,10,"Agriculture,Environment,Real Estate",,,
 wetbar.tech,available,58,76%,7,"Hospitality,Real Estate,Travel",,,
 railroadtie.co,available,58,72%,12,"Construction,Real Estate,Transportation",,,
@@ -4586,7 +4587,7 @@ chimneysweep.at,available,58,80%,13,"Construction,Environment,Real Estate",,,
 roofing.it,resell,58,84%,7,"Construction,Real Estate",14/03/2021 16:00,16/06/2026 00:00,
 landgrant.co,available,58,72%,10,"Agriculture,Education,Real Estate",,,
 palatial.co,resell,58,72%,8,"Hospitality,Real Estate,Travel",29/08/2015 18:14,28/08/2025 23:59,1API GmbH
-apparent.app,available,58,72%,8,"Business,Real Estate",,,
+apparent.app,sold,58,32%,8,"Business,Real Estate",19/07/2025 14:27,19/07/2026 14:27,Squarespace Domains II LLC.
 cosigner.us,available,58,76%,8,"Banking,Finance,Real Estate",,,
 outbuilding.site,available,58,72%,11,"Agriculture,Construction,Real Estate",,,
 roofer.at,available,58,72%,6,"Construction,Real Estate",,,
@@ -8286,7 +8287,6 @@ carpenter.space,available,52,80%,9,"Construction,Manufacturing,Real Estate",,,
 Serangoon.tech,available,52,72%,9,"Geography,Real Estate",,,
 Parkside.at,available,52,80%,8,"Hospitality,Real Estate,Travel",,,
 spaciously.space,available,52,76%,10,"Hospitality,Real Estate,Travel",,,
-hotwall.at,available,52,76%,8,"Construction,Energy,Real Estate",,,
 surfacestreet.org,available,51,72%,14,"Construction,Real Estate,Transportation",,,
 surfacestreet.expert,available,51,72%,14,"Construction,Real Estate,Transportation",,,
 surfacestreet.app,available,51,72%,14,"Construction,Real Estate,Transportation",,,
