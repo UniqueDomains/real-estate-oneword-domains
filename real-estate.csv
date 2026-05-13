@@ -621,266 +621,275 @@ d81fc120-22c2-4607-8314-87cb592f7f44,real.support,resell,,,78,37,4,Dynadot Inc,1
 8324c393-1a81-409f-9b26-53c1cc77739b,real.tennis,premium,260,260,78,37,4,namecheap,,
 cda2b6b8-afe9-4b32-b5e7-57199421bd9c,real.vacations,available,49.98,,78,37,4,namecheap,,
 b9bc8160-9679-44aa-b548-3cac2b8b59c4,real.you,premium,650,650,78,37,4,namecheap,,
-72f0339e-1c3b-48ac-925a-1065f91fa70c,realestate.associates,premium,82.5,,77,42,11,name.com,,
-80b24c60-7792-4147-9472-f7917cdac405,realestate.beauty,resell,,,77,42,11,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
-43f22ae3-3a32-4c86-b7c2-17665f8cbd15,realestate.bet,resell,,,77,42,11,"Sav.com, LLC - 13",14/04/2024 17:00,14/04/2027 17:00
-8d6d8ce0-33b1-45bf-b133-864f5f9b0e12,realestate.broker,premium,6250,,77,42,11,name.com,,
+72f0339e-1c3b-48ac-925a-1065f91fa70c,realestate.associates,premium,82.5,,77,44,11,name.com,,
+80b24c60-7792-4147-9472-f7917cdac405,realestate.beauty,resell,,,77,44,11,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
+43f22ae3-3a32-4c86-b7c2-17665f8cbd15,realestate.bet,resell,,,77,44,11,"Sav.com, LLC - 13",14/04/2024 17:00,14/04/2027 17:00
+8d6d8ce0-33b1-45bf-b133-864f5f9b0e12,realestate.broker,premium,6250,,77,44,11,name.com,,
+9fe8cfe1-0483-45e2-8172-a832554666ba,realestate.church,resell,,,77,44,11,"Global Domains International, Inc. DBA DomainCostClub.com",11/12/2024 00:37,11/12/2026 00:37
+62b34ab2-a447-4e86-af8d-21403d3ed8ae,realestate.deals,resell,,,77,44,11,Porkbun LLC,09/12/2015 13:47,09/12/2026 13:47
+8d0819c9-e6fa-40dc-ac14-0980cb1ee8af,realestate.desi,available,22.98,,77,44,11,namecheap,,
+8d12a3f8-9453-40d5-8077-40417c244729,realestate.directory,resell,,,77,44,11,Porkbun LLC,03/05/2020 08:21,03/05/2027 08:21
+7607f5b4-9afc-42fb-aa9d-2aa1fac8acce,realestate.eco,premium,9375,,77,44,11,name.com,,
+23b8a7c7-41e2-4e18-ad58-abdff6b9049d,realestate.forex,premium,1250,,77,44,11,name.com,,
+80968f09-d301-4942-89a6-6c0ff7cf8b87,realestate.hamburg,resell,,,77,44,11,,13/02/2017 13:20,13/02/2027 13:20
+dc834126-0039-41c5-82df-0d7a51ac4ebe,realestate.id,resell,,,77,44,11,PT Jagat Informasi Solusi (int),03/04/2019 00:10,03/04/2027 23:59
+8062be53-a649-4ffe-b1da-21a4a38a487c,realestate.kiwi,premium,1101.8,,77,44,11,name.com,,
+4e515c41-fdb1-4481-9c37-703b1d48339d,realestate.loans,resell,,,77,44,11,Porkbun LLC,19/11/2016 10:25,19/11/2026 10:25
+cc28c283-561c-41a9-8920-f64c2ed284b2,realestate.makeup,available,1.99,,77,44,11,name.com,,
+0827d7b6-3c57-4019-9255-43409bca9506,realestate.media,resell,,,77,44,11,Dynadot Inc,04/04/2018 23:19,04/04/2027 23:19
+5a34b507-62ff-4bab-9722-92acf5e16e6d,realestate.mobile,premium,375,,77,44,11,name.com,,
+14a3c05d-072f-4e4f-956f-da7fb446c4f9,realestate.moi,premium,250,,77,44,11,name.com,,
+d8e92a74-3500-4468-99a7-d3a464910188,realestate.new,premium,,,77,44,11,,,
+a99c7d6a-b692-421c-8da8-fd04bf9ebffc,realestate.press,premium,,,77,44,11,,,
+fb5b429f-e16f-437f-810d-7908b9662dc9,realestate.services,premium,560,1120,77,44,11,namecheap,,
+96783bd7-04a7-4698-97f5-60e47b195062,realestate.sex,available,154.98,,77,44,11,namecheap,,
+733eb413-6988-4f48-9b50-768428fb4e34,realestate.solutions,resell,,,77,44,11,Porkbun LLC,19/09/2021 17:00,19/09/2026 17:00
+7d44d5b7-3056-45c4-b293-a62646569065,realestate.studio,premium,280,560,77,44,11,namecheap,,
+dacfa01d-a7c0-4274-9c34-3db2d7ccd8d0,realestate.trading,premium,1250,,77,44,11,name.com,,
 d6f9596a-2462-4d69-ae0c-cf85a19663b0,realestate.ceo,available,19.99,,77,42,11,name.com,,
 c9254dea-5791-4eb3-a279-27d50997daea,realestate.channel,premium,623.75,,77,42,11,name.com,,
-62b34ab2-a447-4e86-af8d-21403d3ed8ae,realestate.deals,resell,,,77,42,11,Porkbun LLC,09/12/2015 13:47,09/12/2026 13:47
-8d0819c9-e6fa-40dc-ac14-0980cb1ee8af,realestate.desi,available,22.98,,77,42,11,namecheap,,
-7607f5b4-9afc-42fb-aa9d-2aa1fac8acce,realestate.eco,premium,9375,,77,42,11,name.com,,
-23b8a7c7-41e2-4e18-ad58-abdff6b9049d,realestate.forex,premium,1250,,77,42,11,name.com,,
-80968f09-d301-4942-89a6-6c0ff7cf8b87,realestate.hamburg,resell,,,77,42,11,,13/02/2017 13:20,13/02/2027 13:20
-dc834126-0039-41c5-82df-0d7a51ac4ebe,realestate.id,resell,,,77,42,11,PT Jagat Informasi Solusi (int),03/04/2019 00:10,03/04/2027 23:59
-8062be53-a649-4ffe-b1da-21a4a38a487c,realestate.kiwi,premium,1101.8,,77,42,11,name.com,,
-4e515c41-fdb1-4481-9c37-703b1d48339d,realestate.loans,resell,,,77,42,11,Porkbun LLC,19/11/2016 10:25,19/11/2026 10:25
-cc28c283-561c-41a9-8920-f64c2ed284b2,realestate.makeup,available,1.99,,77,42,11,name.com,,
-0827d7b6-3c57-4019-9255-43409bca9506,realestate.media,resell,,,77,42,11,Dynadot Inc,04/04/2018 23:19,04/04/2027 23:19
-5a34b507-62ff-4bab-9722-92acf5e16e6d,realestate.mobile,premium,375,,77,42,11,name.com,,
-14a3c05d-072f-4e4f-956f-da7fb446c4f9,realestate.moi,premium,250,,77,42,11,name.com,,
-fb5b429f-e16f-437f-810d-7908b9662dc9,realestate.services,premium,560,1120,77,42,11,namecheap,,
-96783bd7-04a7-4698-97f5-60e47b195062,realestate.sex,available,154.98,,77,42,11,namecheap,,
 4e9c2323-e0ca-47db-9d4d-3854f6f8b00c,realestate.shop,premium,12500,,77,42,11,name.com,,
-733eb413-6988-4f48-9b50-768428fb4e34,realestate.solutions,resell,,,77,42,11,Porkbun LLC,19/09/2021 17:00,19/09/2026 17:00
-dacfa01d-a7c0-4274-9c34-3db2d7ccd8d0,realestate.trading,premium,1250,,77,42,11,name.com,,
-94d64c43-f747-473f-a239-83f93422c098,realestate.academy,resell,,,,42,11,"GoDaddy.com, LLC",16/03/2014 17:09,16/03/2027 17:09
-03429f1c-36c7-4583-aa7c-aff043fd313b,realestate.actor,available,54.98,,,42,11,namecheap,,
-ffbe6deb-f3e4-4570-855c-f459063b930f,realestate.adult,available,166.98,,,42,11,namecheap,,
-a83ff799-8b25-44c2-8129-6107570c8230,realestate.ai,resell,,,,42,11,Dynadot Inc,16/12/2017 02:36,17/11/2033 04:00
-1692d558-0fee-4910-b34f-03315125570f,realestate.airforce,available,134.98,,,42,11,namecheap,,
-7ae907a3-0574-48d0-b6d2-7ac103c75767,realestate.auto,available,2950,,,42,11,namecheap,,
-58e9350c-d86c-4ffe-b0b6-ce74a220d855,realestate.autos,premium,845,15.73,,42,11,namecheap,,
-444ef087-6f3c-4cfe-842c-5f6a1725c9d5,realestate.band,premium,39,39,,42,11,namecheap,,
-5c27a5f4-a795-4f77-8cd1-4d037f5015c4,realestate.bar,premium,292.5,585,,42,11,namecheap,,
-5cc85abb-bd82-4091-8f72-838d0b1aef38,realestate.bayern,premium,,,,42,11,,,
-d8f5aeb7-9ad8-4785-a2c4-ee42ce00ec23,realestate.berlin,resell,,,,42,11,,11/07/2016 14:05,11/07/2027 14:05
-c5c70390-0087-4f42-8a6b-67f6d4b51b82,realestate.bike,available,48.98,,,42,11,namecheap,,
-cded615a-a75f-4a82-9b5e-06c1149f8c6a,realestate.bingo,available,68.98,,,42,11,namecheap,,
-326030b2-0e27-4e81-a6a1-9c23908ffbbb,realestate.blackfriday,available,134.98,,,42,11,namecheap,,
-c3be3bc7-d194-400e-b44d-d336f4335c50,realestate.blue,resell,,,,42,11,"Spaceship, Inc.",19/09/2019 10:13,19/09/2027 10:13
-af10838c-93ef-4f39-bb74-37f067761510,realestate.boats,premium,845,15.73,,42,11,namecheap,,
-724e2d6e-93b5-4987-aac4-9bc4a6c49163,realestate.boo,premium,648.7,648.7,,42,11,namecheap,,
-eca3b3e0-f602-4b43-b1e7-cd1caa7b057a,realestate.bot,resell,,,,42,11,Porkbun LLC,30/10/2023 16:00,30/10/2026 16:00
-f903f8a5-0776-4d7d-b6c1-9a2a525f06c4,realestate.build,premium,650,650,,42,11,namecheap,,
-d985812d-a31e-4c86-84da-101a15f70b7d,realestate.buzz,resell,,,,42,11,"GoDaddy.com, LLC",22/05/2018 22:12,22/05/2026 22:12
-588954c3-3a88-40ad-a8d0-cba5a5ee56af,realestate.bz,resell,,,,42,11,Dynadot Inc,21/02/2014 17:11,21/02/2027 17:11
-fa2da233-cc84-4758-8c41-e91ba95ab71b,realestate.ca,resell,,,,42,11,CanSpace Solutions Inc.,25/09/2000 15:51,14/02/2027 05:00
-c876d4bf-e9c5-42b4-86d8-d385c4694eb5,realestate.cab,available,41.98,,,42,11,namecheap,,
-7be803dd-bbd9-4655-9a69-59b95e45f9f6,realestate.cafe,resell,,,,42,11,"Chengdu West Dimension Digital Technology Co., Ltd.",18/12/2019 18:46,18/12/2026 18:46
-b11b437d-41c9-47a9-b506-6fdce4fab493,realestate.cam,resell,,,,42,11,Dynadot LLC,04/03/2023 22:09,04/03/2027 23:59
-857ed39d-ddff-4717-8830-534c78093c8c,realestate.camera,premium,520,520,,42,11,namecheap,,
-9c22d6b6-4185-4e9d-ba41-aa8744f98185,realestate.camp,premium,520,520,,42,11,namecheap,,
-6cebc191-64a9-4176-a286-34d6edda17a4,realestate.car,available,2400,,,42,11,namecheap,,
-7890f97b-55fb-49e9-b87b-8516eaa6cb12,realestate.care,premium,520,520,,42,11,namecheap,,
-c15ffbde-d54e-439b-b0a6-2da996f97f1c,realestate.cars,available,2950,,,42,11,namecheap,,
+94d64c43-f747-473f-a239-83f93422c098,realestate.academy,resell,,,,44,11,"GoDaddy.com, LLC",16/03/2014 17:09,16/03/2027 17:09
+03429f1c-36c7-4583-aa7c-aff043fd313b,realestate.actor,available,54.98,,,44,11,namecheap,,
+ffbe6deb-f3e4-4570-855c-f459063b930f,realestate.adult,available,166.98,,,44,11,namecheap,,
+a83ff799-8b25-44c2-8129-6107570c8230,realestate.ai,resell,,,,44,11,Dynadot Inc,16/12/2017 02:36,17/11/2033 04:00
+1692d558-0fee-4910-b34f-03315125570f,realestate.airforce,available,134.98,,,44,11,namecheap,,
+ab8bfe2f-14da-4f04-b2d6-64cb791e7850,realestate.app,resell,,,,44,11,"GoDaddy.com, LLC",03/05/2018 02:37,03/05/2027 02:37
+7ae907a3-0574-48d0-b6d2-7ac103c75767,realestate.auto,available,2950,,,44,11,namecheap,,
+58e9350c-d86c-4ffe-b0b6-ce74a220d855,realestate.autos,premium,845,15.73,,44,11,namecheap,,
+444ef087-6f3c-4cfe-842c-5f6a1725c9d5,realestate.band,premium,39,39,,44,11,namecheap,,
+5c27a5f4-a795-4f77-8cd1-4d037f5015c4,realestate.bar,premium,292.5,585,,44,11,namecheap,,
+5cc85abb-bd82-4091-8f72-838d0b1aef38,realestate.bayern,premium,,,,44,11,,,
+d8f5aeb7-9ad8-4785-a2c4-ee42ce00ec23,realestate.berlin,resell,,,,44,11,,11/07/2016 14:05,11/07/2027 14:05
+c5c70390-0087-4f42-8a6b-67f6d4b51b82,realestate.bike,available,48.98,,,44,11,namecheap,,
+cded615a-a75f-4a82-9b5e-06c1149f8c6a,realestate.bingo,available,68.98,,,44,11,namecheap,,
+5a91749e-a852-4ca4-9ca6-f094247954fa,realestate.black,resell,,,,44,11,"Sav.com, LLC - 17",07/05/2026 15:15,07/05/2027 15:15
+326030b2-0e27-4e81-a6a1-9c23908ffbbb,realestate.blackfriday,available,134.98,,,44,11,namecheap,,
+c3be3bc7-d194-400e-b44d-d336f4335c50,realestate.blue,resell,,,,44,11,"Spaceship, Inc.",19/09/2019 10:13,19/09/2027 10:13
+af10838c-93ef-4f39-bb74-37f067761510,realestate.boats,premium,845,15.73,,44,11,namecheap,,
+724e2d6e-93b5-4987-aac4-9bc4a6c49163,realestate.boo,premium,648.7,648.7,,44,11,namecheap,,
+eca3b3e0-f602-4b43-b1e7-cd1caa7b057a,realestate.bot,resell,,,,44,11,Porkbun LLC,30/10/2023 16:00,30/10/2026 16:00
+f903f8a5-0776-4d7d-b6c1-9a2a525f06c4,realestate.build,premium,650,650,,44,11,namecheap,,
+588954c3-3a88-40ad-a8d0-cba5a5ee56af,realestate.bz,resell,,,,44,11,Dynadot Inc,21/02/2014 17:11,21/02/2027 17:11
+fa2da233-cc84-4758-8c41-e91ba95ab71b,realestate.ca,resell,,,,44,11,CanSpace Solutions Inc.,25/09/2000 15:51,14/02/2027 05:00
+c876d4bf-e9c5-42b4-86d8-d385c4694eb5,realestate.cab,available,41.98,,,44,11,namecheap,,
+7be803dd-bbd9-4655-9a69-59b95e45f9f6,realestate.cafe,resell,,,,44,11,"Chengdu West Dimension Digital Technology Co., Ltd.",18/12/2019 18:46,18/12/2026 18:46
+b11b437d-41c9-47a9-b506-6fdce4fab493,realestate.cam,resell,,,,44,11,Dynadot LLC,04/03/2023 22:09,04/03/2027 23:59
+857ed39d-ddff-4717-8830-534c78093c8c,realestate.camera,premium,520,520,,44,11,namecheap,,
+9c22d6b6-4185-4e9d-ba41-aa8744f98185,realestate.camp,premium,520,520,,44,11,namecheap,,
+6cebc191-64a9-4176-a286-34d6edda17a4,realestate.car,available,2400,,,44,11,namecheap,,
+7890f97b-55fb-49e9-b87b-8516eaa6cb12,realestate.care,premium,520,520,,44,11,namecheap,,
+c15ffbde-d54e-439b-b0a6-2da996f97f1c,realestate.cars,available,2950,,,44,11,namecheap,,
+cd8894b0-85fa-4dbc-9f19-6cc88199db5c,realestate.catering,premium,85.8,85.8,,44,11,namecheap,,
+663afe41-2668-458c-b9e5-9f70c7b2ab1b,realestate.cfd,premium,20.8,83.2,,44,11,namecheap,,
+197a7972-815e-49a9-94b5-33a990e9665a,realestate.charity,available,37.98,,,44,11,namecheap,,
+c01933b4-0a9a-4ee7-85d6-50b2748cadfa,realestate.city,resell,,,,44,11,"Spaceship, Inc.",21/10/2021 13:15,21/10/2026 13:15
+55668909-0998-4a65-a039-67c04ef971c8,realestate.claims,premium,520,520,,44,11,namecheap,,
+0a6117ae-547c-4ef0-905e-a2d24c227fc6,realestate.cleaning,premium,128.7,128.7,,44,11,namecheap,,
+bc98b825-e908-4690-ae59-2a35313722cc,realestate.clinic,premium,128.7,128.7,,44,11,namecheap,,
+027af504-6a54-41c5-a274-895d32f751ce,realestate.cloud,resell,,,,44,11,Synergy Wholesale Pty Ltd,23/02/2016 05:02,23/02/2027 05:02
+302bf435-e797-42aa-bb6c-66ed9b699b54,realestate.club,resell,,,,44,11,"GoDaddy.com, LLC",19/07/2019 21:38,19/07/2027 21:38
+2ae26c4d-84d4-4690-896d-9c199977a30d,realestate.co,resell,,,,44,11,Hello Internet Corp.,24/02/2010 23:31,23/02/2027 23:59
+a33747de-ef9b-4d34-ae7c-c00257816a54,realestate.codes,premium,,,,44,11,,,
+07d5ec6e-0e7e-42b7-bd7b-d26dbbcb76de,realestate.college,premium,650,650,,44,11,namecheap,,
+64344411-c0ee-44ef-8faa-44a3d44cc979,realestate.community,resell,,,,44,11,"GoDaddy.com, LLC",19/06/2014 02:25,19/06/2026 02:25
+7d67fe09-6a18-4881-bc74-5f0293c29f7d,realestate.company,resell,,,,44,11,"Name.com, Inc.",27/05/2021 13:16,27/05/2028 13:16
+49036f18-a6d1-4abc-83e9-e33e09f88cb4,realestate.condos,premium,520,520,,44,11,namecheap,,
+aad279c9-4161-4f08-a873-00e122e6926e,realestate.contractors,premium,85.8,85.8,,44,11,namecheap,,
+376afe68-8a72-4341-a924-2acefe769713,realestate.cooking,available,33.98,,,44,11,namecheap,,
+ae219071-b9c7-4a97-9b30-406cbfbdb7b2,realestate.cool,premium,520,520,,44,11,namecheap,,
+70fb2dda-3aa7-48f5-b3a1-1e31ca96f9c5,realestate.country,available,2450,,,44,11,namecheap,,
+03e54a59-a0e4-4a65-b914-5ea4d7475cee,realestate.creditcard,available,168.98,,,44,11,namecheap,,
+1ad6c898-0b1e-46ab-9112-91dbf747456d,realestate.cricket,available,31.98,,,44,11,namecheap,,
+c7512bc6-611e-4ff2-861e-2d1c08feb53e,realestate.cruises,available,68.98,,,44,11,namecheap,,
+2fe20fd9-9f10-446d-9162-fe958179fd8a,realestate.cyou,resell,,,,44,11,Dynadot LLC,30/07/2025 15:56,30/07/2026 23:59
+61434809-89a4-4254-899b-0e3aa7712ae1,realestate.dad,premium,648.7,648.7,,44,11,namecheap,,
+2832df11-06bb-4ea2-b5e0-5a7f1f5154ee,realestate.date,resell,,,,44,11,Dynadot Inc,04/11/2025 19:00,04/11/2026 19:00
+2e155b36-70cc-4b05-8a35-35edb62a2536,realestate.dating,available,86.98,,,44,11,namecheap,,
+f1db525f-12df-4f1b-8674-87064a4268b3,realestate.day,premium,648.7,648.7,,44,11,namecheap,,
+544b58f8-9958-476b-ad8f-c678aebe9157,realestate.deal,premium,650,650,,44,11,namecheap,,
+b8add55b-6ef2-4a45-9b0d-4ae56b381988,realestate.dealer,available,2348,,,44,11,namecheap,,
+ca52345d-ff3b-40b1-bf36-82690ec1a0de,realestate.degree,premium,78,78,,44,11,namecheap,,
+b581d0d0-ab97-4e30-9e36-84d9731c9fab,realestate.democrat,available,41.48,,,44,11,namecheap,,
+e9969488-e82c-400a-a726-cbff3d2016fd,realestate.dental,available,59.98,,,44,11,namecheap,,
+7c707f65-c49c-453d-b627-07f1970828ee,realestate.dentist,premium,260,260,,44,11,namecheap,,
+bd1b1185-3311-46cb-9374-524e3418133b,realestate.dev,premium,1623.75,1623.75,,44,11,name.com,,
+669886d8-7430-4f7b-b8b6-c936c2e7fc7e,realestate.diet,premium,2600,2600,,44,11,namecheap,,
+cb449039-9506-4206-86a1-78057e2f20a4,realestate.dog,premium,520,520,,44,11,namecheap,,
+560c152c-362d-4f84-a0a0-3a3a89a36ac3,realestate.education,resell,,,,44,11,"GoDaddy.com, LLC",08/08/2018 23:39,08/08/2026 23:39
+ae79c8fd-f661-4a7a-8da6-88b59d6c6e2d,realestate.engineer,premium,78,78,,44,11,namecheap,,
+b1be9c46-3e99-4d31-9c11-59de7bd00d2f,realestate.enterprises,resell,,,,44,11,Unstoppable Domains Inc,03/01/2025 17:13,03/01/2028 17:13
+dbb996f2-b203-40d0-a824-3790e672130a,realestate.equipment,available,32.98,,,44,11,namecheap,,
+77cacc32-9416-4b50-9300-c10e41a38b67,realestate.estate,resell,,,,44,11,"Sav.com, LLC - 15",27/11/2025 15:15,27/11/2026 15:15
+af4e2493-443f-4e20-b955-e844b9f0334d,realestate.exposed,premium,128.7,128.7,,44,11,namecheap,,
+4e320b1a-9e6e-462f-91dd-b5672a847d3b,realestate.fail,premium,85.8,85.8,,44,11,namecheap,,
+9e3787a4-1278-4de1-b491-fb4a3b8645dc,realestate.faith,available,16.98,,,44,11,namecheap,,
+6c34b7b7-0a01-40ce-a640-f8d3d37f5cc0,realestate.family,premium,260,260,,44,11,namecheap,,
+648b30a7-25e5-4fee-a2bd-d9f917ab9f8d,realestate.fan,premium,260,260,,44,11,namecheap,,
+24d38712-a72d-434a-afd3-d4a45dbb5527,realestate.finance,resell,,,,44,11,"GoDaddy.com, LLC",20/07/2016 06:11,20/07/2026 06:11
+338ab416-07c6-40c8-b99c-125cbc1d6a27,realestate.fishing,premium,52,52,,44,11,namecheap,,
+1ad6c5fd-cb00-4c75-80fa-fe3a31b7be95,realestate.fit,premium,52,31.2,,44,11,namecheap,,
+40b76c44-b3ca-4ad4-bf57-e8de89dbd38d,realestate.fitness,premium,42.9,42.9,,44,11,namecheap,,
+18af1b1b-b42b-452e-9922-f307ab2a6510,realestate.flights,premium,128.7,128.7,,44,11,namecheap,,
+095eb4d6-1e83-4c89-b0ec-577ad32fe40a,realestate.florist,available,41.98,,,44,11,namecheap,,
+33521fc6-5f6c-42de-b337-8b00c820d8b8,realestate.flowers,available,159.98,,,44,11,namecheap,,
+abbef294-d90b-4d39-8277-9a2c83b19027,realestate.foo,premium,648.7,648.7,,44,11,namecheap,,
+ea5897ac-33e6-4318-aa0b-4bdd085d3d11,realestate.food,premium,650,1300,,44,11,namecheap,,
+e49c32e3-122c-4b52-b906-e42cddb9cf1a,realestate.football,available,36.98,,,44,11,namecheap,,
+303aeb22-41d6-44d1-bb3c-55b523914ad8,realestate.free,premium,130,130,,44,11,namecheap,,
+2215bbaa-28ce-488c-8686-594736a74fe7,realestate.fun,premium,1625,6500,,44,11,namecheap,,
+4adf33b3-dd2e-4345-ab77-0ca1fa64a5aa,realestate.furniture,premium,128.7,128.7,,44,11,namecheap,,
+19fdce1e-5a8a-42dd-9d1d-ecd62e31551e,realestate.futbol,available,21.98,,,44,11,namecheap,,
+bcd1bf06-09c0-4757-9f61-51d13054190a,realestate.garden,resell,,,,44,11,Sav.com LLC,22/04/2026 14:02,22/04/2027 14:02
+8fd4eec7-bfa3-4089-972b-7e837114e25e,realestate.gay,premium,780,780,,44,11,namecheap,,
+c43135f4-5556-4320-bbf3-b6ce7a162573,realestate.glass,premium,520,520,,44,11,namecheap,,
+dc6b563f-9171-4b22-88f2-19dbe9032559,realestate.global,resell,,,,44,11,"Sav.com, LLC - 24",09/11/2024 15:16,09/11/2026 15:16
+6246789b-0135-4060-9f27-40fc4109250d,realestate.golf,premium,260,260,,44,11,namecheap,,
+6969c7d5-dcdb-4a4f-a51e-78fd666a68b9,realestate.gratis,available,31.98,,,44,11,namecheap,,
+540cec18-174d-4bf0-948a-2c3ec6d8681b,realestate.green,resell,,,,44,11,"GoDaddy.com, LLC",08/08/2021 09:11,08/08/2026 09:11
+51dbe408-4743-4093-94c1-605178851ba2,realestate.gripe,premium,42.9,42.9,,44,11,namecheap,,
+93989d49-b501-4263-9c5a-2ed23c6bbcca,realestate.guitars,premium,2600,2600,,44,11,namecheap,,
+a622d55a-ce1c-49fe-a6cf-50d6b03c0347,realestate.guru,premium,,,,44,11,,,
+9aa87fab-d19f-46ac-b1fb-040e4ae27e85,realestate.hair,available,19.98,,,44,11,namecheap,,
+2a7e12ff-545c-4cc4-a577-754dc8ad7d6d,realestate.haus,resell,,,,44,11,"Global Domains International, Inc. DBA DomainCostClub.com",17/03/2016 15:09,17/03/2027 15:09
+2fc4986c-f93c-4d7a-90eb-11fbe7c9ee6d,realestate.health,premium,1300,71.5,,44,11,namecheap,,
+2501ff31-8bfc-4e7a-8efe-28ca1633701a,realestate.healthcare,available,111.98,,,44,11,namecheap,,
+bed094c0-050c-4698-a477-59acf159bece,realestate.hiv,premium,,,,44,11,,,
+a6e2ae99-d962-4229-ba24-957ebaa6fd0a,realestate.hockey,available,72.98,,,44,11,namecheap,,
+5d76d4db-9d82-471e-a6ec-ce66571fc2a4,realestate.holiday,available,81.98,,,44,11,namecheap,,
+fa6e8c2b-2535-46ee-b061-da21f61fa744,realestate.horse,premium,260,31.2,,44,11,namecheap,,
+b917776c-98af-42e3-b2ec-e91b1c7e1af9,realestate.hospital,available,71.98,,,44,11,namecheap,,
+4d3f6b8b-3cb5-4ab8-9444-66611c081ef7,realestate.hosting,premium,1690,1690,,44,11,namecheap,,
+64204722-cd58-42ca-8509-9236989079e7,realestate.hot,resell,,,,44,11,"Dynadot, LLC",27/07/2025 13:23,27/07/2026 13:23
+b8592295-8dab-4a1d-87d1-4e3a23d812f5,realestate.industries,premium,128.7,128.7,,44,11,namecheap,,
+8dbb63cf-9904-4727-8536-ea9396e79766,realestate.irish,available,31.98,,,44,11,namecheap,,
+eb17757c-71d5-4853-9b15-9922a1e7aee0,realestate.jetzt,available,30.48,,,44,11,namecheap,,
+6ab31dfa-d4f8-4a5b-9cbe-6b3cb49150b3,realestate.jewelry,available,69.98,,,44,11,namecheap,,
+d3705e1a-1589-49c1-a4a4-f134777fedc1,realestate.juegos,available,478.98,,,44,11,namecheap,,
+7a2784fc-25de-4cea-a7c5-b3adc496a857,realestate.kaufen,premium,42.9,42.9,,44,11,namecheap,,
+31f5665b-581c-4804-9aeb-f9f9f487a8a7,realestate.kim,premium,5200,5200,,44,11,namecheap,,
+af9d55f4-2772-4ffc-8d2c-2c525e1b86ab,realestate.kitchen,available,83.98,,,44,11,namecheap,,
+63f5bcf6-c4c5-44a2-8858-1ee7a7ce5cde,realestate.la,premium,,,,44,11,,,
+58ab4d5b-07d9-4a5a-af33-474136871057,realestate.land,resell,,,,44,11,"Spaceship, Inc.",16/02/2014 19:48,16/02/2027 19:48
+0e3f65fa-2ac0-462c-b6bf-858bc21fa75a,realestate.lgbt,premium,2600,2600,,44,11,namecheap,,
+7efa581b-e92c-4b1c-8e62-d94e53091219,realestate.lifestyle,premium,650,1300,,44,11,namecheap,,
+41267a95-cf11-4b18-81e7-9b281569a300,realestate.lighting,available,31.98,,,44,11,namecheap,,
+9b6d7135-87ce-4fe5-8abc-ca5d37f7b476,realestate.limo,available,68.98,,,44,11,namecheap,,
+d577f4aa-e8c5-4dce-ad7e-f1ceba92ba92,realestate.link,resell,,,,44,11,Porkbun LLC,06/03/2019 08:55,06/03/2027 08:55
+94c25407-5106-46e0-860a-f958aa51666e,realestate.live,resell,,,,44,11,"GoDaddy.com, LLC",24/01/2021 15:03,24/01/2027 15:03
+cbf7c3f3-97c0-4dd1-bf35-75637ad81995,realestate.living,premium,650,1300,,44,11,namecheap,,
+fc22706e-1411-48fa-9e6f-6a2ed3c948f3,realestate.loan,premium,3250,130,,44,11,namecheap,,
+6c5ecfd3-eaf6-4873-b4ad-171debbe2fb4,realestate.locker,premium,1300,58.5,,44,11,namecheap,,
+9c22acbc-606c-463d-83e2-1dcba923d26c,realestate.ltda,premium,66.3,66.3,,44,11,namecheap,,
+7bc22858-66c3-4b50-9d53-0fc15010d46d,realestate.maison,premium,128.7,128.7,,44,11,namecheap,,
+c835886d-10cb-428f-8fa4-560783d5aae7,realestate.marketing,resell,,,,44,11,"Spaceship, Inc.",24/06/2020 13:24,24/06/2026 13:24
+0f5ac1c3-d012-4fdc-abbd-01bcdac5a6b9,realestate.me,resell,160871.2,26.99,,44,11,"Spaceship, Inc.",29/04/2008 18:02,29/04/2027 18:02
+d974e3ee-430e-45d4-97d0-951c31418dd8,realestate.melbourne,premium,8667.89,8667.89,,44,11,namecheap,,
+c61f8710-cf29-4192-8ab8-ab219e0d0d27,realestate.meme,premium,845,845,,44,11,namecheap,,
+cc9eea4e-baee-496d-a084-016e2fce3744,realestate.memorial,available,64.98,,,44,11,namecheap,,
+c0e166c3-2b7d-498e-8600-7e7ef3091f09,realestate.mobi,resell,,,,44,11,"Go China Domains, LLC",28/07/2013 03:25,28/07/2026 03:25
+8c370005-6b64-45c4-8873-5eb25a5bbe27,realestate.moda,available,45.98,,,44,11,namecheap,,
+a6521336-bdd4-4ce5-b449-a8f7d0fdb5bc,realestate.moe,premium,104,15.6,,44,11,namecheap,,
+709ab452-4ce1-43f0-ae3d-20296a2dcb01,realestate.mom,premium,2600,2600,,44,11,namecheap,,
+ae1e8f86-61d8-44b5-b314-c1d061ff0f4d,realestate.motorcycles,premium,845,15.73,,44,11,namecheap,,
+9c43e1fb-24e4-45c8-9d94-2682f89b5964,realestate.mov,premium,648.7,648.7,,44,11,namecheap,,
+126afcea-d87b-4a28-a03a-b10fc98d3aa5,realestate.mx,resell,,,,44,11,Registrar.eu,01/10/2018 00:00,01/10/2026 00:00
+1661b777-44b6-42c9-b9ea-88a52acacf0b,realestate.navy,premium,260,260,,44,11,namecheap,,
+242fe48c-7ccf-49e9-a523-9852866943e4,realestate.network,resell,,,,44,11,"GoDaddy.com, LLC",08/12/2014 18:42,08/12/2026 18:42
+edbc02a7-f241-427f-ad68-c1d7d4c3407a,realestate.news,premium,,,,44,11,,,
+2e14c42a-b636-458d-81cc-2ca1ab799b59,realestate.nexus,premium,648.7,648.7,,44,11,namecheap,,
+358e0f27-8027-4097-8146-8304a633031f,realestate.ngo,available,24.98,,,44,11,namecheap,,
+a288dd83-98f9-4564-ba8c-0270fe80aa1b,realestate.nyc,resell,,,,44,11,"GoDaddy.com, LLC",26/08/2016 20:41,02/11/2026 23:59
+c1d6baa8-12de-4f24-a34a-e3c68b1ef868,realestate.observer,premium,11700,11700,,44,11,namecheap,,
+9a6d33db-0189-466e-96c6-8a2594c504f4,realestate.ong,available,24.98,,,44,11,namecheap,,
+595ee7f7-e028-4bac-9641-3dc964c64e6d,realestate.online,premium,7812.5,31250,,44,11,name.com,,
+1b36961f-f6c6-4608-84d7-5d1fd6df71e5,realestate.organic,premium,,,,44,11,,,
+c7173944-a6c9-4615-9193-8dad192fb50d,realestate.party,resell,,,,44,11,Porkbun,19/07/2025 10:47,19/07/2026 10:47
+9dcbf24e-5277-483e-99ea-5557e1abb6b9,realestate.pet,resell,,,,44,11,IONOS SE,16/09/2024 10:32,16/09/2026 10:32
+f20b913f-37d0-45f2-9de3-a8187d29a0a2,realestate.phd,premium,843.7,843.7,,44,11,namecheap,,
+a077fa25-0a81-4d5d-9ccf-b5f6d081df87,realestate.pink,premium,,,,44,11,,,
+c6644d95-ab9f-4dd2-aa3f-313f4dd6eb8a,realestate.plumbing,premium,520,520,,44,11,namecheap,,
+aa6fc311-78d2-4153-9bc1-94c8ca6c1795,realestate.plus,resell,,,,44,11,"DNSPod, Inc.",15/09/2023 15:15,15/09/2026 15:15
+0c0f1a23-76cb-44f6-ba0e-5b9958f34c4b,realestate.productions,premium,128.7,128.7,,44,11,namecheap,,
+9498e8c3-bbe6-40e9-b7cf-affa6e7b0e0e,realestate.prof,premium,843.7,843.7,,44,11,namecheap,,
+c36eac0e-a979-4438-8ae0-5a264fe90a48,realestate.protection,available,2950,,,44,11,namecheap,,
+095a700a-d864-49d9-97a1-3a96ef7b80b5,realestate.pub,available,51.98,,,44,11,namecheap,,
+20f5c014-1e24-4964-92de-c46fde12ee83,realestate.pw,premium,1300,1300,,44,11,namecheap,,
+49e87ff9-2b52-4ab3-af9d-29494d5c234d,realestate.quest,premium,845,15.73,,44,11,namecheap,,
+896da391-f746-4eaa-810b-91f373beda35,realestate.racing,available,16.98,,,44,11,namecheap,,
+965eba4e-0e74-494f-a90f-e207bd14745c,realestate.realty,premium,8190,11700,,44,11,namecheap,,
+17819fc1-9a9f-41f9-9049-790cc0570e0f,realestate.recipes,available,95.98,,,44,11,namecheap,,
+6c08c3e8-511d-45d3-a82b-69f95cd446ac,realestate.red,resell,,,,44,11,"Spaceship, Inc.",19/09/2020 14:30,19/09/2026 14:30
+0309ff67-aad2-4f6e-9996-7ccf554634fa,realestate.rehab,premium,1300,1300,,44,11,namecheap,,
+919d643b-260e-40dd-907e-6fcd6adae46e,realestate.reise,available,127.98,,,44,11,namecheap,,
+e1eb41b5-fa10-42e4-b274-c1fc664f0278,realestate.reisen,available,28.98,,,44,11,namecheap,,
+f494f005-f054-47f4-b110-2d04365706f6,realestate.republican,available,43.98,,,44,11,namecheap,,
+4662579d-fd3f-4078-b018-97d5e7195e56,realestate.rest,premium,292.5,585,,44,11,namecheap,,
+52b7cc76-1328-40fe-9a8d-47ae9adf5d6d,realestate.restaurant,available,81.98,,,44,11,namecheap,,
+1a4d1ab4-0ba4-475a-9a8e-d508c875b6b5,realestate.review,premium,6500,130,,44,11,namecheap,,
+3a2c70e6-f087-49db-be21-43ddf7299edd,realestate.rsvp,premium,648.7,648.7,,44,11,namecheap,,
+3331a858-d2df-456f-9be9-e23f8dd72355,realestate.run,resell,,,,44,11,"DNSPod, Inc.",24/11/2019 09:05,24/11/2026 09:05
+a3544175-b328-4430-9cdb-e894de01f510,realestate.sarl,premium,42.9,42.9,,44,11,namecheap,,
+0c6771a1-0bfc-4d69-bd65-62a7071162b8,realestate.school,resell,,,,44,11,"GoDaddy.com, LLC",30/05/2015 16:00,30/05/2027 16:00
+7b93346c-36b0-43ce-8a9f-7be576572b55,realestate.schule,available,32.98,,,44,11,namecheap,,
+e24a6156-5b5e-474e-b8dd-4f709db50541,realestate.security,available,2950,,,44,11,namecheap,,
+806ac75a-ea9f-44be-b12f-839d7ed70a8f,realestate.sexy,available,3298,,,44,11,namecheap,,
+28e9094b-74b9-4237-bf7c-ca085021130b,realestate.shiksha,premium,2600,2600,,44,11,namecheap,,
+bfc48bd7-5dde-49a4-9bb2-39ffb042481c,realestate.shoes,available,81.98,,,44,11,namecheap,,
+76c08e5e-ee83-4091-ad29-e46333ad0286,realestate.shopping,premium,520,520,,44,11,namecheap,,
+41007c38-4f4c-4c3d-a578-1d584ec40b08,realestate.site,premium,3125,12500,,44,11,name.com,,
+3dbde2d4-39bf-4327-b89f-ffcd67773abc,realestate.ski,premium,135.2,135.2,,44,11,namecheap,,
+e6a801cd-0c4e-4a68-9240-73b51efa69e8,realestate.soccer,available,29.48,,,44,11,namecheap,,
+22aeb66a-9914-4026-8805-de3a3e2bcc4d,realestate.social,resell,,,,44,11,"Spaceship, Inc.",09/11/2023 15:15,09/11/2026 15:15
+548a3bd0-b82a-451d-a50b-0d496c827edd,realestate.soy,premium,698.1,698.1,,44,11,namecheap,,
+1d01bfe3-ebb3-4a2d-9a15-c64133569cb9,realestate.space,premium,1625,6500,,44,11,namecheap,,
+3f5eab95-3c85-41e5-9ea0-25480be09379,realestate.spot,premium,650,650,,44,11,namecheap,,
+e79c534f-28f7-4d24-99dc-0d629c25b41e,realestate.srl,premium,,,,44,11,,,
+b3b0564c-0140-4013-b71f-1da0e0161531,realestate.storage,available,858,,,44,11,namecheap,,
+e911211a-b408-411f-b707-518519931be7,realestate.store,premium,781.25,3125,,44,11,name.com,,
+ecac6eea-4035-4830-adbb-50c735ca8fad,realestate.study,premium,650,650,,44,11,namecheap,,
+07dbd8ab-45dd-42c2-8a15-641d59c678af,realestate.sucks,premium,13650,13650,,44,11,namecheap,,
+3e987129-9371-4296-ae0d-8bf1762eabce,realestate.supply,premium,85.8,85.8,,44,11,namecheap,,
+3bb23ddc-7f05-4690-a42e-d840e342206e,realestate.surgery,premium,128.7,128.7,,44,11,namecheap,,
+b4ec9cc7-ebdd-492a-a5e8-7ee67bb22254,realestate.sydney,premium,8667.89,8667.89,,44,11,namecheap,,
+a048fa01-f5e2-4552-aa83-43c6155bc806,realestate.tattoo,available,48.98,,,44,11,namecheap,,
+790339a4-fa9f-4eaa-9745-33ff881906e5,realestate.tax,resell,,,,44,11,"GoDaddy.com, LLC",26/02/2017 12:30,26/02/2027 12:30
+89239200-f54e-46e5-9101-87d29275aed7,realestate.taxi,available,69.98,,,44,11,namecheap,,
+208f1319-86ea-4197-ac3e-911f950f57b0,realestate.tennis,available,81.98,,,44,11,namecheap,,
+f098f97e-26de-4dfe-8fbb-0ae82186835f,realestate.theater,available,80.98,,,44,11,namecheap,,
+2388062e-6e61-4f40-9184-47b7059a50a3,realestate.theatre,available,620,,,44,11,namecheap,,
+624cf62d-f533-4083-80dd-a787adf7bb13,realestate.tickets,premium,1950,1950,,44,11,namecheap,,
+2ec581a3-e643-4048-8658-c97813e8c5bf,realestate.tienda,available,74.98,,,44,11,namecheap,,
+cb3ad74c-9847-4f05-b458-3cf8380bf599,realestate.tips,resell,,,,44,11,"NameCheap, Inc.",04/08/2025 15:15,04/08/2026 15:15
+82fc5cbb-f3d9-4c74-a633-1bdc149be698,realestate.tires,available,110.98,,,44,11,namecheap,,
+822aaa20-4213-4f04-bb12-b246bac8c258,realestate.to,resell,,,,44,11,humbly LLC,09/05/2020 02:27,13/05/2027 10:37
+1825558f-8fd1-4861-a106-cac4153a1d9c,realestate.top,resell,,,,44,11,阿里云计算有限公司,17/11/2014 16:09,17/11/2026 16:09
+23912f53-1239-4776-b1c1-78302bedc6f4,realestate.travel,available,186.98,,,44,11,namecheap,,
+4836d030-9246-4c43-a92e-4df8055e60f8,realestate.uno,premium,3250,3250,,44,11,namecheap,,
+b59e798a-e1aa-4b0e-9578-ae1ecc24f05f,realestate.vacations,premium,260,260,,44,11,namecheap,,
+29021e3c-4282-406f-835d-8c7823166a80,realestate.vana,available,2498,,,44,11,namecheap,,
+17efa2b0-6e8f-4ed2-b96e-46a86ffd1e38,realestate.vc,resell,,,,44,11,www.Names.plus,01/12/2021 01:08,01/12/2026 01:08
+2f993b6a-cd30-4d51-9176-87b5e66aa7da,realestate.vegas,resell,,,,44,11,Porkbun LLC,25/04/2025 00:28,25/04/2027 00:28
+5d4d4485-f678-4732-82fd-c301b1d06572,realestate.vet,premium,128.7,128.7,,44,11,namecheap,,
+1f0a855c-87c2-4836-abe2-7c4da23010d2,realestate.viajes,available,57.98,,,44,11,namecheap,,
+253199f9-f26f-455a-af2b-ab818652cb21,realestate.video,premium,3250,3250,,44,11,namecheap,,
+6064e490-f317-4d0e-b1f3-d4829a89e687,realestate.villas,premium,,,,44,11,,,
+a5e695fb-7b6b-4eea-8379-717ff7be8bdb,realestate.vin,available,75.98,,,44,11,namecheap,,
+0f31a584-2fc0-4bb1-a7d3-7d9c0b59390e,realestate.vip,resell,,,,44,11,Dynadot Inc,01/12/2021 11:02,01/12/2026 11:02
+d3a99451-25df-4220-a999-0ab9440fa695,realestate.vodka,available,38.98,,,44,11,namecheap,,
+6dd900ea-6ccc-473d-8f0f-b08a6ca6b208,realestate.vote,available,119.98,,,44,11,namecheap,,
+ed36a509-0480-40b8-80ca-4e85396e4e7f,realestate.voting,available,1448,,,44,11,namecheap,,
+27413cb6-41e2-46a9-8508-1163bd9023d2,realestate.voto,available,86.98,,,44,11,namecheap,,
+6b6e745a-ccad-4ed4-9dd0-8ec49db8ea18,realestate.voyage,available,73.98,,,44,11,namecheap,,
+1580900b-0232-412c-a63c-60807b6a6de0,realestate.watch,premium,520,520,,44,11,namecheap,,
+e290c4d7-ec26-464d-a6b3-8123bb126ca6,realestate.webcam,available,17.98,,,44,11,namecheap,,
+4f59c4f5-a4d9-4d4d-8839-4edbf9538ccb,realestate.wedding,available,41.98,,,44,11,namecheap,,
+c3fddb5e-b34c-4d21-9488-d005b4dd867b,realestate.yachts,premium,845,15.73,,44,11,namecheap,,
+8e020f4c-2788-4694-9f8e-ccbf8788cb9b,realestate.yoga,available,42.98,,,44,11,namecheap,,
+8b37beac-f3a9-455d-914f-ff1a6c49027b,realestate.you,premium,130,130,,44,11,namecheap,,
+c86e9a54-6c45-44ce-ae0f-552774be2d62,realestate.zip,premium,648.7,648.7,,44,11,namecheap,,
 71d05eec-ba88-443f-a2d0-b21329d9e284,realestate.casa,resell,,,,42,11,"GoDaddy.com, LLC",06/07/2022 18:16,06/07/2026 18:16
-cd8894b0-85fa-4dbc-9f19-6cc88199db5c,realestate.catering,premium,85.8,85.8,,42,11,namecheap,,
-663afe41-2668-458c-b9e5-9f70c7b2ab1b,realestate.cfd,premium,20.8,83.2,,42,11,namecheap,,
-197a7972-815e-49a9-94b5-33a990e9665a,realestate.charity,available,37.98,,,42,11,namecheap,,
-c01933b4-0a9a-4ee7-85d6-50b2748cadfa,realestate.city,resell,,,,42,11,"Spaceship, Inc.",21/10/2021 13:15,21/10/2026 13:15
-55668909-0998-4a65-a039-67c04ef971c8,realestate.claims,premium,520,520,,42,11,namecheap,,
-0a6117ae-547c-4ef0-905e-a2d24c227fc6,realestate.cleaning,premium,128.7,128.7,,42,11,namecheap,,
-bc98b825-e908-4690-ae59-2a35313722cc,realestate.clinic,premium,128.7,128.7,,42,11,namecheap,,
-027af504-6a54-41c5-a274-895d32f751ce,realestate.cloud,resell,,,,42,11,Synergy Wholesale Pty Ltd,23/02/2016 05:02,23/02/2027 05:02
-302bf435-e797-42aa-bb6c-66ed9b699b54,realestate.club,resell,,,,42,11,"GoDaddy.com, LLC",19/07/2019 21:38,19/07/2027 21:38
-2ae26c4d-84d4-4690-896d-9c199977a30d,realestate.co,resell,,,,42,11,Hello Internet Corp.,24/02/2010 23:31,23/02/2027 23:59
-a33747de-ef9b-4d34-ae7c-c00257816a54,realestate.codes,premium,,,,42,11,,,
-07d5ec6e-0e7e-42b7-bd7b-d26dbbcb76de,realestate.college,premium,650,650,,42,11,namecheap,,
-64344411-c0ee-44ef-8faa-44a3d44cc979,realestate.community,resell,,,,42,11,"GoDaddy.com, LLC",19/06/2014 02:25,19/06/2026 02:25
-7d67fe09-6a18-4881-bc74-5f0293c29f7d,realestate.company,resell,,,,42,11,"Name.com, Inc.",27/05/2021 13:16,27/05/2028 13:16
-49036f18-a6d1-4abc-83e9-e33e09f88cb4,realestate.condos,premium,520,520,,42,11,namecheap,,
-aad279c9-4161-4f08-a873-00e122e6926e,realestate.contractors,premium,85.8,85.8,,42,11,namecheap,,
-376afe68-8a72-4341-a924-2acefe769713,realestate.cooking,available,33.98,,,42,11,namecheap,,
-ae219071-b9c7-4a97-9b30-406cbfbdb7b2,realestate.cool,premium,520,520,,42,11,namecheap,,
-70fb2dda-3aa7-48f5-b3a1-1e31ca96f9c5,realestate.country,available,2450,,,42,11,namecheap,,
-03e54a59-a0e4-4a65-b914-5ea4d7475cee,realestate.creditcard,available,168.98,,,42,11,namecheap,,
-1ad6c898-0b1e-46ab-9112-91dbf747456d,realestate.cricket,available,31.98,,,42,11,namecheap,,
-c7512bc6-611e-4ff2-861e-2d1c08feb53e,realestate.cruises,available,68.98,,,42,11,namecheap,,
 cdc68ece-21e4-441b-87e9-124b0f488d10,realestate.cv,resell,14.98,,,42,11,Porkbun,20/12/2025 14:46,20/12/2026 14:46
-2fe20fd9-9f10-446d-9162-fe958179fd8a,realestate.cyou,resell,,,,42,11,Dynadot LLC,30/07/2025 15:56,30/07/2026 23:59
-61434809-89a4-4254-899b-0e3aa7712ae1,realestate.dad,premium,648.7,648.7,,42,11,namecheap,,
-2832df11-06bb-4ea2-b5e0-5a7f1f5154ee,realestate.date,resell,,,,42,11,Dynadot Inc,04/11/2025 19:00,04/11/2026 19:00
-2e155b36-70cc-4b05-8a35-35edb62a2536,realestate.dating,available,86.98,,,42,11,namecheap,,
-f1db525f-12df-4f1b-8674-87064a4268b3,realestate.day,premium,648.7,648.7,,42,11,namecheap,,
-544b58f8-9958-476b-ad8f-c678aebe9157,realestate.deal,premium,650,650,,42,11,namecheap,,
-b8add55b-6ef2-4a45-9b0d-4ae56b381988,realestate.dealer,available,2348,,,42,11,namecheap,,
-ca52345d-ff3b-40b1-bf36-82690ec1a0de,realestate.degree,premium,78,78,,42,11,namecheap,,
-b581d0d0-ab97-4e30-9e36-84d9731c9fab,realestate.democrat,available,41.48,,,42,11,namecheap,,
-e9969488-e82c-400a-a726-cbff3d2016fd,realestate.dental,available,59.98,,,42,11,namecheap,,
-7c707f65-c49c-453d-b627-07f1970828ee,realestate.dentist,premium,260,260,,42,11,namecheap,,
-bd1b1185-3311-46cb-9374-524e3418133b,realestate.dev,premium,1623.75,1623.75,,42,11,name.com,,
-669886d8-7430-4f7b-b8b6-c936c2e7fc7e,realestate.diet,premium,2600,2600,,42,11,namecheap,,
-cb449039-9506-4206-86a1-78057e2f20a4,realestate.dog,premium,520,520,,42,11,namecheap,,
-560c152c-362d-4f84-a0a0-3a3a89a36ac3,realestate.education,resell,,,,42,11,"GoDaddy.com, LLC",08/08/2018 23:39,08/08/2026 23:39
-ae79c8fd-f661-4a7a-8da6-88b59d6c6e2d,realestate.engineer,premium,78,78,,42,11,namecheap,,
-b1be9c46-3e99-4d31-9c11-59de7bd00d2f,realestate.enterprises,resell,,,,42,11,Porkbun LLC,03/01/2025 17:13,03/01/2027 17:13
-dbb996f2-b203-40d0-a824-3790e672130a,realestate.equipment,available,32.98,,,42,11,namecheap,,
-77cacc32-9416-4b50-9300-c10e41a38b67,realestate.estate,resell,,,,42,11,"Sav.com, LLC - 15",27/11/2025 15:15,27/11/2026 15:15
-af4e2493-443f-4e20-b955-e844b9f0334d,realestate.exposed,premium,128.7,128.7,,42,11,namecheap,,
-4e320b1a-9e6e-462f-91dd-b5672a847d3b,realestate.fail,premium,85.8,85.8,,42,11,namecheap,,
-9e3787a4-1278-4de1-b491-fb4a3b8645dc,realestate.faith,available,16.98,,,42,11,namecheap,,
-6c34b7b7-0a01-40ce-a640-f8d3d37f5cc0,realestate.family,premium,260,260,,42,11,namecheap,,
-648b30a7-25e5-4fee-a2bd-d9f917ab9f8d,realestate.fan,premium,260,260,,42,11,namecheap,,
-24d38712-a72d-434a-afd3-d4a45dbb5527,realestate.finance,resell,,,,42,11,"GoDaddy.com, LLC",20/07/2016 06:11,20/07/2026 06:11
-338ab416-07c6-40c8-b99c-125cbc1d6a27,realestate.fishing,premium,52,52,,42,11,namecheap,,
-1ad6c5fd-cb00-4c75-80fa-fe3a31b7be95,realestate.fit,premium,52,31.2,,42,11,namecheap,,
-40b76c44-b3ca-4ad4-bf57-e8de89dbd38d,realestate.fitness,premium,42.9,42.9,,42,11,namecheap,,
-18af1b1b-b42b-452e-9922-f307ab2a6510,realestate.flights,premium,128.7,128.7,,42,11,namecheap,,
-095eb4d6-1e83-4c89-b0ec-577ad32fe40a,realestate.florist,available,41.98,,,42,11,namecheap,,
-33521fc6-5f6c-42de-b337-8b00c820d8b8,realestate.flowers,available,159.98,,,42,11,namecheap,,
-abbef294-d90b-4d39-8277-9a2c83b19027,realestate.foo,premium,648.7,648.7,,42,11,namecheap,,
-ea5897ac-33e6-4318-aa0b-4bdd085d3d11,realestate.food,premium,650,1300,,42,11,namecheap,,
-e49c32e3-122c-4b52-b906-e42cddb9cf1a,realestate.football,available,36.98,,,42,11,namecheap,,
-303aeb22-41d6-44d1-bb3c-55b523914ad8,realestate.free,premium,130,130,,42,11,namecheap,,
-2215bbaa-28ce-488c-8686-594736a74fe7,realestate.fun,premium,1625,6500,,42,11,namecheap,,
-4adf33b3-dd2e-4345-ab77-0ca1fa64a5aa,realestate.furniture,premium,128.7,128.7,,42,11,namecheap,,
-19fdce1e-5a8a-42dd-9d1d-ecd62e31551e,realestate.futbol,available,21.98,,,42,11,namecheap,,
-bcd1bf06-09c0-4757-9f61-51d13054190a,realestate.garden,premium,,,,42,11,,,
-8fd4eec7-bfa3-4089-972b-7e837114e25e,realestate.gay,premium,780,780,,42,11,namecheap,,
-c43135f4-5556-4320-bbf3-b6ce7a162573,realestate.glass,premium,520,520,,42,11,namecheap,,
-dc6b563f-9171-4b22-88f2-19dbe9032559,realestate.global,resell,,,,42,11,"Sav.com, LLC - 24",09/11/2024 15:16,09/11/2026 15:16
-6246789b-0135-4060-9f27-40fc4109250d,realestate.golf,premium,260,260,,42,11,namecheap,,
-6969c7d5-dcdb-4a4f-a51e-78fd666a68b9,realestate.gratis,available,31.98,,,42,11,namecheap,,
-540cec18-174d-4bf0-948a-2c3ec6d8681b,realestate.green,resell,,,,42,11,"GoDaddy.com, LLC",08/08/2021 09:11,08/08/2026 09:11
-51dbe408-4743-4093-94c1-605178851ba2,realestate.gripe,premium,42.9,42.9,,42,11,namecheap,,
-93989d49-b501-4263-9c5a-2ed23c6bbcca,realestate.guitars,premium,2600,2600,,42,11,namecheap,,
-9aa87fab-d19f-46ac-b1fb-040e4ae27e85,realestate.hair,available,19.98,,,42,11,namecheap,,
-2a7e12ff-545c-4cc4-a577-754dc8ad7d6d,realestate.haus,resell,,,,42,11,"Global Domains International, Inc. DBA DomainCostClub.com",17/03/2016 15:09,17/03/2027 15:09
-2fc4986c-f93c-4d7a-90eb-11fbe7c9ee6d,realestate.health,premium,1300,71.5,,42,11,namecheap,,
-2501ff31-8bfc-4e7a-8efe-28ca1633701a,realestate.healthcare,available,111.98,,,42,11,namecheap,,
-bed094c0-050c-4698-a477-59acf159bece,realestate.hiv,premium,,,,42,11,,,
-a6e2ae99-d962-4229-ba24-957ebaa6fd0a,realestate.hockey,available,72.98,,,42,11,namecheap,,
-5d76d4db-9d82-471e-a6ec-ce66571fc2a4,realestate.holiday,available,81.98,,,42,11,namecheap,,
-fa6e8c2b-2535-46ee-b061-da21f61fa744,realestate.horse,premium,260,31.2,,42,11,namecheap,,
-b917776c-98af-42e3-b2ec-e91b1c7e1af9,realestate.hospital,available,71.98,,,42,11,namecheap,,
-4d3f6b8b-3cb5-4ab8-9444-66611c081ef7,realestate.hosting,premium,1690,1690,,42,11,namecheap,,
-64204722-cd58-42ca-8509-9236989079e7,realestate.hot,resell,,,,42,11,"Dynadot, LLC",27/07/2025 13:23,27/07/2026 13:23
-b8592295-8dab-4a1d-87d1-4e3a23d812f5,realestate.industries,premium,128.7,128.7,,42,11,namecheap,,
-8dbb63cf-9904-4727-8536-ea9396e79766,realestate.irish,available,31.98,,,42,11,namecheap,,
-eb17757c-71d5-4853-9b15-9922a1e7aee0,realestate.jetzt,available,30.48,,,42,11,namecheap,,
-6ab31dfa-d4f8-4a5b-9cbe-6b3cb49150b3,realestate.jewelry,available,69.98,,,42,11,namecheap,,
-d3705e1a-1589-49c1-a4a4-f134777fedc1,realestate.juegos,available,478.98,,,42,11,namecheap,,
-7a2784fc-25de-4cea-a7c5-b3adc496a857,realestate.kaufen,premium,42.9,42.9,,42,11,namecheap,,
-31f5665b-581c-4804-9aeb-f9f9f487a8a7,realestate.kim,premium,5200,5200,,42,11,namecheap,,
-af9d55f4-2772-4ffc-8d2c-2c525e1b86ab,realestate.kitchen,available,83.98,,,42,11,namecheap,,
-63f5bcf6-c4c5-44a2-8858-1ee7a7ce5cde,realestate.la,resell,,,,42,11,Uniregistrar Corp,20/11/2000 01:00,04/08/2026 23:59
-58ab4d5b-07d9-4a5a-af33-474136871057,realestate.land,resell,,,,42,11,"Spaceship, Inc.",16/02/2014 19:48,16/02/2027 19:48
-0e3f65fa-2ac0-462c-b6bf-858bc21fa75a,realestate.lgbt,premium,2600,2600,,42,11,namecheap,,
-7efa581b-e92c-4b1c-8e62-d94e53091219,realestate.lifestyle,premium,650,1300,,42,11,namecheap,,
-41267a95-cf11-4b18-81e7-9b281569a300,realestate.lighting,available,31.98,,,42,11,namecheap,,
-9b6d7135-87ce-4fe5-8abc-ca5d37f7b476,realestate.limo,available,68.98,,,42,11,namecheap,,
-d577f4aa-e8c5-4dce-ad7e-f1ceba92ba92,realestate.link,resell,,,,42,11,Porkbun LLC,06/03/2019 08:55,06/03/2027 08:55
-94c25407-5106-46e0-860a-f958aa51666e,realestate.live,resell,,,,42,11,"GoDaddy.com, LLC",24/01/2021 15:03,24/01/2027 15:03
-cbf7c3f3-97c0-4dd1-bf35-75637ad81995,realestate.living,premium,650,1300,,42,11,namecheap,,
-fc22706e-1411-48fa-9e6f-6a2ed3c948f3,realestate.loan,premium,3250,130,,42,11,namecheap,,
-6c5ecfd3-eaf6-4873-b4ad-171debbe2fb4,realestate.locker,premium,1300,58.5,,42,11,namecheap,,
-9c22acbc-606c-463d-83e2-1dcba923d26c,realestate.ltda,premium,66.3,66.3,,42,11,namecheap,,
-7bc22858-66c3-4b50-9d53-0fc15010d46d,realestate.maison,premium,128.7,128.7,,42,11,namecheap,,
-c835886d-10cb-428f-8fa4-560783d5aae7,realestate.marketing,resell,,,,42,11,"Spaceship, Inc.",24/06/2020 13:24,24/06/2026 13:24
-d974e3ee-430e-45d4-97d0-951c31418dd8,realestate.melbourne,premium,8667.89,8667.89,,42,11,namecheap,,
-c61f8710-cf29-4192-8ab8-ab219e0d0d27,realestate.meme,premium,845,845,,42,11,namecheap,,
-cc9eea4e-baee-496d-a084-016e2fce3744,realestate.memorial,available,64.98,,,42,11,namecheap,,
-c0e166c3-2b7d-498e-8600-7e7ef3091f09,realestate.mobi,resell,,,,42,11,"Go China Domains, LLC",28/07/2013 03:25,28/07/2026 03:25
-8c370005-6b64-45c4-8873-5eb25a5bbe27,realestate.moda,available,45.98,,,42,11,namecheap,,
-a6521336-bdd4-4ce5-b449-a8f7d0fdb5bc,realestate.moe,premium,104,15.6,,42,11,namecheap,,
-709ab452-4ce1-43f0-ae3d-20296a2dcb01,realestate.mom,premium,2600,2600,,42,11,namecheap,,
-ae1e8f86-61d8-44b5-b314-c1d061ff0f4d,realestate.motorcycles,premium,845,15.73,,42,11,namecheap,,
-9c43e1fb-24e4-45c8-9d94-2682f89b5964,realestate.mov,premium,648.7,648.7,,42,11,namecheap,,
-126afcea-d87b-4a28-a03a-b10fc98d3aa5,realestate.mx,resell,,,,42,11,Registrar.eu,01/10/2018 00:00,01/10/2026 00:00
-1661b777-44b6-42c9-b9ea-88a52acacf0b,realestate.navy,premium,260,260,,42,11,namecheap,,
-242fe48c-7ccf-49e9-a523-9852866943e4,realestate.network,resell,,,,42,11,"GoDaddy.com, LLC",08/12/2014 18:42,08/12/2026 18:42
-edbc02a7-f241-427f-ad68-c1d7d4c3407a,realestate.news,premium,,,,42,11,,,
-2e14c42a-b636-458d-81cc-2ca1ab799b59,realestate.nexus,premium,648.7,648.7,,42,11,namecheap,,
-358e0f27-8027-4097-8146-8304a633031f,realestate.ngo,available,24.98,,,42,11,namecheap,,
-a288dd83-98f9-4564-ba8c-0270fe80aa1b,realestate.nyc,resell,,,,42,11,"GoDaddy.com, LLC",26/08/2016 20:41,02/11/2026 23:59
-c1d6baa8-12de-4f24-a34a-e3c68b1ef868,realestate.observer,premium,11700,11700,,42,11,namecheap,,
-9a6d33db-0189-466e-96c6-8a2594c504f4,realestate.ong,available,24.98,,,42,11,namecheap,,
-595ee7f7-e028-4bac-9641-3dc964c64e6d,realestate.online,premium,7812.5,31250,,42,11,name.com,,
-1b36961f-f6c6-4608-84d7-5d1fd6df71e5,realestate.organic,premium,,,,42,11,,,
-c7173944-a6c9-4615-9193-8dad192fb50d,realestate.party,resell,,,,42,11,Porkbun,19/07/2025 10:47,19/07/2026 10:47
-9dcbf24e-5277-483e-99ea-5557e1abb6b9,realestate.pet,resell,,,,42,11,IONOS SE,16/09/2024 10:32,16/09/2026 10:32
-f20b913f-37d0-45f2-9de3-a8187d29a0a2,realestate.phd,premium,843.7,843.7,,42,11,namecheap,,
-b9d9d31f-03ac-49b7-a309-7673c0d692a2,realestate.pictures,resell,,,,42,11,"GoDaddy.com, LLC",10/06/2022 15:46,10/06/2026 15:46
-a077fa25-0a81-4d5d-9ccf-b5f6d081df87,realestate.pink,premium,,,,42,11,,,
-c6644d95-ab9f-4dd2-aa3f-313f4dd6eb8a,realestate.plumbing,premium,520,520,,42,11,namecheap,,
-aa6fc311-78d2-4153-9bc1-94c8ca6c1795,realestate.plus,resell,,,,42,11,"DNSPod, Inc.",15/09/2023 15:15,15/09/2026 15:15
-0c0f1a23-76cb-44f6-ba0e-5b9958f34c4b,realestate.productions,premium,128.7,128.7,,42,11,namecheap,,
-9498e8c3-bbe6-40e9-b7cf-affa6e7b0e0e,realestate.prof,premium,843.7,843.7,,42,11,namecheap,,
-c36eac0e-a979-4438-8ae0-5a264fe90a48,realestate.protection,available,2950,,,42,11,namecheap,,
-095a700a-d864-49d9-97a1-3a96ef7b80b5,realestate.pub,available,51.98,,,42,11,namecheap,,
-20f5c014-1e24-4964-92de-c46fde12ee83,realestate.pw,premium,1300,1300,,42,11,namecheap,,
-49e87ff9-2b52-4ab3-af9d-29494d5c234d,realestate.quest,premium,845,15.73,,42,11,namecheap,,
-896da391-f746-4eaa-810b-91f373beda35,realestate.racing,available,16.98,,,42,11,namecheap,,
-965eba4e-0e74-494f-a90f-e207bd14745c,realestate.realty,premium,8190,11700,,42,11,namecheap,,
-17819fc1-9a9f-41f9-9049-790cc0570e0f,realestate.recipes,available,95.98,,,42,11,namecheap,,
-6c08c3e8-511d-45d3-a82b-69f95cd446ac,realestate.red,resell,,,,42,11,"Spaceship, Inc.",19/09/2020 14:30,19/09/2026 14:30
-0309ff67-aad2-4f6e-9996-7ccf554634fa,realestate.rehab,premium,1300,1300,,42,11,namecheap,,
-919d643b-260e-40dd-907e-6fcd6adae46e,realestate.reise,available,127.98,,,42,11,namecheap,,
-e1eb41b5-fa10-42e4-b274-c1fc664f0278,realestate.reisen,available,28.98,,,42,11,namecheap,,
-f494f005-f054-47f4-b110-2d04365706f6,realestate.republican,available,43.98,,,42,11,namecheap,,
-4662579d-fd3f-4078-b018-97d5e7195e56,realestate.rest,premium,292.5,585,,42,11,namecheap,,
-52b7cc76-1328-40fe-9a8d-47ae9adf5d6d,realestate.restaurant,available,81.98,,,42,11,namecheap,,
-1a4d1ab4-0ba4-475a-9a8e-d508c875b6b5,realestate.review,premium,6500,130,,42,11,namecheap,,
-3a2c70e6-f087-49db-be21-43ddf7299edd,realestate.rsvp,premium,648.7,648.7,,42,11,namecheap,,
-3331a858-d2df-456f-9be9-e23f8dd72355,realestate.run,resell,,,,42,11,"DNSPod, Inc.",24/11/2019 09:05,24/11/2026 09:05
-a3544175-b328-4430-9cdb-e894de01f510,realestate.sarl,premium,42.9,42.9,,42,11,namecheap,,
-0c6771a1-0bfc-4d69-bd65-62a7071162b8,realestate.school,resell,,,,42,11,"GoDaddy.com, LLC",30/05/2015 16:00,30/05/2027 16:00
-7b93346c-36b0-43ce-8a9f-7be576572b55,realestate.schule,available,32.98,,,42,11,namecheap,,
-e24a6156-5b5e-474e-b8dd-4f709db50541,realestate.security,available,2950,,,42,11,namecheap,,
-806ac75a-ea9f-44be-b12f-839d7ed70a8f,realestate.sexy,available,3298,,,42,11,namecheap,,
-28e9094b-74b9-4237-bf7c-ca085021130b,realestate.shiksha,premium,2600,2600,,42,11,namecheap,,
-bfc48bd7-5dde-49a4-9bb2-39ffb042481c,realestate.shoes,available,81.98,,,42,11,namecheap,,
-76c08e5e-ee83-4091-ad29-e46333ad0286,realestate.shopping,premium,520,520,,42,11,namecheap,,
-41007c38-4f4c-4c3d-a578-1d584ec40b08,realestate.site,premium,3125,12500,,42,11,name.com,,
-3dbde2d4-39bf-4327-b89f-ffcd67773abc,realestate.ski,premium,135.2,135.2,,42,11,namecheap,,
-e6a801cd-0c4e-4a68-9240-73b51efa69e8,realestate.soccer,available,29.48,,,42,11,namecheap,,
-22aeb66a-9914-4026-8805-de3a3e2bcc4d,realestate.social,resell,,,,42,11,"Spaceship, Inc.",09/11/2023 15:15,09/11/2026 15:15
-548a3bd0-b82a-451d-a50b-0d496c827edd,realestate.soy,premium,698.1,698.1,,42,11,namecheap,,
-1d01bfe3-ebb3-4a2d-9a15-c64133569cb9,realestate.space,premium,1625,6500,,42,11,namecheap,,
-3f5eab95-3c85-41e5-9ea0-25480be09379,realestate.spot,premium,650,650,,42,11,namecheap,,
-e79c534f-28f7-4d24-99dc-0d629c25b41e,realestate.srl,premium,,,,42,11,,,
-b3b0564c-0140-4013-b71f-1da0e0161531,realestate.storage,available,858,,,42,11,namecheap,,
-e911211a-b408-411f-b707-518519931be7,realestate.store,premium,781.25,3125,,42,11,name.com,,
-ecac6eea-4035-4830-adbb-50c735ca8fad,realestate.study,premium,650,650,,42,11,namecheap,,
-07dbd8ab-45dd-42c2-8a15-641d59c678af,realestate.sucks,premium,13650,13650,,42,11,namecheap,,
-3e987129-9371-4296-ae0d-8bf1762eabce,realestate.supply,premium,85.8,85.8,,42,11,namecheap,,
-3bb23ddc-7f05-4690-a42e-d840e342206e,realestate.surgery,premium,128.7,128.7,,42,11,namecheap,,
-b4ec9cc7-ebdd-492a-a5e8-7ee67bb22254,realestate.sydney,premium,8667.89,8667.89,,42,11,namecheap,,
-a048fa01-f5e2-4552-aa83-43c6155bc806,realestate.tattoo,available,48.98,,,42,11,namecheap,,
-790339a4-fa9f-4eaa-9745-33ff881906e5,realestate.tax,resell,,,,42,11,"GoDaddy.com, LLC",26/02/2017 12:30,26/02/2027 12:30
-89239200-f54e-46e5-9101-87d29275aed7,realestate.taxi,available,69.98,,,42,11,namecheap,,
-208f1319-86ea-4197-ac3e-911f950f57b0,realestate.tennis,available,81.98,,,42,11,namecheap,,
-f098f97e-26de-4dfe-8fbb-0ae82186835f,realestate.theater,available,80.98,,,42,11,namecheap,,
-2388062e-6e61-4f40-9184-47b7059a50a3,realestate.theatre,available,620,,,42,11,namecheap,,
-624cf62d-f533-4083-80dd-a787adf7bb13,realestate.tickets,premium,1950,1950,,42,11,namecheap,,
-2ec581a3-e643-4048-8658-c97813e8c5bf,realestate.tienda,available,74.98,,,42,11,namecheap,,
-cb3ad74c-9847-4f05-b458-3cf8380bf599,realestate.tips,resell,,,,42,11,"NameCheap, Inc.",04/08/2025 15:15,04/08/2026 15:15
-82fc5cbb-f3d9-4c74-a633-1bdc149be698,realestate.tires,available,110.98,,,42,11,namecheap,,
-1825558f-8fd1-4861-a106-cac4153a1d9c,realestate.top,resell,,,,42,11,阿里云计算有限公司,17/11/2014 16:09,17/11/2026 16:09
-23912f53-1239-4776-b1c1-78302bedc6f4,realestate.travel,available,186.98,,,42,11,namecheap,,
-4836d030-9246-4c43-a92e-4df8055e60f8,realestate.uno,premium,3250,3250,,42,11,namecheap,,
-b59e798a-e1aa-4b0e-9578-ae1ecc24f05f,realestate.vacations,premium,260,260,,42,11,namecheap,,
-29021e3c-4282-406f-835d-8c7823166a80,realestate.vana,available,2498,,,42,11,namecheap,,
-17efa2b0-6e8f-4ed2-b96e-46a86ffd1e38,realestate.vc,resell,,,,42,11,www.Names.plus,01/12/2021 01:08,01/12/2026 01:08
-5d4d4485-f678-4732-82fd-c301b1d06572,realestate.vet,premium,128.7,128.7,,42,11,namecheap,,
-1f0a855c-87c2-4836-abe2-7c4da23010d2,realestate.viajes,available,57.98,,,42,11,namecheap,,
-253199f9-f26f-455a-af2b-ab818652cb21,realestate.video,premium,3250,3250,,42,11,namecheap,,
-6064e490-f317-4d0e-b1f3-d4829a89e687,realestate.villas,premium,,,,42,11,,,
-a5e695fb-7b6b-4eea-8379-717ff7be8bdb,realestate.vin,available,75.98,,,42,11,namecheap,,
-0f31a584-2fc0-4bb1-a7d3-7d9c0b59390e,realestate.vip,resell,,,,42,11,Dynadot Inc,01/12/2021 11:02,01/12/2026 11:02
-d3a99451-25df-4220-a999-0ab9440fa695,realestate.vodka,available,38.98,,,42,11,namecheap,,
-6dd900ea-6ccc-473d-8f0f-b08a6ca6b208,realestate.vote,available,119.98,,,42,11,namecheap,,
-ed36a509-0480-40b8-80ca-4e85396e4e7f,realestate.voting,available,1448,,,42,11,namecheap,,
-27413cb6-41e2-46a9-8508-1163bd9023d2,realestate.voto,available,86.98,,,42,11,namecheap,,
-6b6e745a-ccad-4ed4-9dd0-8ec49db8ea18,realestate.voyage,available,73.98,,,42,11,namecheap,,
-1580900b-0232-412c-a63c-60807b6a6de0,realestate.watch,premium,520,520,,42,11,namecheap,,
-e290c4d7-ec26-464d-a6b3-8123bb126ca6,realestate.webcam,available,17.98,,,42,11,namecheap,,
-4f59c4f5-a4d9-4d4d-8839-4edbf9538ccb,realestate.wedding,available,41.98,,,42,11,namecheap,,
-c3fddb5e-b34c-4d21-9488-d005b4dd867b,realestate.yachts,premium,845,15.73,,42,11,namecheap,,
-8e020f4c-2788-4694-9f8e-ccbf8788cb9b,realestate.yoga,available,42.98,,,42,11,namecheap,,
-8b37beac-f3a9-455d-914f-ff1a6c49027b,realestate.you,premium,130,130,,42,11,namecheap,,
-c86e9a54-6c45-44ce-ae0f-552774be2d62,realestate.zip,premium,648.7,648.7,,42,11,namecheap,,
 2f0e3ff7-c32e-4001-b07b-96251ef327f1,realestate.accountant,premium,,,,40,11,,,
 cd8302dc-313a-41d4-924d-194f314c2784,realestate.at,premium,,,,40,11,,,
 e3d87443-17ae-4c79-b7c8-75a1a32fd803,realestate.baby,resell,,,,40,11,Dynadot LLC,19/03/2025 15:13,19/03/2026 23:59
@@ -891,16 +900,12 @@ f46e60db-234b-4a18-b34c-fa451752db4d,realestate.coffee,available,47.98,,,40,11,n
 bfc452e6-fc2d-4cae-8fa1-d45261940e24,realestate.courses,premium,650,650,,40,11,namecheap,,
 b0fdc6db-8034-4005-82cd-7c6be357acb2,realestate.dance,available,36.98,,,40,11,namecheap,,
 d93bac3b-0ede-4d24-a9b3-2967bb41da84,realestate.diy,premium,650,1300,,40,11,namecheap,,
-5c599591-1774-4f10-a37b-f723477de305,realestate.fans,resell,,,,40,11,"Spaceship, Inc.",20/03/2025 13:06,20/03/2026 23:59
 b29fcb71-5c45-4928-8c98-b40e3d15eba0,realestate.film,available,97.98,,,40,11,namecheap,,
 d418a53e-def6-457a-a5da-29243d65e348,realestate.gg,resell,,,,40,11,Sav.com LLC (https://www.sav.com),,
 4c4cb287-fe9e-4eac-bb92-17cc063739aa,realestate.giving,premium,,,,40,11,,,
-a622d55a-ce1c-49fe-a6cf-50d6b03c0347,realestate.guru,resell,,,,40,11,"GoDaddy.com, LLC",28/01/2014 01:06,28/01/2026 01:06
 1d9ed83b-bdda-41aa-8f10-cfc123951e38,realestate.hiphop,available,33.98,,,40,11,namecheap,,
 208e57bd-a951-4dcd-98da-fba65f19abe1,realestate.homes,resell,,,,40,11,"Global Domains International, Inc.",20/09/2019 14:54,20/09/2026 23:59
-64dd5aa8-997d-4587-a880-6041e004c5af,realestate.icu,resell,,,,40,11,"Global Domains International, Inc.",26/03/2022 15:17,26/03/2026 23:59
 7b89b847-42fe-4f18-9907-7a37f96b81fc,realestate.im,premium,,,,40,11,,,
-dc7f2117-c2b9-44b0-93e9-909a9266feac,realestate.institute,resell,,,,40,11,Porkbun LLC,18/03/2025 19:10,18/03/2026 19:10
 56c77a51-440c-4766-90f8-dcbe20e95abd,realestate.lat,resell,,,,40,11,"Spaceship, Inc.",02/09/2025 12:42,02/09/2026 23:59
 acfdebf7-5f18-48c4-a156-9c214c4930b6,realestate.market,premium,,,,40,11,,,
 4edd1a81-70db-4c0c-8dc5-3907ca68481a,realestate.menu,premium,,,,40,11,,,
@@ -994,8 +999,3 @@ fe821862-3a59-4ce9-a3d2-ccede79f1e5e,land.cooking,available,33.98,,62,35,4,namec
 aa6ceeab-8fa1-449d-b3d0-382dd78b4a59,land.cool,premium,520,520,62,35,4,namecheap,,
 b6fcbfb7-a701-42e4-a14e-3d88b049f1c3,land.country,available,2450,,62,35,4,namecheap,,
 82d2fa2f-ab7c-46f9-99c7-aa67850db2ea,land.coupons,resell,,,62,35,4,"Spaceship, Inc.",24/07/2025 11:30,24/07/2026 11:30
-c9420645-2be8-4dc2-a191-39b2ee100961,land.courses,available,44.98,,62,35,4,namecheap,,
-a82ca33b-5415-4fa9-bffb-488f1caeddf2,land.credit,premium,,,62,35,4,,,
-9891feac-f18d-47c9-ad4a-4f8b22c4d213,land.creditcard,available,168.98,,62,35,4,namecheap,,
-26cfa363-83c2-40fb-ac57-1922fdc220ec,land.cricket,premium,130,32.5,62,35,4,namecheap,,
-77b7407a-25dd-4255-a430-c9c9db412715,land.cruises,premium,260,260,62,35,4,namecheap,,
