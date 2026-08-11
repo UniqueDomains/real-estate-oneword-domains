@@ -1,10 +1,10 @@
-# One-Word Real Estate Domain Names (110,819)
+# One-Word Real Estate Domain Names (111,811)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-110%2C819%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-111%2C811%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This set covers 110,670 one-word domain names linked to real estate, across 506 TLDs. Median ask is $818.81. Updated daily, it spans mainstream and niche extensions suited for property, listing, and land-focused brands.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **110,819 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **111,811 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 110,819 domains · **Median ask:** $809.58 · **High-demand under $2,500:** 359
+**Public extract:** 1,000 rows · **Live catalog:** 111,811 domains · **Median ask:** $799.37 · **High-demand under $2,500:** 359
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
-| let.berlin      | available | $89.98    | —             | high           | low    | 3      | namecheap                   |
-| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC               |
-| fees.art        | premium   | $131.20   | $83.30        | medium         | low    | 4      | namesilo                    |
-| fees.actor      | available | $19.99    | —             | medium         | low    | 4      | name.com                    |
-| debt.law        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC            |
-| fees.bid        | premium   | $6,250    | —             | medium         | low    | 4      | name.com                    |
-| fees.apartments | available | $19.99    | —             | medium         | low    | 4      | name.com                    |
-| fees.bot        | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                 |
-| fees.care       | premium   | $140      | $280          | medium         | low    | 4      | namecheap                   |
-| fees.asia       | available | $2.59     | $13.49        | medium         | low    | 4      | namesilo                    |
-| fees.co         | resell    | —         | —             | medium         | low    | 4      | Dynadot3 LLC                |
-| fees.cash       | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                    |
-| fees.bar        | available | $3.49     | $54.99        | medium         | low    | 4      | namesilo                    |
-| fees.com        | resell    | —         | —             | medium         | low    | 4      | BigRock Solutions Ltd       |
-| fees.cfd        | premium   | $22.40    | $44.80        | medium         | low    | 4      | namecheap                   |
-| fees.beauty     | available | $1.65     | $15.75        | medium         | low    | 4      | namesilo                    |
-| fees.money      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.             |
-| fees.click      | premium   | $87.50    | —             | medium         | low    | 4      | name.com                    |
-| fees.boats      | available | $1.99     | $15.75        | medium         | low    | 4      | namesilo                    |
-| fees.net        | resell    | —         | —             | medium         | low    | 4      | Moniker Online Services LLC |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| fees.accountants | available | $43.99    | —             | medium         | low    | 4      | name.com                    |
+| city.apartments  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                 |
+| fees.attorney    | premium   | $1,107    | $1,107        | medium         | low    | 4      | namesilo                    |
+| fees.apartments  | available | $19.99    | —             | medium         | low    | 4      | name.com                    |
+| fees.bot         | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                 |
+| fees.cfd         | premium   | $22.40    | $44.80        | medium         | low    | 4      | namecheap                   |
+| fees.bargains    | available | $21.99    | —             | medium         | low    | 4      | name.com                    |
+| fees.co          | resell    | —         | —             | medium         | low    | 4      | Dynadot3 LLC                |
+| fees.click       | premium   | $87.50    | —             | medium         | low    | 4      | name.com                    |
+| fees.beauty      | available | $1.65     | $15.75        | medium         | low    | 4      | namesilo                    |
+| fees.com         | resell    | —         | —             | medium         | low    | 4      | BigRock Solutions Ltd       |
+| fees.cyou        | premium   | $19.60    | $39.20        | medium         | low    | 4      | namecheap                   |
+| fees.bet         | available | $14.99    | —             | medium         | low    | 4      | name.com                    |
+| fees.money       | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.             |
+| fees.dentist     | premium   | $500      | —             | medium         | low    | 4      | name.com                    |
+| fees.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo                    |
+| fees.net         | resell    | —         | —             | medium         | low    | 4      | Moniker Online Services LLC |
+| fees.fans        | premium   | $70       | $140          | medium         | low    | 4      | namecheap                   |
+| fees.broker      | available | $19.99    | —             | medium         | low    | 4      | name.com                    |
+| home.directory   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 110,819 live domains                       |
+| 1,000-row public sample | 111,811 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 359 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Real Estate Domain Names*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Real Estate Domain Names*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
