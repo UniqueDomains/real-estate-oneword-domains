@@ -1,10 +1,10 @@
-# One-Word Real Estate Domain Names (114,788)
+# One-Word Real Estate Domain Names (115,212)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-114%2C788%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-115%2C212%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set covers 110,670 one-word domain names linked to real estate, across 506 TLDs. Median ask is $818.81. Updated daily, it spans mainstream and niche extensions suited for property, listing, and land-focused brands.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **114,788 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **115,212 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 114,788 domains · **Median ask:** $779.11 · **High-demand under $2,500:** 359
+**Public extract:** 1,000 rows · **Live catalog:** 115,212 domains · **Median ask:** $776.39 · **High-demand under $2,500:** 359
 
 **Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| room.management   | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                  |
-| possession.maison | available | $19.99      | —             | high           | low    | 10     | name.com                                     |
-| let.estate        | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
-| flat.technology   | resell    | $17.99      | $41.99        | high           | low    | 4      | Spaceship, Inc.                              |
-| let.apartments    | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| let.house         | available | $27.99      | —             | high           | low    | 3      | name.com                                     |
-| room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                             |
-| let.casa          | premium   | $96         | $11.80        | high           | low    | 3      | namesilo                                     |
-| let.immo          | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
-| room.me           | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                  |
-| let.land          | premium   | $242        | $242          | high           | low    | 3      | namesilo                                     |
-| let.immobilien    | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
-| domestic.homes    | resell    | $1.99       | $20.99        | high           | low    | 8      | Go Daddy, LLC                                |
-| let.rent          | premium   | $242        | $242          | high           | low    | 3      | namesilo                                     |
-| let.maison        | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
-| out.homes         | resell    | —           | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| let.rentals       | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| let.realty        | available | $109.99     | $299          | high           | low    | 3      | namesilo                                     |
-| out.rent          | resell    | —           | —             | high           | low    | 3      | Go Daddy, LLC                                |
-| out.condos        | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| let.berlin       | available | $89.98    | —             | high           | low    | 3      | namecheap                   |
+| debt.law         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC            |
+| fees.attorney    | premium   | $1,107    | $1,107        | medium         | low    | 4      | namesilo                    |
+| fees.accountants | available | $43.99    | —             | medium         | low    | 4      | name.com                    |
+| fees.bot         | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                 |
+| fees.bid         | premium   | $6,250    | —             | medium         | low    | 4      | name.com                    |
+| fees.apartments  | available | $19.99    | —             | medium         | low    | 4      | name.com                    |
+| fees.co          | resell    | —         | —             | medium         | low    | 4      | Dynadot3 LLC                |
+| fees.care        | premium   | $140      | $280          | medium         | low    | 4      | namecheap                   |
+| fees.bar         | available | $3.49     | $54.99        | medium         | low    | 4      | namesilo                    |
+| fees.com         | resell    | —         | —             | medium         | low    | 4      | BigRock Solutions Ltd       |
+| fees.cash        | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                    |
+| fees.beauty      | available | $1.65     | $15.75        | medium         | low    | 4      | namesilo                    |
+| fees.money       | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.             |
+| fees.cfd         | premium   | $22.40    | $44.80        | medium         | low    | 4      | namecheap                   |
+| fees.boats       | available | $1.99     | $15.75        | medium         | low    | 4      | namesilo                    |
+| fees.net         | resell    | —         | —             | medium         | low    | 4      | Moniker Online Services LLC |
+| fees.click       | premium   | $87.50    | —             | medium         | low    | 4      | name.com                    |
+| fees.broker      | available | $19.99    | —             | medium         | low    | 4      | name.com                    |
+| fees.org         | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 114,788 live domains                       |
+| 1,000-row public sample | 115,212 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 359 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
