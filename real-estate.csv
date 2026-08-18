@@ -135,7 +135,6 @@ bba7ba21-f792-4840-9964-53d09643e89d,homes.trade,resell,,,high,low,5,TuringSign 
 09520350-69c0-4f1b-8995-db7716088cfb,homes.investments,premium,250,,high,low,5,name.com,,
 66efba51-3b88-4845-8008-9dd0c83d7f1e,title.rent,available,17.99,59.99,high,low,5,namesilo,,
 29a34a92-8a28-4853-a9b6-3b0a873cac06,title.rentals,available,14.99,,high,low,5,name.com,,
-11f37bdb-3c03-4537-b953-174e5d848bc1,homes.fm,available,99,,high,low,5,name.com,,
 77766c44-6f96-4458-8ace-7e5838b7bfa9,unit.immobilien,available,14.99,,high,low,4,name.com,,
 6c5f58bd-fd72-4649-9c54-3cd075fa2cbb,title.immo,available,14.99,,high,low,5,name.com,,
 30a8d0e7-863f-401a-b4c0-b8c45377f083,property.immo,premium,128.7,128.7,high,low,8,namecheap,,
@@ -206,7 +205,6 @@ f553384f-fc95-4bb3-b363-c9f7fae1ee19,management.apartments,premium,85.8,85.8,hig
 e0ed0314-cdcc-4f06-be77-d5c7089539c9,type.villas,available,19.99,,high,low,4,name.com,,
 d2354efd-b51c-470a-a4ad-cba77ce95197,possession.properties,available,10.99,,high,low,10,name.com,,
 8cfcc878-5e96-49cb-a619-d9b457abfca4,homes.how,premium,423.75,,high,low,5,name.com,,
-45eeecd1-001e-4fe5-9b01-b4bc80cd771a,landscaping.immobilien,available,14.99,,high,low,11,name.com,,
 67ab64ec-1ab4-4472-a016-820c70a30bd3,management.properties,resell,,,high,low,10,"GoDaddy.com, LLC",14/08/2025 15:15,14/08/2027 15:15
 5dfb80e3-bb2b-4a7f-b1b0-aec0f1517fe5,real.condos,premium,85.8,85.8,high,medium,4,namecheap,,
 2093e426-5698-48fb-a5c4-c65384cc8e33,possession.land,available,19.99,,high,low,10,name.com,,
@@ -316,7 +314,6 @@ d43ff31e-6096-4f0d-9d0f-6d6c87916412,out.apartments,available,19.99,,high,low,3,
 11be1762-f34f-4c5e-b062-0531d50d8c56,market.immo,premium,118.8,118.8,high,medium,6,namesilo,,
 dccdcf9e-af5f-4253-828b-77e98ce97c06,management.villas,premium,128.7,128.7,high,low,10,namecheap,,
 c1c2b9ed-435b-4a59-bb9a-2553ef479bcb,planning.properties,available,10.99,,high,low,8,name.com,,
-4cac7516-ef7f-4768-873b-d958c6c9f534,houses.exchange,available,10.99,,medium,low,6,name.com,,
 320ef30d-3f88-4578-a07f-43b47bc00554,deposit.realty,available,109.99,299,high,low,7,namesilo,,
 286e5fab-70a0-403c-a589-ead62e4f3ef9,out.properties,premium,78.54,78.54,high,low,3,namesilo,,
 e1a47c52-9896-44ed-a5e5-7648fd9df0d4,possession.place,available,25.99,,high,low,10,name.com,,
@@ -393,11 +390,8 @@ bdcee778-b55d-40a7-bf44-cbd783417382,dwelling.rent,premium,625,,medium,low,8,nam
 99144a81-591f-4c0d-8e41-6e530eb48964,quarters.rentals,available,14.99,,medium,low,8,name.com,,
 241e7752-2fea-4d2c-886a-b8529675b266,dwelling.rentals,available,14.99,,medium,low,8,name.com,,
 3ef70c4e-53ff-4832-9339-f2cec1bb64d7,business.land,resell,,,high,medium,8,Porkbun LLC,16/08/2015 16:52,16/08/2026 16:52
-5a284b4b-310a-460a-b6de-410120c6d8cb,apartments.accountants,available,43.99,,medium,low,10,name.com,,
-c5b08306-db61-4701-a097-08d5f6eb2a8e,fees.deals,available,5.99,,medium,low,4,name.com,,
 26d01664-0c98-45f7-8460-2b3a6c13b730,fees.company,available,3.99,,medium,low,4,name.com,,
 dfa33794-83dd-4dc9-83e5-9ad41b775220,houses.makeup,premium,812.5,,medium,low,6,name.com,,
-537c2b73-9020-4da7-8292-476137970807,fees.sex,available,154.98,,medium,low,4,namecheap,,
 fd1c5f79-725b-4499-b403-4489fa1aa429,houses.meme,premium,812.5,,medium,low,6,name.com,,
 35d6b094-7020-4bae-890d-e61891144ebb,quarters.immo,available,14.99,,medium,low,8,name.com,,
 28004d21-5cd5-4228-a044-352d735b475d,homes.haus,resell,,,high,low,5,Porkbun LLC,12/07/2023 09:57,12/07/2026 09:57
@@ -427,7 +421,6 @@ ec6777cf-a477-4466-bbe3-c805ae06ba6b,rented.casa,premium,100,,medium,low,6,name.
 80440cd0-5f7a-4a47-8f42-6468f2a6cc6f,interior.apartments,available,19.99,,medium,low,8,name.com,,
 360e1f03-6676-4085-be90-d6988ccb955c,holdings.properties,premium,123.75,,medium,low,8,name.com,,
 ea249410-f8ea-4f6b-9012-a8c0e5bab07b,fees.hiv,available,184.99,,medium,low,4,name.com,,
-7be8121f-6ada-4ada-85c4-eaca3dc6913e,fees.courses,available,2.19,38.99,medium,low,4,namesilo,,
 e59885c6-3c84-4f91-bf01-c6a3761c55e3,agents.lease,available,14.99,,medium,medium,6,name.com,,
 43a43a32-53ce-41c4-ad90-81062b982775,zone.homes,premium,812.5,,high,low,4,name.com,,
 44eddb67-4f9f-4dc2-b57a-ac4ccffbf432,dwelling.villas,available,19.99,,medium,low,8,name.com,,
@@ -474,7 +467,6 @@ f107bf56-df4c-4c7d-87b3-2f055898eb9b,fees.mortgage,premium,500,,medium,low,4,nam
 26df9e49-7645-4bbc-ad0f-399349a61561,houses.pics,resell,,,medium,low,6,Dynadot LLC,29/06/2025 11:20,29/06/2026 23:59
 094eefa2-1086-452b-9663-9e1314b123b5,interior.condos,premium,118.8,118.8,medium,low,8,namesilo,,
 467aca5c-1fa1-4452-af5b-634f1110e65e,land.condos,premium,260,260,medium,low,4,namecheap,,
-0230a752-6ecf-42c7-8e71-cfc1e64e4a90,apartments.navy,available,41.99,41.99,medium,low,10,namesilo,,
 af178e9c-3a9c-4595-98d9-fb26a75e70f5,flat.lease,premium,250,250,high,low,4,name.com,,
 67ad2958-d7fc-4212-8360-2897f08e6c6d,registration.immobilien,available,14.99,,high,low,12,name.com,,
 be362c3c-5c36-4f23-9202-d6e5c6d87928,fees.talk,premium,312.5,,medium,low,4,name.com,,
@@ -727,7 +719,6 @@ a614eaf7-2248-4ec2-af29-e45d29dcc6b1,fees.qpon,premium,3450,23.54,medium,low,4,n
 5cf14c8d-a24b-4101-b146-a43dd168c594,fees.viajes,available,37.99,37.99,medium,low,4,namesilo,,
 aa5f3017-966e-4942-a9db-8c88ee95fe22,flat.pro,resell,,,high,low,4,Epik LLC,10/02/2021 14:30,10/02/2027 14:30
 cd366b62-fcb7-4c26-a33c-40cdb9457edc,fees.organic,available,19.99,,medium,low,4,name.com,,
-64bcaf37-9cc9-4e40-a855-dcbae2e004c7,asset.bargains,available,14.98,37.98,medium,low,5,namecheap,,
 3cd3687f-af01-49bf-9de1-bfda05af6557,fees.accountant,premium,625,,medium,low,4,name.com,,
 c89f6e8e-9af4-4966-bbc6-994cfbc0cc3a,commission.property,available,,,high,low,10,,,
 b0898496-df28-4fb3-a2cd-514b2d7a4434,payment.realty,available,109.99,299,high,low,7,namesilo,,
@@ -873,7 +864,6 @@ c93e9803-57ac-43f2-87d8-120cc7a8dd67,apartments.fitness,premium,118.8,118.8,medi
 dc92072f-70b2-48e7-b4fa-ffb65caa55da,room.tienda,available,9.99,,high,low,4,name.com,,
 4b04dd74-d5e2-4ab1-bae0-836daf94a116,city.maison,premium,118.8,118.8,high,medium,4,namesilo,,
 286c4f3c-8270-47f7-97a1-a787837667b8,flat.dev,premium,411.25,411.25,high,low,4,name.com,,
-4cae8582-71a5-4231-bd61-b62123e9f3b6,lists.ag,available,89,,medium,low,5,name.com,,
 cf10ca0a-60c5-4574-ae22-04ee8b87b977,room.tech,premium,3125,12500,high,low,4,name.com,,
 d2bec142-e63d-4b7b-bcbb-ba193efcd014,asset.realty,available,99.8,456.98,medium,low,5,namecheap,,
 8eed0a87-3eb7-4600-b410-bf2578580887,city.casa,premium,47.2,11.8,high,medium,4,namesilo,,
@@ -930,7 +920,6 @@ fec7dad2-541b-4c68-89c2-400d133d3f61,room.asia,resell,,,high,low,4,"Spaceship, I
 a4a59a33-19db-4b87-9cae-87cacd967eb8,agents.irish,available,9.99,,medium,medium,6,name.com,,
 40f2898d-838c-4b05-b365-4929ce4bb48d,room.world,resell,,,high,low,4,Xin Net Technology Corporation,06/04/2024 15:15,06/04/2027 15:15
 9946ad88-990e-405c-b0f7-637996076367,flat.services,available,15.99,52.99,high,low,4,name.com,,
-4f0ea9d1-3d79-4be2-b30b-cc3a82884f2b,patent.casa,available,1.98,17.98,medium,low,6,namecheap,,
 424676c3-edfa-4b31-94be-3a89bc586957,agents.fund,resell,,,medium,medium,6,"DNSPod, Inc.",05/03/2023 15:15,05/03/2027 15:15
 ac42c1b7-f59b-4ac3-a00b-262ac0794342,apartments.legal,available,9.99,,medium,low,10,name.com,,
 4fce0b40-a31a-45ba-97d1-aae9d516921d,fees.xxx,available,154.98,,medium,low,4,namecheap,,
@@ -999,3 +988,14 @@ de3b40db-5aa7-41ab-b3af-5a0192afe2a6,home.loan,resell,,,high,medium,4,"eNom, LLC
 3c4ef313-bda8-4d43-882c-a92acf205cb8,room.cv,premium,649.6,80.33,high,low,4,namesilo,,
 a7b59c62-8c07-4547-b361-deee4e84531e,room.bz,available,,,high,low,4,,,
 0e7fe0bb-114c-457c-950e-9d5a89e55fbc,room.mx,resell,,,high,low,4,1api GmbH,26/09/2009 00:00,25/09/2026 00:00
+d3ac12fb-4ded-4e75-b50b-5993467ad62d,room.uk,resell,,,high,low,4,ANY-Web Limited,04/07/2019 13:00,04/07/2027 13:00
+c56ea069-2b67-4a2e-82b1-c2f4ee7a3e03,room.im,available,,,high,low,4,,,
+bdae7548-a57a-4009-bfed-83aac7e5f467,room.cx,resell,,,high,low,4,CentralNic Ltd,07/06/2021 00:00,07/06/2026 13:40
+56ce68ca-8b04-487f-b383-08e7a04472ec,some.maison,available,19.99,83.99,high,low,4,name.com,,
+c376cd64-288d-49ca-a8cf-46a1b9252f6b,room.info,resell,,,high,low,4,Dynadot Inc,03/08/2001 20:13,03/08/2027 20:13
+bf24a872-b254-4962-8762-7a628808e01a,room.international,premium,78.54,78.54,high,low,4,namesilo,,
+e9593482-ae84-4f1c-abf9-7c4c70699888,room.global,premium,5000,,high,low,4,name.com,,
+3c442fd9-9e9b-4edc-950b-3404674ba9a9,commission.place,available,22.49,22.49,high,low,10,namesilo,,
+6cbdfd5d-a006-4247-92aa-b091ef80a528,home.investments,available,,,high,low,4,,,
+329941c1-b451-42c6-ac1f-0931b8fb360c,room.claims,available,19.99,,high,low,4,name.com,,
+fc1a516c-5be8-4cf7-943f-ec46659f71f6,flat.limo,available,19.99,71.99,high,low,4,name.com,,
