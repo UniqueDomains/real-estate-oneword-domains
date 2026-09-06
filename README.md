@@ -66,24 +66,24 @@ print(df.head())
 | ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | room.management   | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                  |
 | possession.maison | available | $19.99      | —             | high           | low    | 10     | name.com                                     |
-| out.apartments    | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
-| room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                             |
+| let.estate        | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| flat.technology   | resell    | $17.99      | $41.99        | high           | low    | 4      | Spaceship, Inc.                              |
 | let.apartments    | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| out.estate        | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| let.house         | available | $27.99      | —             | high           | low    | 3      | name.com                                     |
+| room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                             |
+| let.casa          | premium   | $96         | $11.80        | high           | low    | 3      | namesilo                                     |
+| let.immo          | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| room.me           | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                  |
+| let.land          | premium   | $242        | $242          | high           | low    | 3      | namesilo                                     |
+| let.immobilien    | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
 | domestic.homes    | resell    | $1.99       | $20.99        | high           | low    | 8      | Go Daddy, LLC                                |
-| out.condos        | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| out.immo          | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| let.rent          | premium   | $242        | $242          | high           | low    | 3      | namesilo                                     |
+| let.maison        | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
 | management.homes  | resell    | $6,514.75   | —             | medium         | low    | 10     | Sav.com, LLC - 40                            |
-| out.properties    | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| out.immobilien    | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| let.rentals       | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
+| let.realty        | available | $109.99     | $299          | high           | low    | 3      | namesilo                                     |
 | out.homes         | resell    | —           | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| out.rentals       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                                     |
-| out.maison        | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
-| out.rent          | resell    | —           | —             | high           | low    | 3      | Go Daddy, LLC                                |
-| tax.casa          | premium   | $96         | $11.80        | high           | medium | 3      | namesilo                                     |
-| out.realty        | available | $109.99     | $299          | high           | low    | 3      | namesilo                                     |
-| tax.house         | resell    | —           | —             | high           | medium | 3      | Unstoppable Domains Inc                      |
-| tax.condos        | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo                                     |
+| out.condos        | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
