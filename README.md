@@ -16,7 +16,7 @@ This set covers 110,670 one-word domain names linked to real estate, across 506 
 
 **Public extract:** 1,000 rows · **Live catalog:** 126,467 domains · **Median ask:** $714.66 · **High-demand under $2,500:** 353
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                    |
 | ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| room.management   | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                  |
 | possession.maison | available | $19.99      | —             | high           | low    | 10     | name.com                                     |
-| let.estate        | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
-| flat.technology   | resell    | $17.99      | $41.99        | high           | low    | 4      | Spaceship, Inc.                              |
-| let.apartments    | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| let.house         | available | $27.99      | —             | high           | low    | 3      | name.com                                     |
+| out.apartments    | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
 | room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                             |
-| let.casa          | premium   | $96         | $11.80        | high           | low    | 3      | namesilo                                     |
-| let.immo          | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
-| room.me           | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                  |
-| let.land          | premium   | $242        | $242          | high           | low    | 3      | namesilo                                     |
-| let.immobilien    | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
-| domestic.homes    | resell    | $1.99       | $20.99        | high           | low    | 8      | Go Daddy, LLC                                |
-| let.rent          | premium   | $242        | $242          | high           | low    | 3      | namesilo                                     |
-| let.maison        | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
-| management.homes  | resell    | $6,514.75   | —             | medium         | low    | 10     | Sav.com, LLC - 40                            |
-| let.rentals       | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
-| let.realty        | available | $109.99     | $299          | high           | low    | 3      | namesilo                                     |
-| out.homes         | resell    | —           | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | out.condos        | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
+| out.estate        | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| domestic.homes    | resell    | $1.99       | $20.99        | high           | low    | 8      | Go Daddy, LLC                                |
+| out.properties    | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                     |
+| out.immo          | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| out.homes         | resell    | —           | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| out.rentals       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                                     |
+| out.immobilien    | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| out.rent          | resell    | —           | —             | high           | low    | 3      | Go Daddy, LLC                                |
+| tax.casa          | premium   | $96         | $11.80        | high           | medium | 3      | namesilo                                     |
+| out.maison        | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
+| tax.house         | resell    | —           | —             | high           | medium | 3      | Unstoppable Domains Inc                      |
+| tax.condos        | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo                                     |
+| out.realty        | available | $109.99     | $299          | high           | low    | 3      | namesilo                                     |
+| tax.place         | resell    | —           | —             | high           | medium | 3      | Sav.com, LLC                                 |
+| tax.homes         | premium   | $812.50     | —             | high           | medium | 3      | name.com                                     |
+| out.villas        | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Real Estate Domain Names*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Real Estate Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
