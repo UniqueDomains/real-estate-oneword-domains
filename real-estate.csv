@@ -422,7 +422,6 @@ b706129e-b4bc-4717-8951-157e85c70bf0,estate.democrat,available,5.98,41.48,low,lo
 9c7a5251-fcfa-4b90-ac8e-2c7360001339,property.broker,premium,6250,,high,low,8,name.com,,,
 971236a9-b697-4dfc-a1a8-110bf3385648,estate.voting,available,1398,1448,low,low,6,namecheap,,,17/09/2026 02:55
 cfe24749-71c5-4dcb-a34a-21422094cd07,homes.sarl,available,8.98,,high,low,5,namecheap,,,
-dd5962b3-9028-40a8-9343-2f92637f30e7,homes.properties,premium,250,,high,low,5,name.com,,,
 faf5ca5a-6980-4a77-a84f-96fc56b2ffd3,homes.build,premium,1875,,high,low,5,name.com,,,
 2f07c0f0-797c-4eeb-bf6e-deea62d7731f,estate.dental,available,81.98,100.98,low,low,6,namecheap,,,17/09/2026 02:55
 23dc89ca-daae-4e36-9f72-4573449494da,estate.cx,resell,,,low,low,6,,,,17/09/2026 02:55
@@ -476,7 +475,7 @@ c963e91c-7d00-43db-beb9-c8ba75f13b44,estate.republican,available,7.49,28.99,low,
 0d8c67fe-b713-47f9-b343-56865c41eef0,homes.zone,resell,,,high,low,5,"DNSPod, Inc.",21/12/2018 08:22,21/12/2026 08:22,
 345401b7-b276-4593-86ef-9b510b101275,estate.style,premium,78.54,78.54,low,low,6,namesilo,,,17/09/2026 02:55
 a9e3c71b-af8d-466d-8927-22b2c2b76924,homes.sexy,premium,12500,,high,low,5,name.com,,,
-00c4f347-a1dd-45c5-b44c-81b2f966c682,homes.partners,premium,250,,high,low,5,name.com,,,
+00c4f347-a1dd-45c5-b44c-81b2f966c682,homes.partners,premium,242,242,high,low,5,namesilo,,,18/09/2026 08:26
 fac6eff6-edc1-4362-a9dd-b23b475b96cc,estate.airforce,available,103.99,103.99,low,low,6,namesilo,,,17/09/2026 02:55
 72664bb9-aca2-4499-84aa-e740ff14f278,homes.sydney,premium,2679.38,,high,low,5,name.com,,,
 5938b39a-d308-4521-b2ea-4a58b37ccdb9,estate.motorcycles,available,1.99,17.29,low,low,6,namesilo,,,17/09/2026 02:55
@@ -999,3 +998,4 @@ c3751c88-f706-4cef-a18b-709a037f3845,home.gay,premium,2500,,high,medium,4,name.c
 c785c5ca-ffbb-444f-bce5-cf2c09f56363,home.irish,premium,242,242,high,medium,4,namesilo,,,
 5254db47-fea0-4fab-b998-c5b89e4c3702,home.guru,resell,,,high,medium,4,"Sav.com, LLC",29/09/2024 17:01,29/09/2026 17:01,
 ddd619fd-4f0e-4e51-95c6-fa661ba0dc1f,home.school,resell,,,high,medium,4,"GoDaddy.com, LLC",29/05/2015 23:36,29/05/2027 23:36,
+fb73aa4a-4125-4398-b8d1-078f5b91c078,home.academy,resell,,,high,medium,4,"Sav.com, LLC - 24",11/06/2023 15:15,11/06/2026 15:15,
