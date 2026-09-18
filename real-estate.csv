@@ -284,7 +284,7 @@ bc728e43-1a5e-4c9a-adde-f6a21822d007,property.group,resell,,,high,low,8,GoDaddy 
 4c83f85b-95db-438b-aa52-2e16d4c694ee,property.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 2b32ee24-bd18-4b20-82aa-82bd8a1c508d,property.salon,available,14.99,,high,low,8,name.com,,,
 e6166abb-ecbd-46f3-a519-19219e02c6b2,property.charity,available,5.99,,high,low,8,name.com,,,
-d6201242-cd94-4379-a56f-df60f28bcbaa,property.guru,resell,,,high,low,8,"Spaceship, Inc.",12/07/2015 16:00,12/07/2026 16:00,
+d6201242-cd94-4379-a56f-df60f28bcbaa,property.guru,resell,,,high,low,8,"Spaceship, Inc.",12/07/2015 16:00,12/07/2027 16:00,18/09/2026 06:44
 1c517078-0bf9-4c08-8208-6573db56f373,property.schule,available,19.99,,high,low,8,name.com,,,
 82da5df5-ee62-4ba8-a462-823fc03ff16f,property.sexy,available,2749.99,2749.99,high,low,8,namesilo,,,
 77947c35-8925-443d-a9c7-9c3204b8ec3e,property.adult,available,166.98,,high,low,8,namecheap,,,
@@ -469,7 +469,7 @@ f3fa4052-2899-41cc-9098-70545ab38d44,realty.land,resell,,,medium,low,6,Porkbun L
 fa961f7f-52e4-4b55-a508-3bafb78f12c4,homes.storage,available,799,,high,low,5,name.com,,,
 060b80a4-1a3f-4052-a884-b658857f6f9d,estate.study,premium,640,640,low,low,6,namesilo,,,17/09/2026 02:55
 8062be53-a649-4ffe-b1da-21a4a38a487c,realestate.kiwi,premium,1111.93,,high,medium,11,name.com,,,
-51990cc0-d2a4-4b45-ac6f-99d7e763809c,homes.lawyer,premium,3750,,high,low,5,name.com,,,
+51990cc0-d2a4-4b45-ac6f-99d7e763809c,homes.lawyer,premium,4140,4140,high,low,5,namesilo,,,18/09/2026 05:09
 c963e91c-7d00-43db-beb9-c8ba75f13b44,estate.republican,available,7.49,28.99,low,low,6,namesilo,,,17/09/2026 02:55
 4b142740-c659-4be2-8a67-032c89e188b4,estate.lighting,available,23.99,23.99,low,low,6,namesilo,,,17/09/2026 02:55
 39f97369-37ea-4a45-963f-b5ae41b614c4,estate.gg,resell,,,medium,low,6,,,,17/09/2026 02:55
@@ -620,7 +620,6 @@ b8519c4f-dc5d-4786-b8e9-ab5340c36184,real.asia,resell,,,high,medium,4,"DNSPod, I
 8b1c4311-790b-43c1-b1cb-c60b5c953383,real.network,resell,,,high,medium,4,Dynadot Inc,01/05/2020 23:19,01/05/2028 23:19,
 58ff949d-046b-491d-b657-65dc7e480b88,real.codes,premium,118.8,118.8,high,medium,4,namesilo,,,
 b2df954f-2ecc-44ed-9025-36272bc21e83,real.technology,resell,,,high,medium,4,"GoDaddy.com, LLC",05/10/2019 10:07,05/10/2026 10:07,
-b0510605-ba06-49c3-bb2e-6fe6d1dd33cb,real.tattoo,resell,,,high,medium,4,Porkbun,13/07/2025 08:23,13/07/2026 08:23,
 40bcd4b7-c585-4e2b-9e98-bd9d459a32c7,real.dad,premium,648.7,648.7,high,medium,4,namecheap,,,
 5f85740a-34fa-4296-9af3-a2712f4dc54e,real.sbs,premium,143.65,574.6,high,medium,4,namecheap,,,
 890c382b-2dfe-430d-abf8-d98e0beb1282,real.cloud,premium,1300,1300,high,medium,4,namecheap,,,
@@ -999,3 +998,4 @@ c3751c88-f706-4cef-a18b-709a037f3845,home.gay,premium,2500,,high,medium,4,name.c
 2641b62e-e5cf-4cf9-b2a8-501157715501,home.watch,resell,,,high,medium,4,"GoDaddy.com, LLC",22/07/2015 16:03,22/07/2026 16:03,
 c785c5ca-ffbb-444f-bce5-cf2c09f56363,home.irish,premium,242,242,high,medium,4,namesilo,,,
 5254db47-fea0-4fab-b998-c5b89e4c3702,home.guru,resell,,,high,medium,4,"Sav.com, LLC",29/09/2024 17:01,29/09/2026 17:01,
+ddd619fd-4f0e-4e51-95c6-fa661ba0dc1f,home.school,resell,,,high,medium,4,"GoDaddy.com, LLC",29/05/2015 23:36,29/05/2027 23:36,
