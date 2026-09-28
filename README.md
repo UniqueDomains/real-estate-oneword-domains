@@ -1,10 +1,10 @@
-# One-Word Real Estate Domain Names (91,804)
+# One-Word Real Estate Domain Names (96,651)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-91%2C804%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-96%2C651%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set covers 110,670 one-word domain names linked to real estate, across 506 TLDs. Median ask is $818.81. Updated daily, it spans mainstream and niche extensions suited for property, listing, and land-focused brands.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **91,804 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **96,651 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 91,804 domains · **Median ask:** $561.76 · **High-demand under $2,500:** 179
+**Public extract:** 1,000 rows · **Live catalog:** 96,651 domains · **Median ask:** $539.54 · **High-demand under $2,500:** 164
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| home.vin         | resell    | —          | —             | high           | medium | 4      | DNSPod, Inc.                                            |
-| home.airforce    | available | $109.98    | $134.98       | high           | medium | 4      | namecheap                                               |
+| home.accountants | available | $117.99    | $117.99       | high           | medium | 4      | namesilo                                                |
 | real.global      | resell    | $29,612.50 | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| home.associates  | premium   | $38.94     | $38.94        | high           | medium | 4      | namesilo                                                |
-| home.auto        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
+| home.adult       | premium   | $322.40    | $322.40       | high           | medium | 4      | namecheap                                               |
+| home.barcelona   | available | $38.98     | $38.98        | high           | medium | 4      | namecheap                                               |
 | property.contact | resell    | $5,921.32  | —             | high           | low    | 8      | Porkbun LLC                                             |
-| home.enterprises | premium   | $512       | $512          | high           | medium | 4      | namesilo                                                |
-| home.car         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
+| home.archi       | premium   | $1,950     | $1,950        | high           | medium | 4      | namecheap                                               |
+| home.cars        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
 | property.info    | resell    | $34,500    | $35.99        | high           | low    | 8      | GoDaddy.com, LLC                                        |
-| home.gmbh        | premium   | $242       | $242          | high           | medium | 4      | namesilo                                                |
-| home.country     | available | $2,298     | $2,450        | high           | medium | 4      | namecheap                                               |
+| home.bar         | premium   | $8,190     | $11,700       | high           | medium | 4      | namecheap                                               |
+| home.guitars     | available | $104.99    | $114.99       | high           | medium | 4      | namesilo                                                |
 | property.now     | resell    | $625       | —             | high           | low    | 8      | Dynadot Inc                                             |
-| home.homes       | premium   | $11,040    | $11,040       | high           | medium | 4      | namesilo                                                |
-| home.desi        | available | $19.98     | $22.98        | high           | medium | 4      | namecheap                                               |
-| home.academy     | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc.                                         |
-| home.horse       | premium   | $854       | $29.50        | high           | medium | 4      | namesilo                                                |
-| home.diamonds    | available | $54.99     | $54.99        | high           | medium | 4      | namesilo                                                |
+| home.bond        | premium   | $390       | $780          | high           | medium | 4      | namecheap                                               |
+| home.melbourne   | available | $58        | $58           | high           | medium | 4      | namesilo                                                |
 | home.apartments  | resell    | —          | —             | high           | medium | 4      | Sav.com, LLC                                            |
-| home.host        | premium   | $10,350    | $10,350       | high           | medium | 4      | namesilo                                                |
-| home.exposed     | available | $22.49     | $22.49        | high           | medium | 4      | namesilo                                                |
+| home.cloud       | premium   | $3,250     | $6,500        | high           | medium | 4      | namecheap                                               |
+| home.reisen      | available | $3.99      | $20.99        | high           | medium | 4      | namesilo                                                |
+| home.baby        | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc.                                         |
+| home.college     | premium   | $3,450     | $3,450        | high           | medium | 4      | namesilo                                                |
+| home.sydney      | available | $58        | $58           | high           | medium | 4      | namesilo                                                |
+| home.berlin      | resell    | —          | —             | high           | medium | 4      | —                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 91,804 live domains                        |
+| 1,000-row public sample | 96,651 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 179 high-demand names under $2,500         |
+| Basic exported fields   | 164 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

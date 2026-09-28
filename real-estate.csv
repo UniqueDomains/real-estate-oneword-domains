@@ -1,517 +1,85 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-639d725d-5c09-489b-8ac8-d75a114e1526,property.immobilien,premium,128.7,128.7,high,low,8,namecheap,,,
-dcd0cf4c-8ba3-4abc-9bc0-b8fe015ec471,property.place,resell,,,high,low,8,"Spaceship, Inc.",24/09/2014 16:00,24/09/2027 16:00,26/09/2026 08:22
-7d3ae46b-28aa-456e-8a79-602f382df493,estate.villas,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-b44da366-2d03-4697-a78d-4880841557be,property.condos,premium,1040,1040,high,low,8,namecheap,,,
-986f957a-d40b-4a1e-b164-537f736c31d8,estate.maison,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
-b279bc5d-7f22-4dd4-906c-07b7ade39e34,property.casa,resell,,,high,low,8,Dynadot Inc,12/08/2026 00:01,12/08/2027 00:01,26/09/2026 08:22
 30a8d0e7-863f-401a-b4c0-b8c45377f083,property.immo,premium,128.7,128.7,high,low,8,namecheap,,,
-f9ee1038-71dc-465b-9601-d29e995e5de1,real.maison,available,24.99,83.99,high,medium,4,name.com,,,25/09/2026 14:00
-5dfb80e3-bb2b-4a7f-b1b0-aec0f1517fe5,real.condos,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
-271d940a-2b57-46f8-aa45-dece70d684d7,real.realty,premium,875,1250,high,medium,4,name.com,,,25/09/2026 14:00
-45b20aa0-170f-4ae2-89be-a6d5d665b365,property.haus,available,37.98,,high,low,8,namecheap,,,
-b8e0c935-6806-450b-8d91-a9dfb1fd69c3,property.loans,resell,,,high,low,8,"GoDaddy.com, LLC",23/11/2016 03:12,23/11/2027 03:12,26/09/2026 08:22
-723718f4-5f80-4fd1-ae77-fb59bc237d54,property.space,premium,3250,13000,high,low,8,namecheap,,,
-ae30f2bc-1a27-498c-bc2b-43dd215e5b66,property.holdings,resell,,,high,low,8,"Sav.com, LLC",19/04/2017 10:22,19/04/2027 10:22,26/09/2026 08:22
 440d40e6-146c-41e4-a507-85af128d51ef,property.homes,premium,845,15.73,high,low,8,namecheap,,,
-8e7aa1e9-44c8-4f62-816b-6fce40df6060,property.ninja,resell,,,high,low,8,"Sav.com, LLC - 6",15/04/2026 15:15,15/04/2027 15:15,26/09/2026 08:22
-442eebcd-a16a-475f-8c3f-27245a14d49c,property.locker,premium,6500,58.5,high,low,8,namecheap,,,
-4652d4f3-f409-43a1-a598-fe21fbfe01e8,property.builders,available,,,high,low,8,,,,
-b20a1409-765d-4b92-bfe1-6c969bfc8618,property.trade,resell,,,high,low,8,Porkbun,29/07/2019 13:27,29/07/2030 13:27,26/09/2026 08:23
-c33b2f39-5f75-497d-8251-d73531375584,property.town,premium,85.8,85.8,high,low,8,namecheap,,,
-d43e4673-e6d6-444d-93a6-e20dda491cfa,property.ltda,premium,66.3,66.3,high,low,8,namecheap,,,
 cf010afd-4735-481e-926c-1259be4ad354,estate.place,resell,,,high,low,6,"Spaceship, Inc.",13/07/2026 21:40,13/07/2027 21:40,26/09/2026 05:53
-bafe3e7e-7882-4993-8f0f-2b28615ef92b,property.forex,premium,1250,,high,low,8,name.com,,,
-50f7355b-cacb-4d66-ac9e-1c081513d8dd,property.llc,premium,302.5,302.5,high,low,8,namesilo,,,
-8f1fda1a-751a-4db2-b842-31b0986d62f9,property.photo,premium,130,130,high,low,8,namecheap,,,
-d21ea9b5-c2b4-4790-a8bd-a741f813c59b,property.lifestyle,premium,650,1300,high,low,8,namecheap,,,
-595594c2-fd8f-4241-9a92-2030203c2ef4,property.gay,premium,38.99,38.99,high,low,8,namesilo,,,
-b07ff0fb-0454-4a4b-b816-77e95434679e,property.furniture,premium,128.7,128.7,high,low,8,namecheap,,,
-338166f0-16a8-43ec-a6d6-163f16d09cce,property.world,resell,,,high,low,8,"Spaceship, Inc.",29/03/2019 11:12,29/03/2027 11:12,26/09/2026 08:22
-fcc2a03e-fa6d-4222-96e8-a08ace7caa31,property.company,resell,,,high,low,8,GoDaddy Online Services Cayman Islands Ltd.,23/06/2015 19:23,23/06/2027 19:23,26/09/2026 08:22
-6868c644-a374-478f-87cd-39859f7dab55,property.berlin,available,89.98,,high,low,8,namecheap,,,
-4f34f688-1705-42e1-a2e2-70af8f2e4aec,property.rsvp,premium,623.75,,high,low,8,name.com,,,
-44cfdd32-d034-4037-9a1d-f4359978ab7f,property.gifts,premium,260,260,high,low,8,namecheap,,,
-4524cc55-f502-4086-8e39-04059025f6b1,property.trading,premium,1250,,high,low,8,name.com,,,
-b3834445-1d61-4cc3-bbf2-170f0adb8dfd,property.deal,premium,650,650,high,low,8,namecheap,,,
-e85d5f79-865d-4eaf-8bdd-f5fcc28b95ba,property.dealer,premium,2015,2600,high,low,8,namecheap,,,
-1c517078-0bf9-4c08-8208-6573db56f373,property.schule,available,19.99,,high,low,8,name.com,,,
-574165a8-0f4f-453e-8441-6de4bcdfc5bd,property.cars,available,1999.99,2199,high,low,8,namesilo,,,
-d4683308-4fa0-49ff-8691-1b1c013f4a8f,property.airforce,available,103.99,103.99,high,low,8,namesilo,,,
-460ad6a6-e8b7-4194-ac3b-f603df8beca3,property.market,available,,,high,low,8,,,,
-9c7a5251-fcfa-4b90-ac8e-2c7360001339,property.broker,premium,6250,,high,low,8,name.com,,,
-e5d50590-dc8a-4cd6-bda7-f65dfabd73f3,property.hair,premium,2600,15.73,high,low,8,namecheap,,,
-acff627e-2b88-4dca-8d1a-c4e0002a6a4b,property.holiday,premium,260,260,high,low,8,namecheap,,,
-73aa37c6-37db-46d1-b78d-cb5966f38c38,estate.mba,available,17.99,39.99,high,low,6,namesilo,,,17/09/2026 02:55
-58269173-7bba-4ee3-a281-98acfc92389a,estate.plumbing,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
-940ddc81-032a-4eb0-9cda-a4d4527f42d1,estate.pictures,resell,,,high,low,6,Dynadot Inc,31/01/2026 17:00,31/01/2027 17:00,26/09/2026 05:53
-873e5a15-9eca-4103-a451-acd2ff1967b6,property.reisen,available,3.99,20.99,high,low,8,namesilo,,,
-c7be5615-2a0a-48fd-a3e3-c41ef6c4e042,property.consulting,premium,3900,3900,high,low,8,namecheap,,,
-77011bd4-120e-43d0-bde6-5d10beef8fec,property.gift,available,14.99,14.99,high,low,8,namesilo,,,
-fb7b3ebb-cc18-4fd5-a9a5-4ede69efac60,estate.garden,premium,242,29.5,high,low,6,namesilo,,,17/09/2026 02:55
-35db9a54-8ffb-4ec7-9eae-03977a05d388,estate.lifestyle,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
-67007264-8581-4f3d-9953-99f29c85d891,property.men,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",27/05/2018 11:56,27/05/2029 11:56,26/09/2026 08:22
-f93c1d31-a058-4693-a04c-7f89ad58765a,estate.bingo,available,53.99,53.99,high,low,6,namesilo,,,17/09/2026 02:55
-e6b232fb-61e7-4dcb-84b0-db9753317662,property.auto,available,1999.99,2199,high,low,8,namesilo,,,
-722b0164-8e41-456f-bb4e-81c5fc352555,estate.black,available,27.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
-ea38f0ac-b6b5-4213-bfa0-d0f38413b7f2,estate.furniture,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
 4c4ba889-93d3-4f1e-af5a-06768ef3d946,property.properties,resell,,,high,low,8,"GoDaddy.com, LLC",08/12/2024 10:42,08/12/2026 10:42,26/09/2026 08:22
-860b2977-81f3-4020-af5e-88ec22fb28d2,estate.reise,available,27.89,97.99,high,low,6,namesilo,,,17/09/2026 02:55
-f86a823d-f88f-479d-a540-39a9676ab673,property.degree,available,14.99,,high,low,8,name.com,,,
-c3aeeec8-8b18-49f6-8922-97e5bc2a748e,property.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
-7ddf9718-cd85-4301-adca-fb8e3cfce482,property.surf,premium,104,31.2,high,low,8,namecheap,,,
-efbc7b72-8bd2-4901-a1fe-53049b9611f6,property.energy,resell,,,high,low,8,Dynadot Inc,25/08/2026 17:00,25/08/2027 17:00,26/09/2026 08:22
-39ae030b-3a7d-4b1f-b175-512ca5761bad,property.film,premium,130,130,high,low,8,namecheap,,,
-b85e7047-7ce1-435a-b91b-b3b19c12a214,property.dance,available,17.99,,high,low,8,name.com,,,
-40b243f2-cb9d-4c23-a526-d02cd5b787b4,estate.hot,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-bac4bf06-afc4-49c2-b24f-93d70423c11e,estate.gold,resell,,,high,low,6,Xin Net Technology Corporation,24/03/2018 16:16,24/03/2027 16:16,26/09/2026 05:53
-ded8bb77-b3c4-4f97-82e3-ed1c74b88275,property.security,available,1999.99,2049.99,high,low,8,namesilo,,,
-38215c1b-eeec-4d90-9996-b73e3802d10e,estate.reviews,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
 36fc036f-6322-4e09-b8b5-ff4ca0620c81,estate.immobilien,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-4aadeb14-54e6-44ea-973c-534a9ce17db1,estate.pizza,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
 85bb3660-0545-4de6-a7c1-34a2ceb6522f,estate.condos,premium,260,260,high,low,6,namecheap,,,17/09/2026 02:55
-cbe31687-4b7b-469f-bf8c-27204135d480,property.actor,available,19.99,,high,low,8,name.com,,,
-1ddc8ecf-1a04-4154-8f60-59491684a19c,property.host,premium,3250,6500,high,low,8,namecheap,,,
-fefa2e50-d6c9-4d0e-b204-974962897aed,property.cam,resell,,,high,low,8,Dynadot Inc,18/07/2022 01:11,18/07/2027 23:59,26/09/2026 08:22
-80f7d7db-c153-4189-b6d9-16fde72f7373,property.hiv,available,195.99,195.99,high,low,8,namesilo,,,
-d86b5015-a271-475e-9afa-d3e066a15e38,property.media,resell,,,high,low,8,"GoDaddy.com, LLC",20/07/2014 16:00,20/07/2027 16:00,26/09/2026 08:23
-e50cde53-0475-420d-9e01-125607d8eb5c,property.shoes,available,39.99,,high,low,8,name.com,,,
-5b8d1cc0-208e-4137-ab02-2671d6a6eb7b,estate.bz,available,21.98,26.98,high,low,6,namecheap,,,17/09/2026 02:55
-b5d91e59-2884-4fc9-bbbd-65e74e4a3c6e,property.ing,premium,845,845,high,low,8,namecheap,,,
-83a2e685-7a14-4714-be58-6a626658b68b,estate.berlin,resell,,,high,low,6,,11/07/2016 15:13,11/07/2027 15:13,26/09/2026 05:53
-971236a9-b697-4dfc-a1a8-110bf3385648,estate.voting,available,1398,1448,high,low,6,namecheap,,,17/09/2026 02:55
-1c75af71-bb27-45b9-8a3f-1154547b526e,property.website,premium,1625,3250,high,low,8,namecheap,,,
-b706129e-b4bc-4717-8951-157e85c70bf0,estate.democrat,available,5.98,41.48,high,low,6,namecheap,,,17/09/2026 02:55
-febfd776-990b-4c1f-a5e4-b5714af19ac4,property.vin,available,11.99,,high,low,8,name.com,,,
-81cf08f3-f508-497f-b16e-eec87c29dacf,property.menu,available,,,high,low,8,,,,
-f1200256-a6e9-450d-84c3-fc0c4544d194,estate.vin,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-5938b39a-d308-4521-b2ea-4a58b37ccdb9,estate.motorcycles,available,1.99,17.29,high,low,6,namesilo,,,17/09/2026 02:55
-74d406a3-581d-4c7f-8105-87f78de18209,property.win,premium,455,65,high,low,8,namecheap,,,
-baf1285a-83ba-4b0e-b73e-b3af3dde73a3,estate.games,available,33.99,33.99,high,low,6,namesilo,,,17/09/2026 02:55
-2f07c0f0-797c-4eeb-bf6e-deea62d7731f,estate.dental,available,81.98,100.98,high,low,6,namecheap,,,17/09/2026 02:55
-cba455ca-64ea-4e45-898e-0398eb9c27fc,property.food,premium,650,1300,high,low,8,namecheap,,,
-23dc89ca-daae-4e36-9f72-4573449494da,estate.cx,resell,,,high,low,6,CentralNic Ltd,24/09/2023 23:36,24/09/2027 23:36,26/09/2026 05:53
-84d468dd-2430-41bc-84f3-86aaced9bb89,property.fitness,premium,128.7,128.7,high,low,8,namecheap,,,
 0c517ccc-f910-4116-bbbf-2efe51816412,real.land,resell,,,high,medium,4,Dynadot Inc,11/07/2019 11:41,11/07/2027 11:41,26/09/2026 08:31
-e076e5a2-6ec5-4600-8b8f-23d82deb7aa5,property.fan,premium,128.7,128.7,high,low,8,namecheap,,,
-7f43b90a-4940-4fae-836d-234cfeb872d6,estate.lgbt,available,11.98,93.98,high,low,6,namecheap,,,17/09/2026 02:55
-3d167e7e-54f2-4ed4-b5f0-5dad17629576,estate.accountants,available,117.99,117.99,high,low,6,namesilo,,,17/09/2026 02:55
-6f5de797-634b-4e7a-b5ee-5055d7677bb6,property.juegos,available,478.98,,high,low,8,namecheap,,,
-b66df849-dc9b-43cc-90a7-2eb5c00efee0,property.you,premium,650,650,high,low,8,namecheap,,,
-cba4f970-407c-4d21-b2e3-287d1399b1b7,property.mobile,premium,375,,high,low,8,name.com,,,
-575b5fae-de24-4927-b9ee-210c8cf33535,property.hosting,available,309.99,329.99,high,low,8,namesilo,,,
-39f97369-37ea-4a45-963f-b5ae41b614c4,estate.gg,resell,,,high,low,6,"Spaceship, Inc (https://www.spaceship.com)",,,26/09/2026 05:53
-ba2d6de3-5b53-479d-80e6-9f728c049dee,estate.bargains,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-c7e6ce30-9905-4f70-bb0b-efd1a2debcf3,property.mortgage,premium,500,,high,low,8,name.com,,,
-ee8ca098-4252-45c7-86c1-3a4f0f6447d7,property.camp,premium,520,520,high,low,8,namecheap,,,
-cb511360-f7e7-4df6-8a05-25dee7ab9786,property.voyage,available,9.99,,high,low,8,name.com,,,
-3f8440ff-d7e1-4004-9729-4da7e73a1880,estate.cars,available,1999.99,2199,high,low,6,namesilo,,,17/09/2026 02:55
-e2bef8c3-af47-49d4-b1ec-62138af12508,estate.buzz,premium,116,53.92,high,low,6,namesilo,,,17/09/2026 02:55
-44627a0c-fbe3-49a2-b8a2-16c66ef4ff1b,estate.bike,available,12.99,38.99,high,low,6,namesilo,,,17/09/2026 02:55
-9dbd4dec-5786-4c0c-9976-e1d60b854f38,property.singles,available,12.99,,high,low,8,name.com,,,
-c21aef03-b84e-4b1a-9765-f946aae718c6,property.gallery,resell,,,high,low,8,"GoDaddy.com, LLC",12/02/2014 16:00,12/02/2027 16:00,26/09/2026 08:22
-e25e9f70-df1e-4d69-829f-2a8943f3765f,estate.salon,available,55.98,69.98,high,low,6,namecheap,,,17/09/2026 02:55
-4a14bb01-58b1-4ad1-a12a-a149e78d03fb,estate.talk,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-4b142740-c659-4be2-8a67-032c89e188b4,estate.lighting,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 02:55
-92586ad2-0e5f-4469-87e4-a7a5f7be78e2,property.hospital,available,57.99,57.99,high,low,8,namesilo,,,
-6b3969df-ef97-475a-8b37-e6d4ca6af7f5,property.memorial,available,52.99,52.99,high,low,8,namesilo,,,
-90b0d1b1-cbf6-45be-89f2-ba59fa76307e,estate.car,available,2070,2400,high,low,6,namecheap,,,22/09/2026 18:59
-0643e478-7c87-4db0-8fe1-5e55c0aa0576,real.ai,resell,,,high,medium,4,"GoDaddy.com, LLC",16/12/2017 00:05,18/05/2027 00:05,26/09/2026 08:31
-5474f4ca-75bb-40fb-a585-024fa78f70c6,property.life,resell,,,high,low,8,"Spaceship, Inc.",17/03/2018 07:38,17/03/2027 07:38,26/09/2026 08:22
-c9a77ec3-14d2-4861-a738-96907aaa01de,estate.school,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",02/03/2024 00:03,02/03/2027 00:03,26/09/2026 05:53
-b98a774a-5de6-4a31-bb6e-dcaae471209d,property.industries,premium,260,260,high,low,8,namecheap,,,
-060b80a4-1a3f-4052-a884-b658857f6f9d,estate.study,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-55794d57-2d7b-43b8-a785-1b1303709db6,property.enterprises,premium,260,260,high,low,8,namecheap,,,
 daa2e903-ac32-44b7-a0dd-7561b35e0a65,real.villas,premium,500,500,high,medium,4,name.com,,,25/09/2026 14:00
-f74b607c-a8a5-4de0-9dc0-75721b261ffa,property.bio,resell,,,high,low,8,"NameCheap, Inc.",20/04/2023 14:12,20/04/2027 14:12,26/09/2026 08:22
-4894c8f1-b8da-4614-befe-338e24858058,property.to,resell,,,high,low,8,NAMECHEAP,08/12/2025 17:30,08/12/2027 17:30,26/09/2026 08:22
-c963e91c-7d00-43db-beb9-c8ba75f13b44,estate.republican,available,7.49,28.99,high,low,6,namesilo,,,17/09/2026 02:55
-3f75e3b7-4d42-4c0f-aa1e-a6acabc3fbfd,property.theater,available,19.99,,high,low,8,name.com,,,
-91743686-4161-48f9-b474-4f8755d27e0c,property.cricket,premium,6500,130,high,low,8,namecheap,,,
-81919217-86ac-41be-81c7-fbd54861f4ab,estate.sbs,premium,384,768,high,low,6,namesilo,,,17/09/2026 02:55
-fac6eff6-edc1-4362-a9dd-b23b475b96cc,estate.airforce,available,103.99,103.99,high,low,6,namesilo,,,17/09/2026 02:55
-345401b7-b276-4593-86ef-9b510b101275,estate.style,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
-8325147b-ebe8-4387-91da-0c0b5fe74ceb,property.soy,premium,698.1,698.1,high,low,8,namecheap,,,
-8bcdc7bb-a847-4ff2-bfe8-01dd186ef6ea,property.jetzt,available,9.99,,high,low,8,name.com,,,
-66a9c958-2e7b-4f4c-af66-6822acc839be,estate.flowers,available,64.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
-43cb32fc-23ad-4c4b-825e-43cf8cc9ea0a,property.osaka,available,,,high,low,8,,,,
-20a1c8df-1078-4e61-bbac-615436ee3183,estate.dating,available,20.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
-bd3040bc-4828-4ce1-8b5c-d99488028d12,property.boo,premium,648.7,648.7,high,low,8,namecheap,,,
-9bd01831-c306-481f-bab9-7b2f93287d76,property.supplies,available,24.99,24.99,high,low,8,namesilo,,,
-ec63741e-c098-4dd0-bbd0-baee1b0583aa,property.esq,premium,843.7,843.7,high,low,8,namecheap,,,
-637c22e1-59db-410f-83c7-e6541d44368e,property.social,resell,,,high,low,8,Squarespace Domains II LLC,10/03/2019 11:44,10/03/2027 11:44,26/09/2026 08:22
-cecce97a-7461-4af5-b5d3-8ef84ee05698,estate.degree,available,52.99,52.99,high,low,6,namesilo,,,17/09/2026 02:55
-b1a048b9-f69b-429d-adfb-9418c5d1c344,property.art,premium,3900,91,high,low,8,namecheap,,,
-1bd01935-fffe-4af2-ba5d-ef4b88e2056f,estate.app,resell,,,high,low,6,"Sav.com, LLC",12/07/2023 23:12,12/07/2027 23:12,26/09/2026 05:53
-7dcfa41d-f1dc-49e8-be5e-b5e64640c357,estate.space,premium,6900,6900,high,low,6,namesilo,,,17/09/2026 02:55
-5267c7c8-c275-4c2e-9788-6da19357ab26,estate.florist,available,32.99,32.99,high,low,6,namesilo,,,17/09/2026 02:55
-04579440-fd6a-42fd-b3b7-d31e3247d3ca,property.cool,premium,520,520,high,low,8,namecheap,,,
-f52b542e-4763-4800-85ef-1c7051f2533e,property.tires,available,5.99,78.99,high,low,8,namesilo,,,
-e6c0c589-eb96-40e8-b180-87cef7e62261,estate.horse,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 02:55
-58804ce8-f357-4b41-a961-9441bd56ef40,property.kim,premium,85.8,85.8,high,low,8,namecheap,,,
-30d493aa-7363-438c-b9b3-b646bff2e327,home.realty,premium,4550,6500,high,medium,4,namecheap,,,24/09/2026 23:55
-383297c6-229b-4bed-ae10-80d12a98a209,estate.clinic,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-b3717206-1971-4809-ac58-ac77f7f49b8c,property.xxx,available,154.98,,high,low,8,namecheap,,,
-4ff3556b-c80c-4939-9b4a-45c5e89cdf87,estate.viajes,available,37.99,37.99,high,low,6,namesilo,,,17/09/2026 02:55
-ef8fd971-4ca2-49bb-bbce-31afe41e9b80,estate.fun,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-dc66e53d-756a-4f7a-937e-0847effb7f7c,property.clothing,available,19.99,,high,low,8,name.com,,,
-ce558187-69fa-488e-b19e-7664b24630c0,property.how,premium,768.3,768.3,high,low,8,namecheap,,,
-25119722-1417-4b0d-b9e2-650432141929,property.graphics,available,23.99,23.99,high,low,8,namesilo,,,
-009c6d0e-3d01-4e16-a0ca-d7e1fec98df8,estate.express,resell,,,high,low,6,"Sav.com, LLC - 38",27/07/2026 15:16,27/07/2027 15:16,26/09/2026 05:53
-485b5378-ad71-44e5-9133-9195a1aa37ba,estate.phd,premium,843.7,843.7,high,low,6,namecheap,,,17/09/2026 02:55
-c9e875e6-4c23-47f4-8e89-1a5d45708035,real.observer,premium,854,854,high,medium,4,namesilo,,,25/09/2026 14:00
-06aad6df-4bac-4805-b6dd-6ac25b3308ea,estate.top,resell,,,high,low,6,阿里云计算有限公司,01/12/2017 01:47,01/12/2026 01:47,26/09/2026 05:53
-86bd09bd-0fde-4aca-977a-f3c3e137c160,property.racing,premium,130,130,high,low,8,namecheap,,,
-651d8ec1-47f6-4739-be54-15e5c9b5fe1b,real.company,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/09/2020 23:17,25/09/2028 23:17,26/09/2026 08:31
-bbe3e857-9b92-4872-8440-b25f57a61441,real.kaufen,available,5.99,26.99,high,medium,4,namesilo,,,25/09/2026 14:00
-6dc2db69-429a-4b76-ae65-91d42f7a5c91,property.soccer,available,19.99,,high,low,8,name.com,,,
-c2436af2-d522-494f-ae0c-da7f5595e0bb,estate.foundation,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-f8033f4e-ffc1-4a06-ae2c-b8525f5a8fb1,property.vana,available,2498,,high,low,8,namecheap,,,
-cf4765ff-3fbd-429b-a1e3-23825e76b3c7,real.forum,premium,437.5,625,high,medium,4,name.com,,,25/09/2026 14:00
-15a3134c-6f13-4985-a57c-e532a43a09b8,property.organic,available,19.99,,high,low,8,name.com,,,
-8316dccb-32a6-4ad5-9e82-e0242b6edc5b,property.nexus,premium,167.7,167.7,high,low,8,namecheap,,,
-d0ecf03d-6f36-4b8f-b233-b32d02777ff7,property.review,premium,6500,130,high,low,8,namecheap,,,
-e4b33b32-2e9f-4ecc-9377-ab880977ea7c,estate.game,available,310.98,547.98,high,low,6,namecheap,,,17/09/2026 02:55
-a3140970-1bb5-45dc-89df-2cdc0331de67,real.green,premium,768,768,high,medium,4,namesilo,,,25/09/2026 14:00
-ea926ba6-4d04-4016-9be3-1c9fac9f5f37,estate.cruises,available,56.99,56.99,high,low,6,namesilo,,,17/09/2026 02:55
-f5afa1d6-9f63-4fc1-83ef-c56cd0a961dd,estate.works,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
-233db8b2-346f-462a-a8fc-06a109123005,real.moi,premium,640,640,high,medium,4,namesilo,,,25/09/2026 14:00
-a3b61b77-5353-40c8-9894-4d7ee17b93e2,real.boston,premium,52,23.4,high,medium,4,namecheap,,,25/09/2026 14:00
-76e07077-b669-4c9e-9403-85475fc6a135,property.moi,premium,89.25,89.25,high,low,8,namesilo,,,
-c7add19c-0a06-42ce-9487-3f97b0d7db0c,property.gratis,available,23.99,23.99,high,low,8,namesilo,,,
-9da0c80e-f540-4b76-bd26-599979c3bb8c,real.ing,premium,3750,3750,high,medium,4,name.com,,,25/09/2026 14:00
-296fe20d-657d-40ba-957d-b712a552a3ee,real.xxx,premium,644.8,644.8,high,medium,4,namecheap,,,25/09/2026 14:00
-8807edc1-8bd1-403a-a47c-3d021a83d2c0,property.taxi,available,10.99,,high,low,8,name.com,,,
-9e448fa9-6919-48a8-97c5-5d649ad81174,property.restaurant,available,29.99,,high,low,8,name.com,,,
-6d3b5fb6-3cf2-4b68-99c7-9319d93aa1f7,estate.biz,resell,,,high,low,6,Dynadot Inc,13/06/2021 03:11,13/06/2027 03:11,26/09/2026 05:53
-43486427-b582-445a-a3f7-b602ffc8c375,real.shoes,available,34.98,81.98,high,medium,4,namecheap,,,25/09/2026 14:00
-0ead5998-5e5e-44ea-97bb-6e35d2acaffa,estate.toys,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
-d10bb4a8-b3a9-4b06-9bf9-eb287d15471e,property.icu,premium,57.85,231.4,high,low,8,namecheap,,,
-0ac43873-098a-45e8-8156-f870b5cfac37,real.free,premium,1250,1250,high,medium,4,name.com,,,25/09/2026 14:00
-0442cd07-29b0-4876-97bb-cdbe8233d627,property.country,available,,,high,low,8,,,,
-ed100eab-51a6-4581-b30c-5bd87b57fc0c,property.beer,available,2.19,32.49,high,low,8,namesilo,,,
-779cf9df-e72b-4d4d-a130-a719363cf259,property.wtf,premium,42.9,42.9,high,low,8,namecheap,,,
-15f082a1-a296-40d2-b160-9c7142771f58,property.boats,premium,845,15.73,high,low,8,namecheap,,,
-585af6d6-62c7-465a-8388-589a3bfc2307,estate.vana,available,2298,2498,high,low,6,namecheap,,,17/09/2026 02:55
-01dbc6d5-160e-4cc9-baa7-3a83c5f86387,estate.menu,available,27.99,27.99,high,low,6,namesilo,,,17/09/2026 02:55
-adcc4ae9-93d5-4a6a-9f25-6482522a1356,property.university,premium,128.7,128.7,high,low,8,namecheap,,,
-28b1b2c1-09c7-4c17-aade-82c1c28ee730,estate.fashion,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 02:55
-c8be4946-68ac-4bba-816a-caf89382979e,property.democrat,available,9.99,,high,low,8,name.com,,,
-98939f0d-fada-48bb-84e8-ddf8f9d81392,estate.forex,premium,1300,1300,high,low,6,namecheap,,,17/09/2026 02:55
-38938af3-6235-4588-9554-54280f5fe364,real.sucks,premium,2658.67,2658.67,high,medium,4,namesilo,,,25/09/2026 14:00
-00da2435-cb94-4b12-9e9b-efa8925b9217,property.voto,available,19.99,,high,low,8,name.com,,,
-cb35c0e2-abd4-44ba-8336-acb401c24a04,property.associates,premium,78.54,78.54,high,low,8,namesilo,,,
-75a0217f-9d09-498c-97db-ac5801dfd113,real.red,resell,,,high,medium,4,"Name.com, Inc.",02/05/2014 16:01,02/05/2027 16:01,26/09/2026 08:31
-619e0935-247e-4c30-beea-d61beb407087,estate.cfd,premium,384,768,high,low,6,namesilo,,,17/09/2026 02:55
-d8bced45-f9a4-4a57-b1ba-6a75d1de41a2,estate.run,resell,,,high,low,6,"DNSPod, Inc.",30/06/2024 17:00,30/06/2027 17:00,26/09/2026 05:53
-8f61376a-ea38-4835-bfcc-d6367cedfba5,estate.science,premium,640,77.35,high,low,6,namesilo,,,17/09/2026 02:55
-f26cbab6-4f79-4955-a91a-37726225691c,estate.protection,available,2070,2950,high,low,6,namecheap,,,17/09/2026 02:55
-f553eac8-e764-49fa-8038-c97d46585485,property.ventures,resell,,,high,low,8,"Sav.com, LLC",19/04/2017 10:22,19/04/2027 10:22,26/09/2026 08:22
-516b6147-c1f7-4b00-ae88-95b78229629c,real.tax,resell,,,high,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",12/03/2021 17:12,12/03/2027 17:12,26/09/2026 08:31
-47736aa9-0726-424f-abed-5b682c9c8df6,property.foundation,premium,128.7,128.7,high,low,8,namecheap,,,
-bed53f5d-5e85-4dc7-97a0-f5ddc433b1e6,real.contact,resell,,,high,medium,4,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00,26/09/2026 08:31
-6edafb5e-7524-4676-9998-4dbc2b8852c9,real.cx,resell,,,high,medium,4,West263 International Limited,22/07/2023 13:29,22/07/2027 13:29,26/09/2026 08:31
 56a62879-88fd-4b8e-8305-ed33561892c5,estate.immo,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-4c483e1c-6c52-42f1-8139-e400df46432d,estate.rest,premium,230.4,230.4,high,low,6,namesilo,,,17/09/2026 02:55
-a79a29ab-7586-4160-8108-94d224785e95,estate.watch,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
-7976f7a6-fa3e-49a8-b8c4-fab1aba7fc42,estate.town,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
-bb63ebb0-188b-4ca8-8e8e-6f590d5e5d56,property.channel,premium,623.75,,high,low,8,name.com,,,
-7b5ca65f-e47a-4ed8-a4bb-bc99af916fa8,estate.faith,premium,116,29.5,high,low,6,namesilo,,,17/09/2026 02:55
 62946b16-fd72-4484-b808-62cba610ebe4,estate.apartments,resell,,,high,low,6,"Gransy, s.r.o.",14/11/2025 20:47,14/11/2026 20:47,26/09/2026 05:53
-db8a80af-51e9-4e4d-92cc-c84d8c7d38da,real.uno,premium,302.5,302.5,high,medium,4,namesilo,,,25/09/2026 14:00
-b52786b9-bf6a-472c-9828-cc4897bed8df,property.spot,premium,650,650,high,low,8,namecheap,,,
-06927579-567e-4eea-ade6-f793e3be5e7d,estate.engineer,premium,71.4,71.4,high,low,6,namesilo,,,17/09/2026 02:55
-286aefe5-42cd-44ed-a183-0a02fb1b4d1a,estate.website,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-e55a9eab-2454-46c1-9d63-82c41a43e762,real.ltd,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/09/2017 17:31,03/09/2031 17:31,26/09/2026 08:31
-199422a7-7811-4064-b382-3e50d85e1620,property.voting,available,1448,,high,low,8,namecheap,,,
-31e67f60-ba23-4dc0-b3d3-d77165f3c4ca,estate.mortgage,premium,520,520,high,low,6,namecheap,,,17/09/2026 02:55
-b2130a4f-b908-4d73-92a2-d768b823e32c,estate.bio,resell,,,high,low,6,Dynadot Inc,16/05/2026 18:44,16/05/2027 18:44,26/09/2026 05:53
-60c904fd-59c5-4d27-b03c-b5af86d0bc57,real.host,premium,10350,10350,high,medium,4,namesilo,,,25/09/2026 14:00
-fca553b5-770c-43af-966c-a2ccce8e2663,estate.cc,resell,,,high,low,6,Dynadot Inc,02/10/2009 08:00,02/10/2027 08:00,26/09/2026 05:53
-34509104-611a-4245-80fa-f487bcb575ba,property.college,premium,650,650,high,low,8,namecheap,,,
-d4f9d268-a1e5-4efb-a437-99576b7a7c9c,property.creditcard,available,9.99,,high,low,8,name.com,,,
-58ff949d-046b-491d-b657-65dc7e480b88,real.codes,premium,118.8,118.8,high,medium,4,namesilo,,,25/09/2026 14:00
-aad90cb4-4e64-49a9-9f5f-81132835130f,estate.prof,premium,843.7,843.7,high,low,6,namecheap,,,17/09/2026 02:55
 25f45356-36f6-4694-b619-4304eec68340,estate.rent,premium,650,650,high,low,6,namecheap,,,17/09/2026 02:55
-8f6a09fa-a45a-4f41-8034-25258d154383,property.florist,available,14.99,,high,low,8,name.com,,,
-089e0118-2a97-4925-a502-8f105e1f04ef,property.living,premium,650,1300,high,low,8,namecheap,,,
-73091afb-eb15-40d8-93fd-a929c8720a39,real.cooking,premium,250,46.99,high,medium,4,name.com,,,25/09/2026 14:00
-53624c2b-5821-4b1f-8d7d-091a208332dd,real.family,resell,,,high,medium,4,Dynadot Inc,26/04/2025 15:15,26/04/2027 15:15,26/09/2026 08:31
-5dfe0cb3-70b6-41d8-a276-66e2c6fc0af3,property.red,resell,,,high,low,8,"Sav.com, LLC - 31",23/07/2026 15:15,23/07/2027 15:15,26/09/2026 08:22
-f7a5a219-22de-48c6-aa72-6ce50010e64d,estate.credit,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-b102e2bd-ca94-41be-9ad6-995afb05c1fc,real.town,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
-41888c27-ebde-4cba-acbf-11589ffc42f3,estate.rodeo,available,12.99,12.99,high,low,6,namesilo,,,17/09/2026 02:55
-7ded29a4-9737-4983-b76f-c56a53818853,real.diet,available,299.99,299.99,high,medium,4,name.com,,,25/09/2026 14:00
-c7b11428-6347-4fc2-a671-08611a2294c7,estate.meme,premium,845,845,high,low,6,namecheap,,,17/09/2026 02:55
-29465db4-96f4-4eed-bfc7-252e7b278ef2,real.hospital,available,57.99,57.99,high,medium,4,namesilo,,,25/09/2026 14:00
-2cf2df09-e272-479e-b55b-4b7ae622b110,estate.tickets,available,359.99,488.88,high,low,6,namesilo,,,17/09/2026 02:55
-7f3d49d2-266d-4228-a2e2-4fe26dda29fb,estate.green,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-2ec95e89-4304-4487-91c2-6bcd2a8c9a33,estate.restaurant,available,20.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
-9cf56e86-779f-491a-831c-1033b4a93053,property.diy,premium,650,1300,high,low,8,namecheap,,,
-ef506394-f781-455f-9ccc-d5607b2f47c5,real.energy,resell,,,high,medium,4,"Sav.com, LLC - 21",31/12/2024 15:15,31/12/2026 15:15,26/09/2026 08:30
-0d90142f-179b-474c-8f86-08ad455672a9,estate.host,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-2554e673-9d3f-4769-a148-555e13fee288,real.guru,resell,,,high,medium,4,"Sav.com, LLC - 5",21/07/2026 15:15,21/07/2027 15:15,26/09/2026 08:31
-0b4b4b3e-1c66-4b25-91f5-29683eaf4184,property.plumbing,premium,520,520,high,low,8,namecheap,,,
-ec5b6d22-44f9-4f1f-b775-fef45936bc3c,estate.associates,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-05df2c43-5a54-40cb-aa0c-83f4da83bf8b,real.builders,resell,,,high,medium,4,"Sav.com, LLC - 35",01/12/2025 15:15,01/12/2026 15:15,26/09/2026 08:31
-09fb962f-ad6e-4fc2-b597-983e62ef1119,estate.industries,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-f60051f8-fd16-4042-98a7-c17473e102fc,property.republican,available,5.99,,high,low,8,name.com,,,
-6486e271-db1c-42bf-9fe8-2e0dd6c6a854,real.cyou,premium,384,768,high,medium,4,namesilo,,,25/09/2026 14:00
-9c0d3b60-d8c7-4f50-9c45-1aa3a44d16aa,real.loan,premium,13800,116,high,medium,4,namesilo,,,25/09/2026 14:00
-48a46948-0c68-478c-b5b1-fc8489266100,estate.guitars,available,104.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
-cb145410-f288-479f-bf7c-b57a0c309cb4,property.marketing,premium,85.8,85.8,high,low,8,namecheap,,,
-8b0707e9-48c4-4f2c-a468-c2b14912da6b,real.reisen,premium,25,25,high,medium,4,name.com,,,25/09/2026 14:00
-e0bbdf6b-ae5e-4fee-9c7c-11834d79d222,property.fit,premium,520,31.2,high,low,8,namecheap,,,
+639d725d-5c09-489b-8ac8-d75a114e1526,property.immobilien,premium,128.7,128.7,high,low,8,namecheap,,,
 78007502-073a-4d14-95c6-9c013579b628,real.property,resell,,,high,medium,4,1API GmbH,18/03/2015 06:44,18/03/2027 06:44,26/09/2026 08:31
-f9e1525c-8f8a-4725-b090-dcdef83a572c,property.bargains,premium,520,520,high,low,8,namecheap,,,
-c45557ca-d214-436f-9880-fe9d612605d2,real.mov,premium,1248.75,1248.75,high,medium,4,name.com,,,25/09/2026 14:00
-d4fb3e2f-8f70-4f1b-a4a6-a093be23bef7,real.blackfriday,available,114.99,114.99,high,medium,4,namesilo,,,25/09/2026 14:00
-4b865091-61ab-471e-ba5b-2cccb1d27c18,property.surgery,premium,128.7,128.7,high,low,8,namecheap,,,
-a9fc6edb-51b2-415f-a815-441161323757,estate.promo,available,14.49,24.99,high,low,6,namesilo,,,17/09/2026 02:55
-96db4e86-504f-4e3e-aa16-cee2a179c8ab,estate.srl,premium,54.28,30.68,high,low,6,namesilo,,,17/09/2026 02:55
-20704c94-6583-40f5-88dc-8796f8dacf47,estate.kim,available,12.99,23.49,high,low,6,namesilo,,,17/09/2026 02:55
-477155be-669c-4d58-9351-2446cd2ed186,real.bingo,premium,520,520,high,medium,4,namecheap,,,25/09/2026 14:00
-0c0b15b5-4924-4c06-9b7d-aa1285e02bbf,estate.plus,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2019 10:08,16/09/2027 10:08,26/09/2026 05:53
-946c1149-1f3c-49db-abdb-43ebbdfa960c,estate.vote,available,34.99,90.99,high,low,6,namesilo,,,17/09/2026 02:55
-c5dcf602-dc43-4b1b-9830-384a73242d1e,real.guitars,premium,832,832,high,medium,4,namesilo,,,25/09/2026 14:00
-d4774a1b-814c-4e8f-b10d-fe941f7cff30,real.glass,available,72.99,72.99,high,medium,4,namesilo,,,25/09/2026 14:00
-b291496c-dac3-4093-abe1-0d8cf7c32921,estate.com,resell,,,high,low,6,"GoDaddy.com, LLC",18/08/1994 04:00,03/02/2030 06:53,26/09/2026 05:53
-032a3c4a-80ce-4ebb-9ad3-2d91fd40d432,estate.ong,available,18.98,24.98,high,low,6,namecheap,,,17/09/2026 02:55
-c3d191af-6bd6-413c-ac2a-1dc0d940a72a,real.cool,resell,,,high,medium,4,Dynadot Inc,29/03/2024 20:00,29/03/2027 20:00,26/09/2026 08:30
-e437e63e-d97c-4826-9f6e-51a583e911c0,property.education,resell,,,high,low,8,"GoDaddy.com, LLC",02/04/2014 16:00,02/04/2027 16:00,26/09/2026 08:22
-8b1c4311-790b-43c1-b1cb-c60b5c953383,real.network,resell,,,high,medium,4,Dynadot Inc,01/05/2020 23:19,01/05/2028 23:19,26/09/2026 08:31
-79627775-95d6-43cd-bd42-19344987d858,real.mortgage,premium,512,512,high,medium,4,namesilo,,,25/09/2026 14:00
-15d671d1-99f2-4523-b16e-b3b725b3b9e1,property.game,available,498,,high,low,8,namecheap,,,
-2c0e7180-9b95-4355-9fcc-50eaca9a7326,property.green,premium,325,325,high,low,8,namecheap,,,
-e072fb4f-d099-41e7-846c-59eddfefab6f,property.software,premium,520,520,high,low,8,namecheap,,,
-a2a97174-79f4-4cb1-88f5-4b1da1b2428d,property.bike,available,14.99,,high,low,8,name.com,,,
-c1a2671d-e7eb-4590-adb6-7382e01b1f0c,estate.email,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-16524e64-8565-4222-b832-5b38c1c3088f,property.ooo,premium,375000,,high,low,8,name.com,,,
-57414d27-29f8-4a62-b878-5347e96128ed,estate.tattoo,available,34.99,34.99,high,low,6,namesilo,,,17/09/2026 02:55
-0c1e5365-a7bc-4fba-9b44-0eb699253885,property.audio,available,104.99,114.99,high,low,8,namesilo,,,
-8c49b578-179e-4b92-a7d5-ad5515023491,property.dad,premium,648.7,648.7,high,low,8,namecheap,,,
-9fd09013-a328-459b-92b1-6adcc8cd6589,property.studio,premium,520,520,high,low,8,namecheap,,,
-45c03539-f76a-4e2a-951f-89a94ceb8969,real.study,premium,116,116,high,medium,4,namesilo,,,25/09/2026 14:00
-7554a27b-6fe8-403c-8a15-15a05f384acf,property.fish,premium,128.7,128.7,high,low,8,namecheap,,,
-028e630c-120d-456b-80c0-53be5df61741,real.cars,available,1999.99,2199,high,medium,4,namesilo,,,25/09/2026 14:00
-0b4221b0-80bb-4155-9d2f-0371b15d41a1,real.luxe,resell,,,high,medium,4,"GoDaddy.com, LLC",22/01/2021 23:57,22/01/2027 23:57,26/09/2026 08:31
-a37bc33f-37d8-469d-b5ba-5962f3031dc6,property.vegas,resell,,,high,low,8,"GoDaddy.com, LLC",11/04/2021 18:37,11/04/2027 18:37,26/09/2026 08:22
-28d81e72-0e66-4be3-b93a-d3e3290d9979,real.media,resell,,,high,medium,4,Dynadot Inc,02/09/2021 17:00,02/09/2027 17:00,26/09/2026 08:31
-daab1902-4f61-4990-a7fe-0f08b8558a51,estate.gripe,premium,38.94,38.94,high,low,6,namesilo,,,17/09/2026 02:55
-1d6eb88a-0d3e-49a5-868b-4d14fa948f5b,real.dealer,premium,4278,2660,high,medium,4,namesilo,,,25/09/2026 14:00
-b42e3cc7-04ae-4726-a1d1-41b588134b4e,estate.zone,resell,,,high,low,6,"DNSPod, Inc.",03/03/2024 15:15,03/03/2027 15:15,26/09/2026 05:53
-d6201242-cd94-4379-a56f-df60f28bcbaa,property.guru,resell,,,high,low,8,"Spaceship, Inc.",12/07/2015 16:00,12/07/2027 16:00,26/09/2026 08:22
-dd0118e6-08a5-42b5-9ae3-bfdda604e85b,estate.boston,premium,260,23.4,high,low,6,namecheap,,,17/09/2026 02:55
-4c83f85b-95db-438b-aa52-2e16d4c694ee,property.yoga,available,32.49,32.49,high,low,8,namesilo,,,
-37169cb2-716f-490b-9133-6581904614ef,estate.fish,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-af946811-343a-4b10-95a5-9f948a09edba,estate.new,available,488.98,601.98,high,low,6,namecheap,,,17/09/2026 02:55
-7eac79ff-bf9d-40b4-840e-b3b701a7b3b2,estate.repair,available,5.98,47.48,high,low,6,namecheap,,,17/09/2026 02:55
-d87224b3-5ba4-4b3a-91c8-00d517690b8e,estate.limo,available,54.99,54.99,high,low,6,namesilo,,,17/09/2026 02:55
-e5010d49-3992-400a-9720-d27f6783d69e,property.foo,premium,167.7,167.7,high,low,8,namecheap,,,
-33148cdf-018c-4626-b158-efb8e1d27aa2,real.insure,available,76.98,91.98,high,medium,4,namecheap,,,25/09/2026 14:00
-170a34eb-659b-4768-9860-49cd617d16be,property.garden,premium,260,31.2,high,low,8,namecheap,,,
-2ea00472-04c9-4e69-88b8-14503a6b928a,estate.contractors,available,35.49,35.49,high,low,6,namesilo,,,17/09/2026 02:55
-f9057b24-2e3f-422c-a8a3-f49980b37965,estate.irish,available,7.49,22.49,high,low,6,namesilo,,,17/09/2026 02:55
-25b54cc0-19e2-46d3-b7ed-973d0c702558,estate.eco,premium,4550,74.75,high,low,6,namecheap,,,17/09/2026 02:55
-7637f49c-2ddd-474a-aa10-2b6f7d9beeaa,real.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,25/09/2026 14:00
-2c0cdba1-f202-4d2b-b201-0b1be1f149b6,estate.loan,premium,6900,116,high,low,6,namesilo,,,17/09/2026 02:55
-9569de1e-c161-41f3-9c57-36592c2f4c8a,estate.ing,premium,845,845,high,low,6,namecheap,,,17/09/2026 02:55
-bd74a07e-7807-4c8c-9a11-a39d75ce06a0,property.black,available,29.99,,high,low,8,name.com,,,
-ded07d59-b4de-4883-a3e5-7f82bf629cee,estate.deal,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-80321055-8d0c-46a1-9f9d-6eed5cddf47f,property.network,resell,,,high,low,8,Porkbun LLC,06/03/2025 15:15,06/03/2027 15:15,26/09/2026 08:22
-8c57a651-20f1-41c4-a031-ec99ae6b861a,property.desi,available,22.98,,high,low,8,namecheap,,,
-9c1801ba-2785-40ed-af5a-4212ff70a230,real.doctor,resell,,,high,medium,4,Dynadot Inc,09/04/2025 15:16,09/04/2027 15:16,26/09/2026 08:30
-61ca1c2f-fc3d-4a47-a38d-7642899c4743,real.ceo,premium,499,499,high,medium,4,name.com,,,25/09/2026 14:00
-97426885-98a7-4bdc-a55e-3c6c1eecc681,estate.mov,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
-e2bc78ea-e8a2-4918-b899-f66d8bb9c7e8,property.meme,premium,195,195,high,low,8,namecheap,,,
-e6166abb-ecbd-46f3-a519-19219e02c6b2,property.charity,available,5.99,,high,low,8,name.com,,,
-8832f0cc-cd61-47e2-a37b-63425e45f9e0,real.link,resell,,,high,medium,4,"Spaceship, Inc.",10/01/2019 10:06,10/01/2027 10:06,26/09/2026 08:31
-73a841bb-a06d-48d6-81ec-d686969431b6,estate.mx,resell,,,high,low,6,1api GmbH,26/09/2009 00:00,25/09/2027 00:00,26/09/2026 05:53
-fd154aa8-f3ec-48ed-b2c5-856dced1407a,estate.film,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
-2bcd09d9-46ff-4c5d-9982-ee8f1e84d673,estate.hockey,available,59.99,59.99,high,low,6,namesilo,,,17/09/2026 02:55
-6f0a6c82-9523-48c3-addc-bb6450a9c24b,property.services,available,,,high,low,8,,,,
-4017b87a-c00c-448e-967a-1708b8c6bd14,property.cfd,premium,167.38,669.5,high,low,8,namecheap,,,
-499f1934-62d4-496f-8545-bfbfded06dff,estate.click,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
-97f4acae-4835-4f18-a4be-f21bcbc1f78c,property.pizza,available,19.99,,high,low,8,name.com,,,
-2f2f15a1-3d6e-4b34-a908-7a080ffa7394,real.plus,resell,,,high,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2019 10:07,16/09/2027 10:07,26/09/2026 08:31
-bd537510-cca3-44ea-9536-c3c70615f334,real.channel,premium,648.7,648.7,high,medium,4,namecheap,,,25/09/2026 14:00
-1964c09d-b605-48e7-9468-c45bf24dce07,estate.productions,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-89152540-fcc7-45c4-b45e-444628a33a13,estate.college,premium,650,650,high,low,6,namecheap,,,17/09/2026 02:55
-f60b8518-50c7-453f-bd6b-3b9e4ec615b3,estate.parts,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
-3a8d8678-35cb-43d6-9590-4cb77353e296,property.hiphop,available,,,high,low,8,,,,
-834699d8-0add-45c9-b83c-778207b027a9,property.ceo,available,9.99,146.98,high,low,8,namecheap,,,25/09/2026 13:11
-1f4c0efb-055f-4b5b-8ece-256fb4953068,real.bio,resell,,,high,medium,4,Porkbun LLC,25/06/2024 15:15,25/06/2027 15:15,26/09/2026 08:30
-95e6aef6-65ac-4ea4-95d3-ef45a0e1688a,real.graphics,resell,,,high,medium,4,Porkbun LLC,15/07/2017 21:27,15/07/2027 21:27,26/09/2026 08:31
-d366305f-de4d-4558-95a4-7fd8aa2428f6,property.plus,resell,,,high,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2019 10:07,16/09/2027 10:07,26/09/2026 08:22
-82eacdf1-470c-4be6-91b2-cb6c6ba99cdf,real.navy,available,41.99,41.99,high,medium,4,namesilo,,,25/09/2026 14:00
-014806b3-1f4e-40cf-a234-d80484b57fa9,property.moda,available,19.99,,high,low,8,name.com,,,
-cd3257e2-ab31-4267-8062-42aa15ef8158,estate.schule,available,28.99,28.99,high,low,6,namesilo,,,17/09/2026 02:55
-a0f1cb79-c881-4d15-8177-6e97e2cbd75d,real.desi,available,19.98,22.98,high,medium,4,namecheap,,,25/09/2026 14:00
-c307a078-772e-404c-abfc-330ef19f4d19,property.guitars,available,104.99,114.99,high,low,8,namesilo,,,
-ee321474-ccb8-47ce-9b85-ed84e932a94c,real.day,premium,623.75,623.75,high,medium,4,name.com,,,25/09/2026 14:00
-99b969cf-6160-45d5-884e-ed62eb306096,estate.hiv,available,195.99,195.99,high,low,6,namesilo,,,17/09/2026 02:55
-a21bd391-b9fa-41cc-9f7e-6c19c897c93b,estate.university,available,65.98,77.98,high,low,6,namecheap,,,17/09/2026 02:55
-0567ebdd-1381-4a55-a245-7f670e868731,estate.delivery,available,6.75,61.99,high,low,6,namesilo,,,17/09/2026 02:55
-ab8debbe-7c84-41aa-9a8d-26f069a968e3,estate.fit,resell,,,high,low,6,"Spaceship, Inc.",03/07/2026 16:34,03/07/2027 16:34,26/09/2026 05:53
-8edb4068-277b-4747-a491-3cab64ba3e0e,property.talk,premium,650,650,high,low,8,namecheap,,,
-7580e14f-1c41-423d-84ef-3400234438cb,property.love,premium,2600,5200,high,low,8,namecheap,,,
-be7d5d2d-05b8-4d4d-9cb7-97969757b9bd,property.info,resell,34500,35.99,high,low,8,"GoDaddy.com, LLC",31/07/2001 02:11,31/07/2027 02:11,26/09/2026 08:22
-1bc7f27f-2b37-4967-9345-8ebe06545a23,estate.christmas,available,34.99,34.99,high,low,6,namesilo,,,17/09/2026 02:55
-2356b5e4-866a-4077-8931-2f9c74ab5fc5,property.im,available,,,high,low,8,,,,
-36054b57-8631-444f-9f84-ec29d1dc5b99,real.phd,premium,843.7,843.7,high,medium,4,namecheap,,,25/09/2026 14:00
-cfa88d81-30d7-432c-b71f-7d1589705981,estate.diet,available,108.98,159.98,high,low,6,namecheap,,,17/09/2026 02:55
-0f5000cf-7f65-4f24-ba88-e58f0ff9878c,estate.locker,premium,318.46,8.8,high,low,6,namesilo,,,17/09/2026 02:55
-9adcde62-71ff-4ae6-b861-6758ae956aa3,estate.gay,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
-32da8850-2a33-4156-8734-132660f7190b,real.gay,premium,2660,2660,high,medium,4,namesilo,,,25/09/2026 14:00
-37fd8305-27b5-47d0-ab43-7bf54b669dc4,property.cruises,available,14.99,,high,low,8,name.com,,,
-36a5fb4f-cbe5-42b2-8fce-2af214bba871,estate.spot,premium,650,650,high,low,6,namecheap,,,17/09/2026 02:55
-af5378b9-f4f1-4253-81ca-3acce413bb71,real.tickets,available,359.99,488.88,high,medium,4,namesilo,,,25/09/2026 14:00
-76a91d5b-5101-4921-93f9-b22bb6802f2d,property.vodka,available,32.49,32.49,high,low,8,namesilo,,,
-26d76193-2cb1-4d6c-a412-807fe332cf4d,property.courses,premium,1300,1300,high,low,8,namecheap,,,
-30642c56-a35c-42e3-9bf0-fbca0a071357,estate.pw,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",10/07/2026 15:34,10/07/2036 15:34,26/09/2026 05:53
-97306b40-9bba-4b4a-a1e1-97d826c36d77,property.delivery,available,8.99,,high,low,8,name.com,,,
-a7726af8-40cf-42d0-ab00-fcac11d2b49d,property.cards,premium,520,520,high,low,8,namecheap,,,27/09/2026 06:38
-db7e73bf-1b62-4ece-8a57-b264cbc04bf6,property.download,premium,455,65,high,low,8,namecheap,,,
 5bf9ddb3-4f0d-41be-91a8-e2c0c8e2057d,property.auction,available,,,high,low,8,,,,
-d56b237f-ccb9-443c-9c2e-37690eb1fad0,estate.bot,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-0c3b5dbc-ed45-43ee-8876-05fff01661b1,estate.healthcare,available,88.99,88.99,high,low,6,namesilo,,,17/09/2026 02:55
-3e165a2e-2266-4b15-b58f-d6a47f7e3829,estate.group,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",07/06/2016 20:28,07/06/2027 20:28,26/09/2026 05:53
-c845560c-edae-4915-9712-cd1da2417161,estate.solar,available,64.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
-0092179b-d310-4578-be3a-831de6062261,estate.cat,available,26.98,38.98,high,low,6,namecheap,,,17/09/2026 02:55
-c1b79938-bdc4-4238-b465-4da86ffaeb40,real.limited,premium,118.8,118.8,high,medium,4,namesilo,,,25/09/2026 14:00
 adcad299-d149-4e95-b134-e9521b57a7e0,property.capital,premium,500,,high,low,8,name.com,,,
-3edcb45e-1be9-49c3-b094-79bde4c9d056,real.bot,premium,3450,3450,high,medium,4,namesilo,,,25/09/2026 14:00
-8c1a3fc4-7eb0-4599-9810-6035c8abdf89,property.exposed,premium,128.7,128.7,high,low,8,namecheap,,,
-668a0ff4-8de5-4a6a-ac55-e452453c25b1,real.webcam,premium,640,77.35,high,medium,4,namesilo,,,25/09/2026 14:00
-982a2ced-59d1-44f4-b116-3bd6b93bfea6,real.beer,resell,,,high,medium,4,"22net, Inc.",17/05/2022 00:00,17/05/2030 00:00,26/09/2026 08:31
-c6cbe5d2-3f49-436d-99a6-c25e36189d20,estate.porn,available,69.98,154.98,high,low,6,namecheap,,,17/09/2026 02:55
-f86393ad-d2b3-4506-8e3a-ceb93abea085,property.mov,premium,167.7,167.7,high,low,8,namecheap,,,
+dcd0cf4c-8ba3-4abc-9bc0-b8fe015ec471,property.place,resell,,,high,low,8,"Spaceship, Inc.",24/09/2014 16:00,24/09/2027 16:00,26/09/2026 08:22
 5b85d627-1298-4565-a14f-84c311ed4425,property.lawyer,available,,,high,low,8,,,,
-d46643aa-e83d-4371-ad99-507f36e73232,estate.diamonds,available,54.99,54.99,high,low,6,namesilo,,,17/09/2026 02:55
-7deace2d-1d2f-4551-968e-40233278d3ff,property.monster,premium,650,15.73,high,low,8,namecheap,,,
 1944fa6d-dd07-4bd2-b4a4-88636ae13e57,property.storage,available,509.99,529.99,high,low,8,namesilo,,,
 4506fd8b-b598-45ed-b389-c86811b26e6e,property.expert,premium,500,,high,low,8,name.com,,,
-d509ae79-2500-4c64-b798-787042600232,estate.date,premium,390,65,high,low,6,namecheap,,,17/09/2026 02:55
-888b13f7-30e7-4235-a0cf-617b5f63a40c,estate.team,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-22cdd90a-31cd-429f-9e74-6d0a0104fe98,real.pw,premium,749.17,1498.33,high,medium,4,name.com,,,25/09/2026 14:00
 16a33db3-2258-4fdc-90fd-df35c2561f1c,property.football,available,19.99,,high,low,8,name.com,,,
-f60a65c4-ccb1-4071-9190-a239a5a0016c,real.hosting,available,309.99,429.99,high,medium,4,namesilo,,,25/09/2026 14:00
-2fc31508-c292-4719-ac90-cdcaa0b7421f,real.rest,premium,787.5,1125,high,medium,4,name.com,,,25/09/2026 14:00
 fa71ab75-3957-4aa9-ae98-ab13313e0981,property.ryukyu,available,22.98,,high,low,8,namecheap,,,
 44e99238-0652-4937-b133-45e92d49e532,property.luxury,available,,,high,low,8,,,,
-8d064d62-e0b0-4a99-9c38-6be72a7e57d8,real.vana,available,3999.99,3999.99,high,medium,4,name.com,,,25/09/2026 14:00
 1e7097e6-a7ff-4973-a14c-cc2486c8d82f,property.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-3eaaa6df-abe7-47cf-8f8f-50384d6a2898,property.games,resell,,,high,low,8,"DNSPod, Inc.",08/06/2021 16:00,08/06/2027 16:00,26/09/2026 08:22
 4147d987-7351-4ef2-a047-837500219d42,property.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 443342a7-48de-4f35-9404-57e4fb8a9bfc,property.onl,premium,162.5,325,high,low,8,namecheap,,,
-33215b17-019e-4f38-8477-e2520e7e51f7,estate.hospital,available,57.99,57.99,high,low,6,namesilo,,,17/09/2026 02:55
-0d980e5d-c410-4353-aacc-092f134539e1,estate.melbourne,available,58,58,high,low,6,namesilo,,,17/09/2026 02:55
 e95f5f80-098c-4ff6-990a-98c22662ebf0,property.webcam,available,,,high,low,8,,,,
-f960ce4e-d023-4657-a882-1f59bfd52846,estate.vacations,available,38.99,38.99,high,low,6,namesilo,,,17/09/2026 02:55
-e4f7e5fd-9c46-4a59-97db-eb6a4f0bed77,estate.tv,resell,,,high,low,6,1API GmbH,19/03/2010 04:10,19/03/2027 04:10,26/09/2026 05:53
-0bcf0cfa-a66f-4079-bd5e-070de0627315,estate.press,premium,4140,4140,high,low,6,namesilo,,,17/09/2026 02:55
-fd55f920-522b-40fc-9abb-f97a300c3dcf,real.gratis,premium,512,512,high,medium,4,namesilo,,,25/09/2026 14:00
 ecdae45e-d413-4cd2-a47c-e9ac3e288580,estate.investments,premium,260,260,high,low,6,namecheap,,,17/09/2026 02:55
 bc728e43-1a5e-4c9a-adde-f6a21822d007,property.group,resell,,,high,low,8,GoDaddy Online Services Cayman Islands Ltd.,05/06/2016 16:00,05/06/2027 16:00,26/09/2026 08:22
 bfc90498-6809-40e3-b555-846342bc2d55,property.rehab,premium,260,260,high,low,8,namecheap,,,
-a1c77af7-f7a2-431d-8d4b-0c38505da1fe,estate.paris,available,66.98,66.98,high,low,6,namecheap,,,17/09/2026 02:55
-68830462-3690-4e51-92cb-8ea72a550b71,real.courses,premium,116,116,high,medium,4,namesilo,,,25/09/2026 14:00
-29c1d943-f532-4ad4-b0e2-02a057477946,estate.audio,available,104.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
-718eb863-0200-407d-aad4-e9c97002ccff,real.legal,resell,,,high,medium,4,"Sav.com, LLC - 21",25/01/2026 15:15,25/01/2027 15:15,26/09/2026 08:31
-b77d5c65-4c11-446f-82d9-d7b711a17a0e,estate.xyz,resell,,,high,low,6,"GoDaddy.com, LLC",14/09/2021 17:27,14/09/2027 23:59,26/09/2026 05:53
-3f97ed90-6dcf-4131-b25f-e2592cffb84e,estate.observer,premium,1040,1040,high,low,6,namecheap,,,17/09/2026 02:55
-33203d2f-273d-4725-a09c-03292e7a78d4,estate.baby,available,17.99,54.99,high,low,6,namesilo,,,17/09/2026 02:55
-0ce6fb19-a112-42a1-8934-c4623d13c915,estate.tips,premium,520,520,high,low,6,namecheap,,,17/09/2026 02:55
+7d3ae46b-28aa-456e-8a79-602f382df493,estate.villas,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
 b41f67e8-6a1a-499c-a413-d4bc18b7515d,property.sydney,premium,8627.89,8627.89,high,low,8,namecheap,,,
 f131fd7e-487a-4081-8feb-e1999f36e77c,property.systems,resell,,,high,low,8,Dynadot Inc,02/06/2020 16:20,02/06/2030 16:20,26/09/2026 08:22
-e7440f1d-2892-4e50-bd40-585603bc8ddd,real.hamburg,available,59.99,59.99,high,medium,4,name.com,,,25/09/2026 14:00
-4c29571e-4634-4728-811e-960b3c48f5b9,real.holiday,available,64.99,64.99,high,medium,4,namesilo,,,25/09/2026 14:00
-129e98fb-a0fd-4090-a2d2-1a6c725ed6a6,real.ong,premium,3250,1625,high,medium,4,namecheap,,,25/09/2026 14:00
-952a94a6-34d7-4d97-9320-884ac558d3a9,estate.coach,available,17.99,77.99,high,low,6,namesilo,,,17/09/2026 02:55
+b44da366-2d03-4697-a78d-4880841557be,property.condos,premium,1040,1040,high,low,8,namecheap,,,
 b6058b8b-1794-4f6a-831e-62fde35dabf9,property.poker,available,14.99,,high,low,8,name.com,,,
-b96a6b57-bc71-46f1-bfb1-f8f1c5c8d579,estate.chat,premium,42.9,85.8,high,low,6,namecheap,,,17/09/2026 02:55
-76d7b85e-b463-4378-8d36-f813e0633e5a,real.mobi,resell,,,high,medium,4,"Sav.com, LLC - 5",09/08/2026 15:15,09/08/2027 15:15,26/09/2026 08:31
 907ebda2-6059-41cb-8d78-79fa8d686dfa,property.miami,resell,,,high,low,8,Porkbun,05/02/2017 01:24,05/02/2027 01:24,26/09/2026 08:22
-c8a3ef9a-68f7-4d48-87c2-acda0e32c54d,real.cc,resell,,,high,medium,4,"GoDaddy.com, LLC",06/08/2002 15:17,06/08/2027 15:17,26/09/2026 08:31
 7c4c4bc2-3228-423b-9df2-38bad4ae259d,property.study,premium,1300,1300,high,low,8,namecheap,,,
-d3e22dfb-fe8f-4554-a3b6-f2474e10ed6a,estate.cricket,available,25.98,31.98,high,low,6,namecheap,,,17/09/2026 02:55
 fd9a8d82-f89e-46b3-ae6c-fb65378915e6,property.catering,premium,128.7,128.7,high,low,8,namecheap,,,
-59889ae6-08c7-4e2e-8f1b-5fe9cb676c50,estate.xxx,available,69.98,154.98,high,low,6,namecheap,,,17/09/2026 02:55
-a87dd48b-dc83-4b22-8812-823b2894af53,real.exposed,premium,242,242,high,medium,4,namesilo,,,25/09/2026 14:00
-c4105454-02fb-40b5-bb46-e6c1adfcd76c,estate.webcam,premium,640,77.35,high,low,6,namesilo,,,17/09/2026 02:55
-f06201c6-67fe-4d29-9b9e-a6163af901a2,estate.moe,premium,96,14.16,high,low,6,namesilo,,,17/09/2026 02:55
 701a2b46-c63d-4094-b3b2-cf1d2ffb30ce,property.kaufen,available,5.99,26.99,high,low,8,namesilo,,,
-40bcd4b7-c585-4e2b-9e98-bd9d459a32c7,real.dad,premium,623.75,623.75,high,medium,4,name.com,,,25/09/2026 14:00
 b8fb7ebc-f83b-4281-8501-d90331bc28b3,property.vacations,premium,128.7,128.7,high,low,8,namecheap,,,
-56da9315-cf9d-4058-81ad-b54ae2588560,real.reise,available,27.89,97.99,high,medium,4,namesilo,,,25/09/2026 14:00
-1f70d866-3fe9-4c5f-a50b-a4ef04babb40,estate.moda,premium,854,854,high,low,6,namesilo,,,17/09/2026 02:55
-26baeb91-b6f8-4b38-a81d-4aa9bd330d65,estate.free,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
 1b716aee-0ed0-4226-9f5c-e877dd1c545c,property.srl,premium,54.28,30.68,high,low,8,namesilo,,,
-a63722df-f41d-43a5-8e5b-ebfba00c5a18,estate.engineering,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
 1fa10d45-dddf-4644-a8ea-d59e19fb54c7,estate.flights,premium,85.8,85.8,high,low,6,namecheap,,,17/09/2026 02:55
 561252a0-ea68-43cb-acba-c9dd8ef9516e,property.store,premium,781.25,3125,high,low,8,name.com,,,
-7b3815ec-edb1-432c-a675-6a5166d726eb,real.credit,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",24/12/2025 15:15,24/12/2026 15:15,26/09/2026 08:31
 a244bf37-fa5f-48fd-a8b5-3001e6a4c57f,estate.directory,premium,23.6,23.6,high,low,6,namesilo,,,17/09/2026 02:55
 b6ddc75d-ac92-4654-97b5-ee62abcac3ca,property.army,available,19.99,,high,low,8,name.com,,,
-e450d70d-8f37-4308-b365-b10e21122c29,estate.fyi,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
 29e0ea7c-b5df-427a-9b33-b5b5be891622,property.boston,available,,,high,low,8,,,,
-98ba4a5a-7ee7-458c-9cff-5a79e38f25f1,estate.courses,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
-761f6bd5-0dc6-482f-8134-1f6246feba90,estate.fishing,premium,47.2,29.5,high,low,6,namesilo,,,17/09/2026 02:55
-e8b9b87f-1586-45f1-97cc-1f86290ebe8b,real.prof,premium,811.25,811.25,high,medium,4,name.com,,,25/09/2026 14:00
-756be294-0614-4c2c-86d5-d751d38724e3,real.viajes,available,43.98,57.98,high,medium,4,namecheap,,,25/09/2026 14:00
 cc973054-3119-42b0-80a3-1013c8fd262b,property.tickets,available,359.99,389.99,high,low,8,namesilo,,,
-fb46ca5a-ff29-4da2-a9ec-c46a3bed4720,home.immobilien,premium,854,854,high,medium,4,namesilo,,,24/09/2026 23:55
-cc238ca8-edcc-417b-9b0f-8d178174ecbc,estate.win,premium,448,53.92,high,low,6,namesilo,,,17/09/2026 02:55
 de2d2609-c778-4a44-90bf-884fc03b5866,property.cloud,premium,2500,2500,high,low,8,name.com,,,
-4670e470-39b6-4f1a-8493-56fca2dbd3b7,real.osaka,available,39.99,39.99,high,medium,4,name.com,,,25/09/2026 14:00
 ceffddf7-33f7-49b0-894c-df5538d57de6,estate.moi,available,25.99,25.99,high,low,6,namesilo,,,17/09/2026 02:55
-c643044e-4e4e-4b23-bcfa-e719f5aaba82,estate.tires,available,5.99,78.99,high,low,6,namesilo,,,17/09/2026 02:55
 8b980d37-48c0-4d33-8462-e448d3f2e42e,property.contact,resell,5921.32,,high,low,8,Porkbun LLC,22/02/2024 15:15,22/02/2030 15:15,26/09/2026 08:22
 2b4bd220-921f-4a8d-8cb4-6431b345b4ee,property.toys,available,19.99,,high,low,8,name.com,,,
 a3f9c609-913b-4f29-82b1-bfa2eb5225e1,property.futbol,available,17.99,17.99,high,low,8,namesilo,,,
-44ed6bc5-deff-4c6f-93ed-cfe47976ce09,real.parts,premium,250,250,high,medium,4,name.com,,,25/09/2026 14:00
-26593ec6-3ab4-41d4-80a8-42add0bc7c0c,real.foo,premium,1298.7,1298.7,high,medium,4,namecheap,,,25/09/2026 14:00
 acb13093-ffc2-47d0-a57e-c9e23af7fa05,estate.mobile,premium,780,780,high,low,6,namecheap,,,17/09/2026 02:55
 93c13857-88ea-430a-a735-1d236c2bdb6f,estate.wiki,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
 f5e13c89-4b89-4d03-9b05-b8c6d0aef119,estate.cleaning,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
-6b26098d-55bb-4e20-a2ab-cfce013ba0c1,real.markets,resell,,,high,medium,4,"NameCheap, Inc.",23/09/2025 15:16,23/09/2027 15:16,26/09/2026 08:31
-a3d4c1ce-1f73-469f-974c-7b9688df0e55,real.nexus,premium,1248.75,1248.75,high,medium,4,name.com,,,25/09/2026 14:00
 f55f22ab-ca43-477e-9071-70c1b17746e3,estate.rsvp,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
 bf7e1dcd-db59-441a-af23-c632dd7d2e58,estate.pink,available,14.49,25.99,high,low,6,namesilo,,,17/09/2026 02:55
 ef4123f9-754d-4662-aa05-1509a1d4fec9,estate.construction,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
 3a99e20a-09ae-40b3-b4f8-764dcd493bd5,property.phd,premium,843.7,843.7,high,low,8,namecheap,,,
 fac5a5f8-b7fe-46a5-a697-f3699990b6da,estate.theatre,available,509.99,529.99,high,low,6,namesilo,,,17/09/2026 02:55
-b85f974b-cb60-4a30-91a2-d4bbcc89f85d,real.ltda,premium,66.3,66.3,high,medium,4,namecheap,,,25/09/2026 14:00
 4c78bf13-a2a0-42a8-b45e-cbdcca521199,property.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
-b57fd8d6-01cf-4c8a-991f-05bcbb29aa4d,home.villas,resell,,,high,medium,4,"NameCheap, Inc.",16/06/2026 15:16,16/06/2027 15:16,26/09/2026 06:42
-55b91c30-7099-4f74-a6ff-464f88bc3933,real.rich,resell,,,high,medium,4,Porkbun LLC,06/09/2025 05:47,06/09/2027 05:47,26/09/2026 08:31
 aafac67c-6863-401e-b53d-072a0395fdf6,estate.boo,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
 58d17bc0-63c0-46d7-868d-d588a9418dcb,property.yachts,premium,845,15.73,high,low,8,namecheap,,,
 854931c6-8717-4001-b60f-d18f981c919b,property.clinic,premium,520,520,high,low,8,namecheap,,,
 d0b1657b-f544-4203-acee-22d47bae9ad1,property.training,resell,,,high,low,8,Porkbun LLC,27/11/2025 02:27,27/11/2026 02:27,26/09/2026 08:22
 890cb065-af54-4350-a959-eb0db1807908,estate.review,premium,3450,116,high,low,6,namesilo,,,17/09/2026 02:55
-e17b6794-3e03-471f-b053-55fccdbebef5,real.locker,premium,1654.52,8.8,high,medium,4,namesilo,,,25/09/2026 14:00
-64ad9454-b6f1-4131-9952-d87d07773970,real.pet,resell,,,high,medium,4,"Sav.com, LLC",10/05/2020 10:16,10/05/2027 10:16,26/09/2026 08:31
 95b90923-471a-43b6-b633-38e3790e73cf,estate.surf,available,1.98,43.98,high,low,6,namecheap,,,17/09/2026 02:55
 cc154712-f4b0-4b94-8767-46adfa1d82a8,property.run,resell,,,high,low,8,"DNSPod, Inc.",19/04/2019 23:16,19/04/2027 23:16,26/09/2026 08:22
 55e893d6-770c-419f-9ce1-a0d0d63e6122,property.ski,available,,,high,low,8,,,,
-d883487e-f930-4b22-b7cc-8ab47d814996,real.la,resell,,,high,medium,4,"GoDaddy.com, Inc.",12/04/2023 08:44,12/04/2027 23:59,26/09/2026 08:31
 9736a31f-a491-4ae8-a474-950c20c81ef0,property.engineer,premium,78,78,high,low,8,namecheap,,,
 e0c9c30c-ad31-4360-948b-db3c0c4511ff,property.free,premium,650,650,high,low,8,namecheap,,,
-b9eb00e7-2f65-4c4c-9d33-40a5bdefc95f,real.blue,premium,1107,1107,high,medium,4,namesilo,,,25/09/2026 14:00
 4067cfde-c611-4c8d-aa51-c9c8915e60a3,property.online,premium,7812.5,31250,high,low,8,name.com,,,
 e0821523-0d73-4e9f-8244-e44876b14516,property.earth,resell,,,high,low,8,Porkbun,11/02/2020 16:39,11/02/2027 16:39,26/09/2026 08:22
 a275a7d9-c252-46b5-9549-019463c3e39b,property.attorney,available,,,high,low,8,,,,
 cd9eef5e-81cd-4788-b096-decd27ca1f2f,property.design,premium,845,845,high,low,8,namecheap,,,
 5139c3f1-c8e0-4c56-ba9f-252a7d376f22,property.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
-de3b40db-5aa7-41ab-b3af-5a0192afe2a6,home.loan,resell,,,high,medium,4,"eNom, LLC",08/09/2022 17:39,08/09/2028 17:39,26/09/2026 06:42
-e3c1de26-84d3-49c6-b346-ee0c7c9e7ef3,real.sydney,available,58,58,high,medium,4,namesilo,,,25/09/2026 14:00
 bcb24c61-80e8-4d43-b747-88852dd8bd86,estate.work,premium,116,11.8,high,low,6,namesilo,,,17/09/2026 02:55
+986f957a-d40b-4a1e-b164-537f736c31d8,estate.maison,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
 e84d0541-356e-477a-a0dc-d97e1dcf8aa0,property.cyou,premium,143.65,574.6,high,low,8,namecheap,,,
 96c5f584-d4e3-4fc8-9773-b7007707d174,estate.vc,resell,,,high,low,6,Dynadot Inc,10/03/2021 01:51,10/03/2027 01:51,26/09/2026 05:53
 fc4c4cfa-2671-4a53-8618-06932c79fac6,estate.pro,resell,,,high,low,6,Squarespace Domains II LLC,15/07/2019 10:08,15/07/2028 10:08,26/09/2026 05:53
 2dd6f470-7a44-4e66-b69e-44360349a64b,estate.nyc,premium,3450,29.5,high,low,6,namesilo,,,17/09/2026 02:55
-0d7d86c4-6a2b-4f7c-89e9-2260a8615496,real.soy,premium,698.1,698.1,high,medium,4,namecheap,,,25/09/2026 14:00
 950c103d-69b9-4429-a724-a202bd60deb0,property.now,resell,625,,high,low,8,Dynadot Inc,30/03/2026 00:44,30/03/2027 00:44,26/09/2026 08:22
 88c4082b-9f81-435a-8595-d8df8babb92d,estate.surgery,premium,128.7,128.7,high,low,6,namecheap,,,17/09/2026 02:55
 dbd7ce5d-0250-4fbe-bd77-896e501a88c0,estate.charity,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
@@ -520,26 +88,24 @@ af8b1dce-78d3-488d-ab39-0addce9b1d73,estate.ltda,premium,56.64,33.04,high,low,6,
 89a7a258-3474-4680-ba7b-55e5148bca37,estate.lease,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
 8c05d94b-23c8-4c0a-bea6-20172a1e9b14,estate.onl,premium,160,302.5,high,low,6,namesilo,,,17/09/2026 02:55
 c95fdff0-028d-4f02-9eac-8f363f1666b8,property.ai,resell,,,high,low,8,"GoDaddy.com, LLC",17/08/2018 16:02,17/08/2028 16:02,26/09/2026 08:22
-d50528bb-99ef-4d3c-852e-346d9a739208,real.accountants,premium,512,512,high,medium,4,namesilo,,,25/09/2026 14:00
 074ec50a-7911-4f6b-8fb0-28f72b3fe06e,estate.photo,premium,130,130,high,low,6,namecheap,,,17/09/2026 02:55
-e802baf8-d001-4298-a05e-6ecde327b2ba,real.attorney,premium,1107,1107,high,medium,4,namesilo,,,25/09/2026 14:00
+b279bc5d-7f22-4dd4-906c-07b7ade39e34,property.casa,resell,,,high,low,8,Dynadot Inc,12/08/2026 00:01,12/08/2027 00:01,26/09/2026 08:22
 bf7526d7-a4f9-4882-aeda-9d8c55da57cd,estate.sarl,available,6.99,6.99,high,low,6,namesilo,,,17/09/2026 02:55
 ce14b9c6-e2c8-41f8-a058-79c126f0de06,estate.art,premium,3450,83.3,high,low,6,namesilo,,,17/09/2026 02:55
-fef94952-3843-43ed-8a09-1c34dd4c5235,real.cricket,premium,3450,116,high,medium,4,namesilo,,,25/09/2026 14:00
 0c459348-5216-4314-85d2-d67fe05fa769,estate.to,resell,,,high,low,6,Tonic,25/09/2024 04:32,01/08/2027 00:00,26/09/2026 05:53
 0dfc9ffd-337b-43e9-8b49-01ca733a0072,estate.farm,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
 c7ea3bcd-591e-4352-b1a0-d9eff64af58f,real.living,premium,640,640,high,medium,4,namesilo,,,25/09/2026 14:00
 ac557c3c-0326-426f-babb-86e58da3c5fc,property.dentist,premium,128.7,128.7,high,low,8,namecheap,,,
 b0a69df9-475e-4d47-b918-c4469b2428e6,estate.zip,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
-7303563b-ec4b-44fb-accc-df710b2455df,real.cab,resell,,,high,medium,4,"Sav.com, LLC - 3",31/12/2025 15:15,31/12/2026 15:15,26/09/2026 08:31
 460d8df8-f387-4ddf-9d2d-92d11af7120d,estate.business,premium,38.94,38.94,high,low,6,namesilo,,,17/09/2026 02:55
-98767089-3603-49a5-b836-3e792cc67c5e,real.paris,available,65.99,65.99,high,medium,4,name.com,,,25/09/2026 14:00
 701fe5ce-73be-4035-9a44-173337b02827,property.glass,available,72.99,72.99,high,low,8,namesilo,,,
 f464c5a1-402a-4696-b54d-0f0240088f43,property.prof,premium,843.7,843.7,high,low,8,namecheap,,,
 cc52e733-4613-4b70-bbd9-8f1d4048905a,estate.trading,premium,1300,1300,high,low,6,namecheap,,,17/09/2026 02:55
 81821f6e-b14d-4772-944c-0a26a153400c,estate.llc,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
 a52f3bcc-558b-4bb2-84d7-d57f6b4340f6,property.horse,resell,,,high,low,8,"Spaceship, Inc.",07/12/2025 05:35,07/12/2026 05:35,26/09/2026 08:22
 76e697b5-21f7-4fb4-aa0b-66b0deaae7fe,estate.fail,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+f9ee1038-71dc-465b-9601-d29e995e5de1,real.maison,available,24.99,83.99,high,medium,4,name.com,,,25/09/2026 14:00
+5dfb80e3-bb2b-4a7f-b1b0-aec0f1517fe5,real.condos,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
 944a754e-391b-4ea8-8170-4b17632a80f4,estate.cloud,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
 212f557d-6187-4588-9bf7-a125dff6d4a3,estate.community,premium,85.8,85.8,high,low,6,namecheap,,,17/09/2026 02:55
 03d13e61-a031-4280-8453-42849f20c03d,estate.channel,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
@@ -555,27 +121,22 @@ da8a60ae-378c-43c6-8440-26defc2ea6d3,estate.inc,premium,2061.5,2660,high,low,6,n
 17ba9462-3835-4929-874a-f6be4ed7d25a,property.fast,premium,650,650,high,low,8,namecheap,,,
 ec691c80-46b3-401b-b60b-3e7604bfd306,property.parts,premium,128.7,128.7,high,low,8,namecheap,,,
 90bd66c3-94aa-4509-be6a-58a7d5e132a6,property.theatre,available,509.99,529.99,high,low,8,namesilo,,,
-7cf3257a-93d1-493d-ba74-76f7421bbb0e,real.tv,resell,,,high,medium,4,InternetX GmbH,01/05/2000 07:00,09/04/2027 03:59,26/09/2026 08:31
 f63d3220-8746-497c-9c17-35b70fab8958,real.supplies,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
 142aad2b-d941-42ff-91e2-d79d37ef70fd,estate.ski,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
 d907bc7d-afd9-47e0-8142-0f40e87e2336,estate.us,resell,,,high,low,6,"NameSilo, LLC",03/07/2009 18:04,02/07/2027 23:59,26/09/2026 05:53
 bbf96ca3-666b-40c4-83dc-962aba499f04,estate.markets,premium,260,260,high,low,6,namecheap,,,17/09/2026 02:55
 78407aef-83c8-4167-93f0-737289aad173,estate.vet,available,41.99,41.99,high,low,6,namesilo,,,17/09/2026 02:55
 d1ff1069-ad31-418f-ac73-f707d9ffb0a1,real.to,resell,,,high,medium,4,NAMECHEAP,01/09/2023 09:50,29/03/2028 12:37,26/09/2026 08:31
-60a02bda-5f6c-4d48-8327-bbcdcac912ac,real.games,premium,1250,1250,high,medium,4,name.com,,,25/09/2026 14:00
-034e6959-14fa-4080-8c56-df88ab52b0ee,house.maison,available,60.98,69.98,high,medium,5,namecheap,,,24/09/2026 18:37
 2135c2d1-a8f4-44b0-bfd4-e7403decf521,estate.gmbh,available,45.99,45.99,high,low,6,namesilo,,,17/09/2026 02:55
 ad62eba8-3f68-4814-8149-d34e5f9752c3,property.rich,available,94.99,1999,high,low,8,namesilo,,,
 448d241f-7b70-4acb-8d0e-70b4031c9d62,estate.uno,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
 38fd60f1-42ef-42fb-9170-2c19acd97f0a,property.live,resell,,,high,low,8,"Name.com, Inc.",26/06/2016 06:15,26/06/2027 06:15,26/09/2026 08:22
 f14b9b75-db1b-43e0-9487-ceeccbd0f645,estate.training,available,15.99,41.99,high,low,6,namesilo,,,17/09/2026 02:55
-9ff98eb6-a413-455c-aba3-f13efe481ccc,real.ac,resell,,,high,medium,4,Porkbun LLC,12/02/2024 17:00,12/02/2027 17:00,26/09/2026 08:31
 e3e38707-170c-4c66-b8e7-937902b0eec4,estate.link,premium,1995,1995,high,low,6,namesilo,,,17/09/2026 02:55
 bdc39015-6b5d-4f5a-ab26-9bf6c5536a46,property.reviews,premium,1040,1040,high,low,8,namecheap,,,
 78b8a594-ad47-4777-9698-037046ca6773,property.shopping,premium,128.7,128.7,high,low,8,namecheap,,,
 876ec65b-447a-439d-a67f-7f917f72d6a7,property.gripe,premium,42.9,42.9,high,low,8,namecheap,,,
 7ac520e5-1e5d-4e2b-be64-3a251d253077,property.recipes,available,11.99,,high,low,8,name.com,,,
-8d3d2c07-4835-46db-a300-26a7b59845aa,real.chat,resell,,,high,medium,4,Dynadot Inc,01/11/2018 02:13,01/11/2027 02:13,26/09/2026 08:30
 4a4766b3-33fc-49b8-95fc-23be0fb2b64d,property.cab,available,19.99,,high,low,8,name.com,,,
 45c9e36b-87e3-4cfd-a244-f6befbb6f797,estate.news,resell,,,high,low,6,"Sav.com, LLC",27/02/2026 17:06,27/02/2027 17:06,26/09/2026 05:53
 3e3361f5-ec2a-421e-8a44-ab53fd651d8a,estate.football,available,25.99,25.99,high,low,6,namesilo,,,17/09/2026 02:55
@@ -583,23 +144,18 @@ afa08a68-aa3a-442c-a070-5453ccd52045,property.kids,premium,65,23.4,high,low,8,na
 11d6c7f6-366a-4562-80ba-a70330a50729,real.airforce,available,149.99,149.99,high,medium,4,name.com,,,25/09/2026 14:00
 c7c0b8bd-2e2b-45a6-9832-f7703899af59,estate.education,available,34.99,34.99,high,low,6,namesilo,,,17/09/2026 02:55
 4af91c91-576b-4273-a961-3dca67d88c98,real.futbol,resell,,,high,medium,4,"GoDaddy.com, LLC",14/01/2025 23:54,14/01/2027 23:54,26/09/2026 08:31
-44661ba4-8e62-45b7-91d2-dff84db01614,home.systems,resell,,,high,medium,4,"GoDaddy.com, LLC",19/06/2016 13:20,19/06/2027 13:20,26/09/2026 06:42
 ebca518a-4568-40af-90f6-24268dcdf77b,property.site,premium,1562.5,6250,high,low,8,name.com,,,
 a25ffa58-6a57-4024-97ba-2fbdf3c0b349,estate.cooking,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 02:55
 8d40c4e9-28ef-4413-ae9c-467a1e2067a6,estate.health,resell,,,high,low,6,Dynadot Inc,03/07/2026 17:39,03/07/2027 17:39,26/09/2026 05:53
-408d9a1f-d212-44ce-b153-cac4037c19de,home.london,premium,7307.54,31.25,high,medium,4,namesilo,,,24/09/2026 23:55
 2e6998d1-def8-4d96-bcd0-d4de0822d950,property.uno,premium,1300,1300,high,low,8,namecheap,,,
 3e5d35fb-0aa3-48bd-8c53-caebd05a0057,estate.supplies,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
-653ff0c7-caf8-4d2c-9964-d41a337e2da0,home.productions,resell,,,high,medium,4,"Spaceship, Inc.",24/06/2015 11:02,24/06/2027 11:02,26/09/2026 06:42
 c031d86a-112e-4895-b33c-1226801134db,estate.icu,premium,384,768,high,low,6,namesilo,,,17/09/2026 02:55
-a5ea258f-aa5a-4ba8-947a-6fcd97e4202a,home.luxe,premium,2660,17.7,high,medium,4,namesilo,,,24/09/2026 23:55
 567495f0-468e-40d9-bd2d-870d439dcc0f,real.movie,available,47.99,349.99,high,medium,4,namesilo,,,25/09/2026 14:00
 534bf2c6-f4b2-4e0a-a157-1ba2b95a6344,real.black,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2026 15:15,14/06/2027 15:15,26/09/2026 08:31
 522b447a-0f08-4089-b64e-1c701f1fad2a,estate.tools,premium,85.8,85.8,high,low,6,namecheap,,,17/09/2026 02:55
 d46e0ad3-3353-417c-b8f0-5e3762c54a8a,property.car,available,1999.99,2199,high,low,8,namesilo,,,
 ce43164f-be2e-4af0-a105-f4a4243b33ac,real.archi,available,19.99,103.99,high,medium,4,namesilo,,,25/09/2026 14:00
 213e8362-e71a-43bd-955a-29f04faa52e0,estate.sex,available,69.98,154.98,high,low,6,namecheap,,,17/09/2026 02:55
-720c0128-bba4-48dd-878c-65b8a1acb63a,home.protection,available,1999.99,2049.99,high,medium,4,namesilo,,,24/09/2026 23:55
 49784520-b33b-49f2-a2d0-65c69c6d75fc,property.blog,premium,650,2600,high,low,8,namecheap,,,
 26b6e889-6b0d-4c3e-ba14-b96c3cddb20b,property.science,premium,650,84.5,high,low,8,namecheap,,,
 e67641ba-a3dd-4e70-8976-98c34a80f32b,property.jewelry,available,19.99,,high,low,8,name.com,,,
@@ -613,15 +169,12 @@ ce244a37-dd3d-4fb9-af4d-5fef05eec15f,property.cooking,available,32.49,32.49,high
 bc112f47-d74e-47fb-aa50-07b08664ad80,property.kitchen,available,14.99,,high,low,8,name.com,,,
 bf5c4d9d-fa4d-4abd-a767-a6d9b52de287,real.cleaning,premium,242,242,high,medium,4,namesilo,,,25/09/2026 14:00
 1fff0612-12f9-49d6-a844-ba9d9c8136ae,property.bar,premium,585,1170,high,low,8,namecheap,,,
-1294a5a8-59a2-413f-8f56-35c8575f74ab,home.media,resell,,,high,medium,4,"GoDaddy.com, LLC",16/06/2015 19:41,16/06/2027 19:41,26/09/2026 06:42
 ea5264af-e197-4f91-8698-d862db095c90,property.help,resell,,,high,low,8,united-domains GmbH,07/05/2018 12:38,07/05/2027 23:59,26/09/2026 08:22
-501d3eb4-3d49-4abe-b0d5-2c4198860680,home.computer,resell,,,high,medium,4,Porkbun LLC,05/07/2015 16:00,05/07/2027 16:00,26/09/2026 06:42
 f772a28f-3bc0-4cbf-a4b4-7c7f11e66d93,estate.energy,available,5.98,155.98,high,low,6,namecheap,,,17/09/2026 02:55
 dd1f44c7-de54-4044-8401-1dac3aa543c6,real.boo,premium,623.75,623.75,high,medium,4,name.com,,,25/09/2026 14:00
 48648ac8-bf2d-4f06-985b-0f00f598042c,property.faith,available,11.99,11.99,high,low,8,namesilo,,,
 3d70e426-83c5-4689-b747-1e3a5acc737d,real.protection,available,2070,2950,high,medium,4,namecheap,,,25/09/2026 14:00
 34ea67f8-edbd-46c9-b70b-ce238ebe07cf,property.dental,available,59.98,,high,low,8,namecheap,,,
-26910798-2cc9-4c56-b5a6-988f75ef6a65,home.cab,resell,,,high,medium,4,PDR Ltd. d/b/a PublicDomainRegistry.com,14/12/2015 04:17,14/12/2026 04:17,26/09/2026 06:42
 1b67eb50-0bfd-4206-9766-6c8e33697793,estate.accountant,premium,650,84.5,high,low,6,namecheap,,,17/09/2026 02:55
 aa32670b-96fb-4441-9ac9-ebbfd74b79f1,property.family,premium,520,520,high,low,8,namecheap,,,
 e3f10c09-4487-46b8-866f-73309bd4a35a,real.rsvp,premium,623.75,623.75,high,medium,4,name.com,,,25/09/2026 14:00
@@ -629,7 +182,6 @@ e3f10c09-4487-46b8-866f-73309bd4a35a,real.rsvp,premium,623.75,623.75,high,medium
 cb74f42a-7e01-4599-816e-b395d54994a6,estate.diy,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
 8dbd3912-51d2-49a7-84e3-050acb20eef4,estate.beer,available,1.98,43.98,high,low,6,namecheap,,,17/09/2026 02:55
 6c6698e0-aea6-413c-95b4-0d773bc43ee8,property.sbs,premium,143.65,574.6,high,low,8,namecheap,,,
-26798c43-70f6-4294-843b-35f206d61ea5,home.spot,premium,1107,1107,high,medium,4,namesilo,,,24/09/2026 23:55
 a7f591b1-a16f-4979-9e5e-51b45e63d7ed,real.store,premium,3450,3450,high,medium,4,namesilo,,,25/09/2026 14:00
 96288f15-b2bd-4a95-b996-40b53df7744a,real.gg,resell,,,high,medium,4,Chang Wen Ling t/a private.tw (http://www.private.tw),,,26/09/2026 08:31
 be449657-2e43-4099-a0af-1dc88df95d3f,property.christmas,available,34.99,34.99,high,low,8,namesilo,,,
@@ -640,18 +192,14 @@ eb4ca0b4-ea41-4066-afa7-bc3f7dc71dd1,estate.mobi,resell,,,high,low,6,"Spaceship,
 010bf253-9d68-4417-99d1-b5afb0313411,real.hot,premium,1107,1107,high,medium,4,namesilo,,,25/09/2026 14:00
 74d0c9a1-321e-4614-84eb-4ac272fdeeed,estate.voyage,available,61.98,73.98,high,low,6,namecheap,,,17/09/2026 02:55
 d20ce59b-4666-4e4a-bd33-261da3f5f189,real.ngo,premium,3125,1562.5,high,medium,4,name.com,,,25/09/2026 14:00
-d92c4620-0a97-4eb5-8785-d30d45cacdac,home.exposed,available,22.49,22.49,high,medium,4,namesilo,,,24/09/2026 23:55
-3c9792d9-3ac2-468c-87b1-a877cf9e79f2,home.plus,resell,,,high,medium,4,"DNSPod, Inc.",08/07/2015 16:00,08/07/2036 16:00,26/09/2026 06:42
 db8e34f3-166f-4ad6-9a26-7a9cef269d8a,real.cfd,premium,562.5,750,high,medium,4,name.com,,,25/09/2026 14:00
 fd258e3c-e43d-433a-99b3-289a1671d227,estate.gives,available,14.99,23.99,high,low,6,namesilo,,,17/09/2026 02:55
-7810b701-0da6-4148-a038-05a8a9494bf1,home.icu,resell,,,high,medium,4,"Spaceship, Inc.",25/12/2021 19:51,25/12/2030 23:59,26/09/2026 06:42
 760aecde-55c6-44ae-912a-a24eb1d9ae69,estate.casino,resell,,,high,low,6,"Sav.com, LLC",18/09/2025 23:02,18/09/2027 23:02,26/09/2026 05:53
 76a1b748-939c-45be-88c9-6c81bfe81c38,property.baby,available,29.99,,high,low,8,name.com,,,
 82da5df5-ee62-4ba8-a462-823fc03ff16f,property.sexy,available,2749.99,2749.99,high,low,8,namesilo,,,
+271d940a-2b57-46f8-aa45-dece70d684d7,real.realty,premium,875,1250,high,medium,4,name.com,,,25/09/2026 14:00
 72f757f5-fd48-4d7b-976a-4bc1b62e38fb,real.im,resell,,,high,medium,4,,,,25/09/2026 14:00
-605953f3-ce81-4536-959a-686f70dbfc4b,home.parts,premium,512,512,high,medium,4,namesilo,,,24/09/2026 23:55
 890c382b-2dfe-430d-abf8-d98e0beb1282,real.cloud,premium,1107,1107,high,medium,4,namesilo,,,25/09/2026 14:00
-36b885bc-c951-4aa7-896e-ca572a227385,home.fashion,resell,,,high,medium,4,Dynadot Inc,23/04/2021 16:11,23/04/2027 16:11,26/09/2026 06:42
 d3b846cf-9bd8-49e1-ae53-a4a1f14da082,real.barcelona,available,38.98,38.98,high,medium,4,namecheap,,,25/09/2026 14:00
 6c15893e-7e72-48f0-9613-0f23816bd104,estate.hiphop,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 02:55
 fa7d73d6-651a-44ea-8d37-4d126640f061,real.shopping,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",11/02/2019 11:26,11/02/2027 11:26,26/09/2026 08:31
@@ -665,7 +213,6 @@ d9360aa0-b733-4fb1-b9bb-94a16f68c786,real.training,resell,,,high,medium,4,"Globa
 c9649254-b00c-496f-83c7-f082b42ef324,estate.soy,premium,107.9,107.9,high,low,6,namecheap,,,17/09/2026 02:55
 fd1daa85-a74e-4cb7-b7e2-2a55ef2d082e,property.fishing,available,32.49,32.49,high,low,8,namesilo,,,
 b9023afd-2d70-4bb7-9a93-5e1472de37ff,property.irish,available,7.49,22.49,high,low,8,namesilo,,,25/09/2026 13:11
-63411d2f-ed4b-4284-9873-ffad243ac80e,home.technology,resell,,,high,medium,4,GoDaddy Online Services Cayman Islands Ltd.,04/07/2015 16:37,04/07/2027 16:37,26/09/2026 06:42
 656e309a-a982-453c-bea1-9900dc9617dc,estate.makeup,available,1.99,17.29,high,low,6,namesilo,,,17/09/2026 02:55
 a07dd510-8736-4de7-bf3a-bfbf9c353fb1,real.mba,resell,,,high,medium,4,"DNSPod, Inc.",15/02/2024 01:28,15/02/2027 01:28,26/09/2026 08:31
 0acde7ed-1f50-42ee-8e00-a38a0c29aeb4,estate.nexus,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
@@ -677,7 +224,6 @@ be8808a2-c3be-4ead-9fec-987d5f2aa1d4,estate.adult,available,69.98,166.98,high,lo
 36c3fc38-3159-44b0-97ec-078c8bf96c40,real.my,premium,700.62,700.62,high,medium,4,namesilo,,,25/09/2026 14:00
 c0c59202-f773-4f25-be38-b1fc5f864676,real.bar,premium,1152,1152,high,medium,4,namesilo,,,25/09/2026 14:00
 5ecc78ff-b7ea-45e7-992b-d0ae68e9fa5d,property.fans,available,,,high,low,8,,,,
-edad7cbc-efa2-4ed0-9400-a1e489081127,house.immobilien,premium,1040,1040,high,medium,5,namecheap,,,24/09/2026 18:37
 34aa88b0-93af-4446-b9be-46cb6129bf61,real.trading,premium,1250,1250,high,medium,4,name.com,,,25/09/2026 14:00
 25c7b0da-4ced-44e6-a06e-37efd1192bc5,real.build,premium,650,650,high,medium,4,namecheap,,,25/09/2026 14:00
 6ca1d06e-bae0-499d-962a-7a91ad3a0dce,estate.coupons,available,2.98,59.98,high,low,6,namecheap,,,17/09/2026 02:55
@@ -687,7 +233,6 @@ edad7cbc-efa2-4ed0-9400-a1e489081127,house.immobilien,premium,1040,1040,high,med
 799a217a-fe74-45a2-abb6-d87de0cd0882,property.press,premium,1950,3900,high,low,8,namecheap,,,
 2f499a2b-11ea-4ac9-9478-c33cb6c1c8b9,property.rocks,resell,,,high,low,8,Edomains LLC,06/04/2021 19:32,06/04/2027 19:32,26/09/2026 08:22
 c0bf0fb6-3919-47b2-b1d3-a15d44db9e73,real.irish,resell,,,high,medium,4,Dynadot Inc,26/02/2026 08:07,26/02/2027 08:07,26/09/2026 08:31
-95f87354-b709-4a21-a2fb-7ef45de51ba6,home.boston,resell,,,high,medium,4,"NameCheap, Inc.",24/11/2021 04:23,24/11/2026 04:23,26/09/2026 06:42
 bb345665-4ca1-466d-9e00-aae56a23870d,property.buzz,premium,3553.5,,high,low,8,name.com,,,
 533cffb1-a126-411f-8310-5926eb7ac805,estate.page,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
 c955ffea-60d6-4d00-b128-95671ec3d71a,real.yoga,resell,,,high,medium,4,"Sav.com, LLC - 3",12/11/2025 00:00,12/11/2026 00:00,26/09/2026 08:31
@@ -699,11 +244,10 @@ f249e08e-0d12-49b6-ae74-c2ed4d3c644e,estate.racing,premium,116,116,high,low,6,na
 a423efd0-aa48-485d-ae34-2db87d59beeb,estate.day,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
 8b29bf86-7d82-4833-a28c-2457f2220e21,property.music,available,52.48,,high,low,8,namecheap,,,
 7b3d4567-3b24-4adb-9d08-0065f956c78f,estate.living,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
+45b20aa0-170f-4ae2-89be-a6d5d665b365,property.haus,available,37.98,,high,low,8,namecheap,,,
 41701572-bb3a-441c-b6ef-02774964656b,real.pub,resell,,,high,medium,4,"DNSPod, Inc.",12/04/2024 15:16,12/04/2027 15:16,26/09/2026 08:31
-fd0cccdd-a6a7-4ca0-aa31-7fea7e9547e3,home.equipment,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",15/02/2014 02:25,15/02/2027 02:25,26/09/2026 06:42
 c282c3a0-da5c-4af4-8974-4c8b47c2da46,estate.singles,available,3.98,36.98,high,low,6,namecheap,,,17/09/2026 02:55
 cb24ffdf-986f-49b6-97aa-a83840aece48,property.coffee,available,23.99,,high,low,8,name.com,,,
-701968fd-da45-4006-9869-a357305b4ef9,home.host,premium,10350,10350,high,medium,4,namesilo,,,24/09/2026 23:55
 48b173ba-cc10-48da-908b-798139fdc920,estate.auto,available,2070,2950,high,low,6,namecheap,,,17/09/2026 02:55
 4ecd58cc-c927-4211-961d-779ff07541ea,property.london,resell,,,high,low,8,"Spaceship, Inc.",18/06/2019 15:43,18/06/2027 23:59,26/09/2026 08:22
 2a62aac7-e304-4fff-b42c-28bd2dd654ff,property.shiksha,available,19.99,,high,low,8,name.com,,,
@@ -711,7 +255,6 @@ b105515a-535b-4daa-8e8c-2183a62640bd,estate.solutions,resell,,,high,low,6,"Globa
 0e3a7eff-43bd-4bd3-8cc5-dd591e0cf7a6,estate.futbol,available,5.98,21.98,high,low,6,namecheap,,,17/09/2026 02:55
 b98d3248-263e-4e50-98ef-d63f38ff39d7,estate.foo,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
 d900cd87-4c6c-43f7-aa1a-eb5b462f4b6c,estate.taxi,available,8.98,69.98,high,low,6,namecheap,,,17/09/2026 02:55
-a29f1a11-48d7-4be7-ab51-6dacee6e2e9b,home.rich,available,94.99,1999,high,medium,4,namesilo,,,24/09/2026 23:55
 629f928e-298f-4e43-a7fe-7dc26624d7b9,estate.jetzt,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 02:55
 c0a7b1a7-2fcb-4a24-82c7-c9b75473e8ac,property.style,premium,128.7,128.7,high,low,8,namecheap,,,
 aa166def-6e14-44e3-8a4f-a4f6a17d3708,estate.hosting,available,309.99,429.99,high,low,6,namesilo,,,17/09/2026 02:55
@@ -738,7 +281,6 @@ b8519c4f-dc5d-4786-b8e9-ab5340c36184,real.asia,resell,,,high,medium,4,"DNSPod, I
 aca0968b-a63f-4f40-bed0-2fde69ed1dc1,estate.kids,premium,53.92,21.24,high,low,6,namesilo,,,17/09/2026 02:55
 0f4d11fe-6642-4497-a2fc-d5bddda10c11,estate.dad,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
 90d2b998-ec6c-4d40-a759-bf6900089c52,real.how,premium,768.3,768.3,high,medium,4,namecheap,,,25/09/2026 14:00
-e27d4690-30b7-49fc-9ea9-dbb8ef435dd2,housing.villas,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 12:13
 1ef7b52e-7700-45a3-8a34-e96dba157797,property.kiwi,premium,1107.8,,high,low,8,name.com,,,
 530b6c9e-fe88-4370-9eeb-25b257ee1bda,property.diet,available,104.99,114.99,high,low,8,namesilo,,,
 f777e2bd-52b7-434d-b9f5-3b0c04be545d,estate.love,premium,8280,8280,high,low,6,namesilo,,,17/09/2026 02:55
@@ -747,18 +289,18 @@ f777e2bd-52b7-434d-b9f5-3b0c04be545d,estate.love,premium,8280,8280,high,low,6,na
 bbb594c9-9ec9-4f52-895d-41f3f28b62d9,estate.enterprises,available,11.49,35.99,high,low,6,namesilo,,,17/09/2026 02:55
 f723a10b-2fad-442e-8e48-ff1ee924e9a8,property.report,resell,,,high,low,8,Porkbun LLC,18/11/2016 08:05,18/11/2026 08:05,26/09/2026 08:22
 53aec708-b126-488c-bae0-f13925d0135c,home.homes,premium,11040,11040,high,medium,4,namesilo,,,24/09/2026 23:55
-caadad3a-5cb3-4926-93e9-30638be9d0b7,home.gmbh,premium,242,242,high,medium,4,namesilo,,,24/09/2026 23:55
 e49070d0-cb19-4eab-8329-49a9ed637dc0,property.accountant,premium,650,84.5,high,low,8,namecheap,,,
 d46f2bd4-003b-4045-934c-e7a1187796bc,property.makeup,premium,2600,15.73,high,low,8,namecheap,,,
-12a6978c-c44c-45f7-8e96-0943dfc15b20,home.singles,resell,,,high,medium,4,"Sav.com, LLC - 8",28/08/2026 15:16,28/08/2027 15:16,26/09/2026 06:42
 0e95c92c-81f4-495a-9a8e-3b9a09e8fa7b,property.fail,premium,128.7,128.7,high,low,8,namecheap,,,
 c4de27e2-4bb2-4bf9-b055-940010fe36d9,property.construction,resell,,,high,low,8,"Name.com, Inc.",18/02/2014 16:15,18/02/2027 16:15,26/09/2026 08:22
 1c5dd0c4-e46c-43b5-ab06-57343041dfd3,real.wedding,resell,,,high,medium,4,Dynadot Inc,20/07/2025 00:01,20/07/2027 00:01,26/09/2026 08:31
+b8e0c935-6806-450b-8d91-a9dfb1fd69c3,property.loans,resell,,,high,low,8,"GoDaddy.com, LLC",23/11/2016 03:12,23/11/2027 03:12,26/09/2026 08:22
 ad093c24-c520-485a-8d19-e001089f2640,estate.direct,premium,38.94,38.94,high,low,6,namesilo,,,17/09/2026 02:55
 9ef78cf0-b91a-45b0-8468-dd569780e089,real.florist,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
 2fb925ad-8564-4cdc-a949-7c5c2999255d,real.blog,premium,1582.5,6250,high,medium,4,name.com,,,25/09/2026 14:00
 36bf6fd0-42eb-444a-a326-1f277a1ebc18,real.accountant,premium,640,77.35,high,medium,4,namesilo,,,25/09/2026 14:00
 2b32ee24-bd18-4b20-82aa-82bd8a1c508d,property.salon,available,14.99,,high,low,8,name.com,,,
+723718f4-5f80-4fd1-ae77-fb59bc237d54,property.space,premium,3250,13000,high,low,8,namecheap,,,
 e926752b-ade1-4d47-959f-45e8fd5cdacb,estate.bayern,available,34.99,34.99,high,low,6,namesilo,,,17/09/2026 02:55
 0155b12b-623b-4f66-9f85-8cb55a4d59be,real.website,premium,3450,3450,high,medium,4,namesilo,,,25/09/2026 14:00
 bb8e4477-e2be-4703-995b-5ff091a1438d,property.mom,premium,845,845,high,low,8,namecheap,,,
@@ -766,7 +308,6 @@ bb8e4477-e2be-4703-995b-5ff091a1438d,property.mom,premium,845,845,high,low,8,nam
 677150f2-a204-4e62-83c8-ec8f8ab05842,estate.holiday,available,64.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
 ffe710eb-46f2-47ca-8eb0-6664c021269f,estate.storage,available,509.99,529.99,high,low,6,namesilo,,,17/09/2026 02:55
 a6358cb7-8fbb-4d28-9481-96cf62128d30,estate.rich,available,94.99,1999,high,low,6,namesilo,,,17/09/2026 02:55
-ace5ca96-22c9-40d1-b181-db2d0a204f17,housing.immobilien,available,39.98,43.98,high,low,7,namecheap,,,24/09/2026 12:13
 16007dae-dfe9-4d8b-aef4-fce1986dd3d8,estate.dealer,premium,4278,2660,high,low,6,namesilo,,,17/09/2026 02:55
 8a83f83d-5b6c-448a-9528-5d6e3163d584,real.domains,resell,,,high,medium,4,Porkbun LLC,04/06/2026 21:21,04/06/2027 21:21,26/09/2026 08:31
 1f75ac7d-2404-419a-9517-f7c1ee9bd29e,estate.recipes,available,8.99,77.99,high,low,6,namesilo,,,17/09/2026 02:55
@@ -780,11 +321,11 @@ fd07a538-f1f4-4ed2-a9f9-e67f2d4c5010,estate.camera,available,58.99,58.99,high,lo
 3b03cc6d-4c10-4ad7-91cf-e1b1eb00bd1d,property.tennis,available,65.99,65.99,high,low,8,namesilo,,,
 fc2178b6-9d04-4323-b3a5-813f3a438752,estate.reisen,available,21.98,28.98,high,low,6,namecheap,,,17/09/2026 02:55
 d051d72d-200f-4b56-be69-a46e185ea77a,estate.clothing,available,32.99,32.99,high,low,6,namesilo,,,17/09/2026 02:55
-f066e0e5-2c10-40e1-bb94-8f8c0eed993b,home.link,resell,,,high,medium,4,"Global Domains International, Inc.",26/07/2017 21:50,26/07/2027 21:50,26/09/2026 06:42
 aea78d87-742b-4509-81ae-8c43948db4b2,property.date,premium,130,32.5,high,low,8,namecheap,,,
 b9f08a9f-80b7-4d05-a54c-05ab768c6950,real.voto,available,11.98,86.98,high,medium,4,namecheap,,,25/09/2026 14:00
 19ebd9c3-62be-4149-9da9-b6264dee6487,real.cruises,premium,242,242,high,medium,4,namesilo,,,25/09/2026 14:00
 3558808e-e366-46b2-90b0-50a63a585c02,estate.esq,resell,,,high,low,6,"GoDaddy.com, LLC",19/01/2024 22:33,19/01/2027 22:33,26/09/2026 05:53
+ae30f2bc-1a27-498c-bc2b-43dd215e5b66,property.holdings,resell,,,high,low,8,"Sav.com, LLC",19/04/2017 10:22,19/04/2027 10:22,26/09/2026 08:22
 632737ac-7975-4bbb-987a-084d9ea0cfc0,estate.voto,available,11.98,86.98,high,low,6,namecheap,,,17/09/2026 02:55
 6e0e8f15-aff6-4b93-b64b-e99e4697a2fb,real.surgery,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
 c696afe8-bcff-45fc-a86b-d2d54eccff1f,estate.im,resell,,,high,low,6,,,,17/09/2026 02:55
@@ -798,11 +339,10 @@ c1f4945d-0aa3-4ae9-8270-6658bf5c3886,real.kids,premium,375,22.5,high,medium,4,na
 70244563-86f4-41ae-9e15-8a5bd533bb31,real.pictures,resell,,,high,medium,4,Dynadot Inc,23/07/2014 16:00,23/07/2027 16:00,26/09/2026 08:31
 eb4e3b99-75b2-4b7b-a820-38b9c43736bd,estate.skin,available,1.8,21.98,high,low,6,namecheap,,,17/09/2026 02:55
 f84a5f94-db20-4c42-91fe-4de5b59cec5c,estate.camp,available,65.98,78.98,high,low,6,namecheap,,,17/09/2026 02:55
+8e7aa1e9-44c8-4f62-816b-6fce40df6060,property.ninja,resell,,,high,low,8,"Sav.com, LLC - 6",15/04/2026 15:15,15/04/2027 15:15,26/09/2026 08:22
 1be10a04-3bbb-4c94-877e-2836157837c4,property.archi,premium,128.7,128.7,high,low,8,namecheap,,,
 bd978b1b-ba5e-4459-85a8-c27d3f699d88,property.beauty,premium,2600,15.73,high,low,8,namecheap,,,
 92001186-a7d2-4316-b810-9e5a26a749c9,property.mobi,resell,,,high,low,8,"GoDaddy.com, LLC",28/07/2013 03:25,28/07/2027 03:25,26/09/2026 08:22
-0af9e798-263a-4846-bd05-b398e23d039f,home.airforce,available,109.98,134.98,high,medium,4,namecheap,,,24/09/2026 23:55
-c5d448bc-b8d6-4714-8d02-4031cfd6555b,home.furniture,resell,,,high,medium,4,1API GmbH,17/07/2015 16:00,17/07/2027 16:00,26/09/2026 06:42
 28aff195-5c74-4b8f-afdf-245268282bb2,real.baby,resell,,,high,medium,4,Dynadot Inc,20/07/2026 17:12,20/07/2027 23:59,26/09/2026 08:31
 6248fded-655f-4842-8376-c8d1021f5618,property.navy,available,41.99,41.99,high,low,8,namesilo,,,
 d929de58-5d5d-44cd-940a-a39bf4bf9e96,real.storage,available,509.99,529.99,high,medium,4,namesilo,,,25/09/2026 14:00
@@ -813,13 +353,10 @@ b0938f98-39d8-4928-8011-1f8908a524fa,property.international,resell,,,high,low,8,
 a4422d57-9ce8-4004-bde4-82ada41cb571,real.pics,resell,,,high,medium,4,Dynadot Inc,15/04/2014 16:00,15/04/2027 23:59,26/09/2026 08:31
 22b652c0-75f1-4fd9-8642-f37c329fb63e,property.flowers,available,64.99,114.99,high,low,8,namesilo,,,
 7e76615c-f5ea-4063-902f-a658b64ac901,property.lgbt,available,19.99,,high,low,8,name.com,,,
-71aef84a-e236-46a2-a308-a882a937c2cb,home.chat,resell,,,high,medium,4,"Spaceship, Inc.",20/03/2019 13:37,20/03/2027 13:37,26/09/2026 06:42
 6155db57-814b-48d8-80f2-c3d6751e1662,real.group,resell,,,high,medium,4,"Spaceship, Inc.",24/08/2019 09:31,24/08/2027 09:31,26/09/2026 08:31
 c6cb4d2d-a4c3-4395-b2b4-b6840571412f,property.pw,premium,3250,3250,high,low,8,namecheap,,,
 16d0b9fe-bdfb-4349-921d-4e35b2ef9f4a,real.fishing,premium,96,29.5,high,medium,4,namesilo,,,25/09/2026 14:00
-b9a70e36-8b6c-4e27-a452-f7cd2f3db939,home.center,resell,,,high,medium,4,"GoDaddy.com, LLC",28/06/2015 16:49,28/06/2027 16:49,26/09/2026 06:42
 9a190dbf-16c1-477b-9578-1551d923a0ed,property.center,resell,,,high,low,8,"Spaceship, Inc.",19/08/2023 15:15,19/08/2027 15:15,26/09/2026 08:22
-c76fccec-1f7f-4921-bf65-82a637ea3228,home.auto,available,1999.99,2199,high,medium,4,namesilo,,,24/09/2026 23:55
 48f91613-d9ee-4c8a-8988-011dcdca70e0,property.fun,premium,325,1300,high,low,8,namecheap,,,
 2cfdb471-faec-41e5-a0d0-11b7d09316e8,property.wedding,available,32.49,32.49,high,low,8,namesilo,,,
 50231b67-4c28-40f4-bf86-6689c9863ca4,real.lol,premium,845,845,high,medium,4,namecheap,,,25/09/2026 14:00
@@ -827,175 +364,638 @@ c76fccec-1f7f-4921-bf65-82a637ea3228,home.auto,available,1999.99,2199,high,mediu
 d4cb1b0d-9f95-410f-86b8-0e1f83fe2cb2,estate.ngo,available,18.98,24.98,high,low,6,namecheap,,,17/09/2026 02:55
 a51f1b8a-b5a6-4786-9810-d3b63c081e7a,property.fashion,available,32.49,32.49,high,low,8,namesilo,,,
 5856f050-ef02-4314-a570-8ba8d5dd0243,estate.expert,premium,854,854,high,low,6,namesilo,,,17/09/2026 02:55
-7e5fe711-a3ea-483e-b6fc-9e50edd780ad,home.limited,resell,,,high,medium,4,"Spaceship, Inc.",20/09/2017 14:39,20/09/2027 14:39,26/09/2026 06:42
 964f4f02-3ac7-4d6c-8d17-1b13b82510eb,real.uk,resell,,,high,medium,4,"Dynadot, LLC t/a Dynadot",04/07/2019 13:00,04/07/2027 13:00,26/09/2026 08:31
+442eebcd-a16a-475f-8c3f-27245a14d49c,property.locker,premium,6500,58.5,high,low,8,namecheap,,,
 10483e9c-03ee-496f-b319-e7761d72541d,estate.food,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
 2cf05575-bdf0-421d-aa9f-db47846930bc,estate.photos,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
 c010dbc0-8616-4a44-8504-e8c64c5a9855,property.ink,resell,,,high,low,8,"Sav.com, LLC - 49",22/07/2026 00:01,22/07/2027 00:01,26/09/2026 08:22
 416f070d-0e3e-4f0a-af19-9b7227581419,property.camera,available,,,high,low,8,,,,
 5b962989-2163-4259-8af0-f519834ad283,estate.you,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
 99ddbf47-0e7e-4f81-ae17-b2a73449817b,real.mobile,premium,1300,1300,high,medium,4,namecheap,,,25/09/2026 14:00
+4652d4f3-f409-43a1-a598-fe21fbfe01e8,property.builders,available,,,high,low,8,,,,
 947d3587-cb1d-486c-af0e-f4cbe7ec7995,estate.fans,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
+b20a1409-765d-4b92-bfe1-6c969bfc8618,property.trade,resell,,,high,low,8,Porkbun,29/07/2019 13:27,29/07/2030 13:27,26/09/2026 08:23
 e750d5d1-773d-4777-93f7-1940191d8f70,estate.shiksha,available,11.98,69.98,high,low,6,namecheap,,,17/09/2026 02:55
 31a71986-9ece-4b51-b3f5-9ed746aee2f5,property.bingo,available,14.99,,high,low,8,name.com,,,
 f1a5fa47-6a02-487b-9ed6-c15de4af8c6f,real.auto,available,1999.99,2199,high,medium,4,namesilo,,,25/09/2026 14:00
+c33b2f39-5f75-497d-8251-d73531375584,property.town,premium,85.8,85.8,high,low,8,namecheap,,,
 4e8dee64-4719-4919-a8d2-fa90e7d38581,property.ngo,available,16.99,,high,low,8,name.com,,,
 6c55314f-ba9e-4cff-a206-18b2b94ecbcf,estate.kaufen,available,29.98,33.58,high,low,6,namecheap,,,17/09/2026 02:55
 1528f9a4-bdef-46e3-824e-64ab30ada424,estate.fan,premium,128.7,128.7,high,low,6,namecheap,,,17/09/2026 02:55
 db59c67a-3768-48f3-82c1-d70ad936526d,estate.boutique,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
+d43e4673-e6d6-444d-93a6-e20dda491cfa,property.ltda,premium,66.3,66.3,high,low,8,namecheap,,,
 5e964a37-3bdc-4e1c-a74e-aa667ed78339,estate.luxe,resell,,,high,low,6,Dynadot Inc,13/03/2023 13:47,13/03/2027 13:47,26/09/2026 05:53
 8a573cc0-0d0e-4c85-b895-5e1c6f5c2e09,real.tires,premium,242,242,high,medium,4,namesilo,,,25/09/2026 14:00
 7e53b7eb-f95f-4145-9028-eaf6d62f137b,estate.red,resell,,,high,low,6,"Sav.com, LLC - 46",28/06/2026 15:15,28/06/2027 15:15,26/09/2026 05:53
 0f41e375-0e5c-4ee0-b8ea-8f4d72aa06cd,real.hiv,available,184.99,184.99,high,medium,4,name.com,,,25/09/2026 14:00
 624d3e2f-e05b-4b43-a005-83e1cabc7d7c,property.health,resell,,,high,low,8,Dynadot Inc,13/02/2026 00:00,13/02/2027 00:00,26/09/2026 08:22
-8fdf6f82-850c-4355-9d63-77363f2e173f,home.country,available,2298,2450,high,medium,4,namecheap,,,24/09/2026 23:55
 490f4589-4500-44c7-964e-f6c8c13a823d,estate.movie,available,47.99,349.99,high,low,6,namesilo,,,17/09/2026 02:55
 3476b76f-53c5-4f95-9203-ded4a2231266,property.luxe,premium,5000,,high,low,8,name.com,,,
 ce31934b-58a3-456c-a40c-94e6b4c7778b,property.qpon,available,,,high,low,8,,,,
 982a4225-9575-44f1-b756-f45e2eba1da3,real.fund,resell,,,high,medium,4,Dynadot Inc,02/03/2023 15:15,02/03/2027 15:15,26/09/2026 08:31
-98c85832-b4f3-440a-b443-0d362573a6bf,home.vin,resell,,,high,medium,4,"DNSPod, Inc.",22/05/2021 22:27,22/05/2027 22:27,26/09/2026 06:42
-c785c5ca-ffbb-444f-bce5-cf2c09f56363,home.irish,premium,242,242,high,medium,4,namesilo,,,24/09/2026 23:55
 c1a4e21b-f50c-4027-b41e-5ada3f9b3596,property.melbourne,premium,8627.89,8627.89,high,low,8,namecheap,,,
 753cc212-15cd-4460-a2bf-1613810e972f,real.gives,available,7.48,37.98,high,medium,4,namecheap,,,25/09/2026 14:00
 da3e4823-ea12-4262-8a96-8717a2afb3da,property.bz,available,,,high,low,8,,,,
 dfea0555-ecd1-4396-a5f4-88ecb8f98fe2,estate.discount,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
 a25c2423-2ece-4a98-bdde-c5ceaae0cc1f,property.band,available,,,high,low,8,,,,
 7bcc5f0e-193e-4423-a0a5-f06e55d0e09b,property.quest,premium,845,15.73,high,low,8,namecheap,,,
-bf088259-b221-4391-a94b-fd992037989b,home.car,available,1999.99,2199,high,medium,4,namesilo,,,24/09/2026 23:55
 ce4b06ea-6a0e-458b-b379-bde2720c0f2e,property.day,premium,648.7,648.7,high,low,8,namecheap,,,
+bafe3e7e-7882-4993-8f0f-2b28615ef92b,property.forex,premium,1250,,high,low,8,name.com,,,
 e5aa1df6-2308-485b-852d-11d503b584eb,real.memorial,premium,85.8,85.8,high,medium,4,namecheap,,,25/09/2026 14:00
 66f57004-0f15-44aa-8d10-7d5238a5d730,property.skin,premium,2600,15.73,high,low,8,namecheap,,,
 d36b7d79-8079-4dce-910b-74ff44540a2d,estate.organic,available,17.99,85.99,high,low,6,namesilo,,,17/09/2026 02:55
 3a9b1bc0-2160-4490-ab20-6bae93cde949,estate.archi,available,19.99,103.99,high,low,6,namesilo,,,17/09/2026 02:55
 4809fb82-5e34-4128-8e42-16a13a88bf05,property.global,premium,3120,65,high,low,8,namecheap,,,
+50f7355b-cacb-4d66-ac9e-1c081513d8dd,property.llc,premium,302.5,302.5,high,low,8,namesilo,,,
 3569b331-cdcb-4afe-819c-63c7b1cbbe2d,estate.london,premium,699.7,34.98,high,low,6,namecheap,,,17/09/2026 02:55
 65f9f695-094a-4861-a662-6037803d4fab,estate.deals,premium,1040,1040,high,low,6,namecheap,,,17/09/2026 02:55
 b23a6cc9-c05d-439a-80b0-644db584af86,estate.shop,premium,3450,3450,high,low,6,namesilo,,,17/09/2026 02:55
 561b3f64-cd9c-416f-928f-11f0d2ffe187,estate.creditcard,available,144.99,144.99,high,low,6,namesilo,,,17/09/2026 02:55
 77e67004-58fc-4102-ba69-c76989d330b0,estate.soccer,available,25.99,25.99,high,low,6,namesilo,,,17/09/2026 02:55
-d4e18915-a760-457b-9bd8-9cbe14ba4558,home.hot,premium,1107,1107,high,medium,4,namesilo,,,24/09/2026 23:55
 d737a2f0-f2db-4ee5-87aa-55b3b726ab64,real.gripe,premium,42.9,42.9,high,medium,4,namecheap,,,25/09/2026 14:00
+8f1fda1a-751a-4db2-b842-31b0986d62f9,property.photo,premium,130,130,high,low,8,namecheap,,,
 a870c888-e4f8-42e4-abc9-2209eb762a83,estate.yachts,available,1.99,17.29,high,low,6,namesilo,,,17/09/2026 02:55
 6cf39364-6d7d-44b4-a1ac-31e6be074c14,real.security,available,1999.99,2049.99,high,medium,4,namesilo,,,25/09/2026 14:00
 07f2fdbd-d27f-418f-b366-790509a6dbc7,property.movie,available,69.99,,high,low,8,name.com,,,
 fefff4b0-87d6-478f-b876-a1506f418672,estate.tennis,available,65.99,65.99,high,low,6,namesilo,,,17/09/2026 02:55
-3898e134-6e8b-45e6-8de4-3df4251d0b69,home.reise,available,27.89,97.99,high,medium,4,namesilo,,,24/09/2026 23:55
-254409c7-5778-46af-aff4-9d8eb6cc3109,home.tv,resell,,,high,medium,4,InternetX GmbH,01/05/2000 07:00,09/04/2027 03:59,26/09/2026 06:42
 7f417bfd-9b5d-43d8-a8a5-adb56d8d1cdb,estate.pub,available,39.99,39.99,high,low,6,namesilo,,,17/09/2026 02:55
 4b260334-8347-4661-a8a9-744324e22023,estate.dance,available,16.99,27.49,high,low,6,namesilo,,,17/09/2026 02:55
 bb68a1f7-8601-428d-bab4-301da36374c7,real.lifestyle,premium,640,640,high,medium,4,namesilo,,,25/09/2026 14:00
-599ddb61-752a-42df-b186-e813ae9fefc4,apartment.apartments,resell,,,high,low,9,"Go Canada Domains, LLC",24/05/2015 16:00,24/05/2027 16:00,26/09/2026 03:55
 2ec36d74-ab54-4824-842b-d7eb9ecbff28,estate.gratis,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 02:55
-7f4fce2c-ddff-4b55-ae93-892ba8311ddd,home.mx,resell,,,high,medium,4,1api GmbH,02/09/2009 00:00,01/09/2027 00:00,26/09/2026 06:42
 9bee42d1-68ca-4123-b8fc-3caa9d2c7055,estate.theater,available,67.98,80.98,high,low,6,namecheap,,,17/09/2026 02:55
+d21ea9b5-c2b4-4790-a8bd-a741f813c59b,property.lifestyle,premium,650,1300,high,low,8,namecheap,,,
 82686a83-3199-4220-ab22-ca9f7a4387d3,property.protection,available,1999.99,2049.99,high,low,8,namesilo,,,
-7598d57f-a53c-4229-8b10-b0f1118d7f85,home.desi,available,19.98,22.98,high,medium,4,namecheap,,,24/09/2026 23:55
-7928bb36-b260-4e4f-b5e5-ce2e19318701,home.associates,premium,38.94,38.94,high,medium,4,namesilo,,,24/09/2026 23:55
-a3b2a7ee-87c9-4048-8e26-d3bccb6611ab,apartment.rent,premium,13800,13800,high,low,9,namesilo,,,19/09/2026 16:17
 3a3170a2-dedc-4598-8337-12fb30ca5e4a,real.cafe,resell,,,high,medium,4,UM DOMAINS PTE. LTD,02/01/2026 15:15,02/01/2027 15:15,26/09/2026 08:31
 aacd4b48-ced0-4f99-b3ae-a0747af651be,estate.claims,resell,,,high,low,6,"Spaceship, Inc.",04/09/2026 08:31,04/09/2027 08:31,26/09/2026 05:53
-8dc544e5-6f8c-4be8-83cf-96596dfb1a84,apartment.villas,premium,78.54,78.54,high,low,9,namesilo,,,19/09/2026 16:17
 a0fd935f-49d5-4341-ac71-40a39910487f,estate.poker,available,10.99,67.99,high,low,6,namesilo,,,17/09/2026 02:55
 e515d43b-a489-44bc-a18f-1db7dbabf04d,home.haus,resell,,,high,medium,4,"Sav.com, LLC",09/04/2023 17:45,09/04/2027 17:45,26/09/2026 06:42
+595594c2-fd8f-4241-9a92-2030203c2ef4,property.gay,premium,38.99,38.99,high,low,8,namesilo,,,
+b07ff0fb-0454-4a4b-b816-77e95434679e,property.furniture,premium,128.7,128.7,high,low,8,namecheap,,,
+338166f0-16a8-43ec-a6d6-163f16d09cce,property.world,resell,,,high,low,8,"Spaceship, Inc.",29/03/2019 11:12,29/03/2027 11:12,26/09/2026 08:22
+fcc2a03e-fa6d-4222-96e8-a08ace7caa31,property.company,resell,,,high,low,8,GoDaddy Online Services Cayman Islands Ltd.,23/06/2015 19:23,23/06/2027 19:23,26/09/2026 08:22
 ddfc9c6a-8569-4b4f-a502-a2f1fdc5de1b,estate.navy,available,43.98,45.98,high,low,6,namecheap,,,17/09/2026 02:55
 41e292e6-dd8c-4305-b87a-442a43f5dabc,real.global,resell,29612.5,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),11/04/2022 17:00,11/04/2036 17:00,26/09/2026 08:31
-24ba0d82-bf26-4df8-a837-92e0419069b0,land.realty,premium,8190,11700,high,low,4,namecheap,,,
+6868c644-a374-478f-87cd-39859f7dab55,property.berlin,available,89.98,,high,low,8,namecheap,,,
+4f34f688-1705-42e1-a2e2-70af8f2e4aec,property.rsvp,premium,623.75,,high,low,8,name.com,,,
+44cfdd32-d034-4037-9a1d-f4359978ab7f,property.gifts,premium,260,260,high,low,8,namecheap,,,
 945b97d0-3831-48cf-b22e-b46d65713a73,estate.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
-3a2d3c9a-5117-424b-972d-6cd348b4e8f5,house.condos,premium,128.7,128.7,high,medium,5,namecheap,,,24/09/2026 18:37
-37f1a8da-bce4-4124-bcd1-83bec13b7d34,apartment.homes,premium,2660,2660,high,low,9,namesilo,,,19/09/2026 16:17
+4524cc55-f502-4086-8e39-04059025f6b1,property.trading,premium,1250,,high,low,8,name.com,,,
+b3834445-1d61-4cc3-bbf2-170f0adb8dfd,property.deal,premium,650,650,high,low,8,namecheap,,,
+e85d5f79-865d-4eaf-8bdd-f5fcc28b95ba,property.dealer,premium,2015,2600,high,low,8,namecheap,,,
 b2abd6d8-59b5-460b-bacd-5c27d6bab1b2,estate.giving,available,7.48,35.98,high,low,6,namecheap,,,17/09/2026 02:55
+1c517078-0bf9-4c08-8208-6573db56f373,property.schule,available,19.99,,high,low,8,name.com,,,
 a7b216b5-4058-43d7-b90d-9924f8cf687e,real.zone,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",24/12/2020 14:22,24/12/2026 14:22,26/09/2026 08:31
 adfac3e1-25d7-4b3a-a821-0d71691390b8,estate.fitness,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
-81ab0173-68b9-4536-84d6-e5e6552c406f,housing.apartments,premium,78.54,78.54,high,low,7,namesilo,,,24/09/2026 12:13
+574165a8-0f4f-453e-8441-6de4bcdfc5bd,property.cars,available,1999.99,2199,high,low,8,namesilo,,,
+d4683308-4fa0-49ff-8691-1b1c013f4a8f,property.airforce,available,103.99,103.99,high,low,8,namesilo,,,
+460ad6a6-e8b7-4194-ac3b-f603df8beca3,property.market,available,,,high,low,8,,,,
+9c7a5251-fcfa-4b90-ac8e-2c7360001339,property.broker,premium,6250,,high,low,8,name.com,,,
 db266fbe-e237-4cf7-90e6-b86de6fae9b3,estate.kiwi,available,31.98,35.68,high,low,6,namecheap,,,17/09/2026 02:55
 9ca13571-d108-4be7-b07a-596c49ba52a6,real.tel,resell,,,high,medium,4,Dynadot Inc,22/05/2024 20:38,22/05/2027 20:38,26/09/2026 08:31
-4b278e7d-d502-4ec0-8bb9-3224a468c38b,land.properties,premium,1040,1040,high,low,4,namecheap,,,
+e5d50590-dc8a-4cd6-bda7-f65dfabd73f3,property.hair,premium,2600,15.73,high,low,8,namecheap,,,
 44425af5-4be4-4939-b289-b213eb59be55,estate.de,resell,,,high,low,6,,,,26/09/2026 05:53
-b5a4a152-b1e6-4a1c-a1f0-d9d1320efe0e,home.ong,premium,65,32.5,high,medium,4,namecheap,,,24/09/2026 23:55
-27db7fad-fc1b-4282-a5e7-559fc837b95c,home.living,premium,1107,1107,high,medium,4,namesilo,,,24/09/2026 23:55
-4493769f-e728-4813-beeb-23c33534a3cf,home.wine,resell,,,high,medium,4,1API GmbH,24/01/2016 19:02,24/01/2027 19:02,26/09/2026 06:42
 da7a9bd3-664d-4be4-bf5b-5eda44f38dce,real.diy,premium,640,640,high,medium,4,namesilo,,,25/09/2026 14:00
 bad51f3a-0bfe-4e36-a693-b9aa7a6a2492,real.car,available,1999.99,2199,high,medium,4,namesilo,,,25/09/2026 14:00
-b8663bec-db47-4899-b698-ddb92424c654,home.shiksha,available,14.99,51.99,high,medium,4,namesilo,,,24/09/2026 23:55
-cfaf43f7-1cab-4054-985f-c57e654eebef,apartment.immo,premium,242,242,high,low,9,namesilo,,,19/09/2026 16:17
-b1dc2b5d-b239-48e4-865c-93efae068deb,home.enterprises,premium,512,512,high,medium,4,namesilo,,,24/09/2026 23:55
-471c1e0e-7819-478f-8bd6-d23e772439d5,house.co,resell,,,high,medium,5,Hello Internet Corp.,25/02/2010 01:21,24/02/2027 23:59,26/09/2026 06:44
+acff627e-2b88-4dca-8d1a-c4e0002a6a4b,property.holiday,premium,260,260,high,low,8,namecheap,,,
+73aa37c6-37db-46d1-b78d-cb5966f38c38,estate.mba,available,17.99,39.99,high,low,6,namesilo,,,17/09/2026 02:55
+58269173-7bba-4ee3-a281-98acfc92389a,estate.plumbing,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
+940ddc81-032a-4eb0-9cda-a4d4527f42d1,estate.pictures,resell,,,high,low,6,Dynadot Inc,31/01/2026 17:00,31/01/2027 17:00,26/09/2026 05:53
+873e5a15-9eca-4103-a451-acd2ff1967b6,property.reisen,available,3.99,20.99,high,low,8,namesilo,,,
 ea6a70b5-5ea3-455c-b262-98e5140d9ff0,real.theatre,available,750,949.99,high,medium,4,name.com,,,25/09/2026 14:00
+c7be5615-2a0a-48fd-a3e3-c41ef6c4e042,property.consulting,premium,3900,3900,high,low,8,namecheap,,,
+77011bd4-120e-43d0-bde6-5d10beef8fec,property.gift,available,14.99,14.99,high,low,8,namesilo,,,
 2666e412-a980-4657-ae4e-60a98f19f0ea,real.shiksha,available,19.99,74.99,high,medium,4,name.com,,,25/09/2026 14:00
-5b935e46-37ca-4256-9adf-d4e4ee505f24,realty.villas,premium,250,250,high,low,6,name.com,,,21/08/2026 21:24
-9cb6440c-0c23-4ee7-9a81-36b7c596d3d5,home.gg,resell,,,high,medium,4,West263 International Limited (http://www.363.hk),,,26/09/2026 06:42
+fb7b3ebb-cc18-4fd5-a9a5-4ede69efac60,estate.garden,premium,242,29.5,high,low,6,namesilo,,,17/09/2026 02:55
+35db9a54-8ffb-4ec7-9eae-03977a05d388,estate.lifestyle,premium,1107,1107,high,low,6,namesilo,,,17/09/2026 02:55
+67007264-8581-4f3d-9953-99f29c85d891,property.men,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",27/05/2018 11:56,27/05/2029 11:56,26/09/2026 08:22
+f93c1d31-a058-4693-a04c-7f89ad58765a,estate.bingo,available,53.99,53.99,high,low,6,namesilo,,,17/09/2026 02:55
+e6b232fb-61e7-4dcb-84b0-db9753317662,property.auto,available,1999.99,2199,high,low,8,namesilo,,,
+722b0164-8e41-456f-bb4e-81c5fc352555,estate.black,available,27.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
+ea38f0ac-b6b5-4213-bfa0-d0f38413b7f2,estate.furniture,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
 e2ec03e0-a419-4408-b442-989858565556,estate.security,available,1999.99,2049.99,high,low,6,namesilo,,,17/09/2026 02:55
+860b2977-81f3-4020-af5e-88ec22fb28d2,estate.reise,available,27.89,97.99,high,low,6,namesilo,,,17/09/2026 02:55
+f86a823d-f88f-479d-a540-39a9676ab673,property.degree,available,14.99,,high,low,8,name.com,,,
+c3aeeec8-8b18-49f6-8922-97e5bc2a748e,property.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
+7ddf9718-cd85-4301-adca-fb8e3cfce482,property.surf,premium,104,31.2,high,low,8,namecheap,,,
+efbc7b72-8bd2-4901-a1fe-53049b9611f6,property.energy,resell,,,high,low,8,Dynadot Inc,25/08/2026 17:00,25/08/2027 17:00,26/09/2026 08:22
 7e273dcc-b944-442e-9b89-48b8a1609f34,real.voyage,available,58.99,58.99,high,medium,4,namesilo,,,25/09/2026 14:00
 71fb755e-5021-49a1-8328-b4cc8c8a5044,real.broker,premium,1250,1250,high,medium,4,name.com,,,25/09/2026 14:00
 e00f2af3-c0ba-4905-9967-85661bc38f1c,real.supply,available,25.99,25.99,high,medium,4,namesilo,,,25/09/2026 14:00
-9724c915-5ad6-4ad2-bf81-bb69ff88b998,land.villas,premium,260,260,high,low,4,namecheap,,,
-9e0ca175-10e1-4371-aac4-0ef21d3836d2,realty.rent,premium,1250,1250,high,low,6,name.com,,,21/08/2026 21:24
+39ae030b-3a7d-4b1f-b175-512ca5761bad,property.film,premium,130,130,high,low,8,namecheap,,,
+b85e7047-7ce1-435a-b91b-b3b19c12a214,property.dance,available,17.99,,high,low,8,name.com,,,
+40b243f2-cb9d-4c23-a526-d02cd5b787b4,estate.hot,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+bac4bf06-afc4-49c2-b24f-93d70423c11e,estate.gold,resell,,,high,low,6,Xin Net Technology Corporation,24/03/2018 16:16,24/03/2027 16:16,26/09/2026 05:53
+ded8bb77-b3c4-4f97-82e3-ed1c74b88275,property.security,available,1999.99,2049.99,high,low,8,namesilo,,,
+38215c1b-eeec-4d90-9996-b73e3802d10e,estate.reviews,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
 1c66ff9a-aca1-44e5-beb8-b9c36f0a0160,real.vodka,premium,854,29.5,high,medium,4,namesilo,,,25/09/2026 14:00
-ea7e7684-ec3d-4b31-a74d-adb1659ac7ab,home.shop,resell,,,high,medium,4,"eName Technology Co.,Ltd.",16/07/2019 04:30,16/07/2027 23:59,24/09/2026 23:55
-ddd619fd-4f0e-4e51-95c6-fa661ba0dc1f,home.school,resell,,,high,medium,4,"GoDaddy.com, LLC",29/05/2015 23:36,29/05/2027 23:36,26/09/2026 06:42
-2671dd79-7465-43ca-973e-90194b1814dc,home.city,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/08/2015 16:00,05/08/2027 16:00,26/09/2026 06:42
+4aadeb14-54e6-44ea-973c-534a9ce17db1,estate.pizza,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
+cbe31687-4b7b-469f-bf8c-27204135d480,property.actor,available,19.99,,high,low,8,name.com,,,
+1ddc8ecf-1a04-4154-8f60-59491684a19c,property.host,premium,3250,6500,high,low,8,namecheap,,,
+fefa2e50-d6c9-4d0e-b204-974962897aed,property.cam,resell,,,high,low,8,Dynadot Inc,18/07/2022 01:11,18/07/2027 23:59,26/09/2026 08:22
+80f7d7db-c153-4189-b6d9-16fde72f7373,property.hiv,available,195.99,195.99,high,low,8,namesilo,,,
+d86b5015-a271-475e-9afa-d3e066a15e38,property.media,resell,,,high,low,8,"GoDaddy.com, LLC",20/07/2014 16:00,20/07/2027 16:00,26/09/2026 08:23
+e50cde53-0475-420d-9e01-125607d8eb5c,property.shoes,available,39.99,,high,low,8,name.com,,,
 c8a58ce5-d832-4524-b3d5-69ce9db64c88,real.furniture,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
+5b8d1cc0-208e-4137-ab02-2671d6a6eb7b,estate.bz,available,21.98,26.98,high,low,6,namecheap,,,17/09/2026 02:55
+b5d91e59-2884-4fc9-bbbd-65e74e4a3c6e,property.ing,premium,845,845,high,low,8,namecheap,,,
+83a2e685-7a14-4714-be58-6a626658b68b,estate.berlin,resell,,,high,low,6,,11/07/2016 15:13,11/07/2027 15:13,26/09/2026 05:53
 e517ac26-c6f0-4f80-aa63-0097c7c77b88,real.bayern,available,47.99,50.99,high,medium,4,name.com,,,25/09/2026 14:00
-7f26bde7-4a5e-436b-b96d-94b206706c3d,home.diamonds,available,54.99,54.99,high,medium,4,namesilo,,,24/09/2026 23:55
-a33434f8-4769-4259-a16c-098fe88a19bc,house.miami,resell,,,high,medium,5,"GoDaddy.com, LLC",04/05/2021 18:29,04/05/2027 18:29,26/09/2026 06:44
+971236a9-b697-4dfc-a1a8-110bf3385648,estate.voting,available,1398,1448,high,low,6,namecheap,,,17/09/2026 02:55
+1c75af71-bb27-45b9-8a3f-1154547b526e,property.website,premium,1625,3250,high,low,8,namecheap,,,
+b706129e-b4bc-4717-8951-157e85c70bf0,estate.democrat,available,5.98,41.48,high,low,6,namecheap,,,17/09/2026 02:55
+febfd776-990b-4c1f-a5e4-b5714af19ac4,property.vin,available,11.99,,high,low,8,name.com,,,
+81cf08f3-f508-497f-b16e-eec87c29dacf,property.menu,available,,,high,low,8,,,,
+f1200256-a6e9-450d-84c3-fc0c4544d194,estate.vin,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
 56309aca-a5c5-4fad-a84f-dc70e2731b9a,real.soccer,resell,,,high,medium,4,Dynadot Inc,14/02/2025 09:50,14/02/2027 09:50,26/09/2026 08:31
-77c3b3af-0eeb-44fa-8599-03e2a2fa0dbd,house.properties,premium,1000,1000,high,medium,5,name.com,,,24/09/2026 18:37
-e66f073e-e9f8-49cb-bdb0-f79522623456,house.car,available,2070,2400,high,medium,5,namecheap,,,24/09/2026 18:37
-1625313e-7606-49e2-a0f8-e5a6fc941f8c,home.tech,resell,,,high,medium,4,Namify Domains Inc,02/04/2019 14:10,02/04/2029 23:59,26/09/2026 06:42
-477467e0-76c0-45e6-84a0-bf27d6c7eeff,house.viajes,available,43.98,57.98,high,medium,5,namecheap,,,24/09/2026 18:37
-49bf7eb2-f6f7-408b-a480-c75e3672d4f1,house.bid,resell,,,high,medium,5,West263 International Limited,27/11/2017 01:11,27/11/2027 01:11,26/09/2026 06:44
-a2f12d52-d4bd-4a35-9cba-b1ba95ce6a7b,house.moi,premium,937.5,937.5,high,medium,5,name.com,,,24/09/2026 18:37
+5938b39a-d308-4521-b2ea-4a58b37ccdb9,estate.motorcycles,available,1.99,17.29,high,low,6,namesilo,,,17/09/2026 02:55
+74d406a3-581d-4c7f-8105-87f78de18209,property.win,premium,455,65,high,low,8,namecheap,,,
+baf1285a-83ba-4b0e-b73e-b3af3dde73a3,estate.games,available,33.99,33.99,high,low,6,namesilo,,,17/09/2026 02:55
+2f07c0f0-797c-4eeb-bf6e-deea62d7731f,estate.dental,available,81.98,100.98,high,low,6,namecheap,,,17/09/2026 02:55
+cba455ca-64ea-4e45-898e-0398eb9c27fc,property.food,premium,650,1300,high,low,8,namecheap,,,
+23dc89ca-daae-4e36-9f72-4573449494da,estate.cx,resell,,,high,low,6,CentralNic Ltd,24/09/2023 23:36,24/09/2027 23:36,26/09/2026 05:53
+84d468dd-2430-41bc-84f3-86aaced9bb89,property.fitness,premium,128.7,128.7,high,low,8,namecheap,,,
+e076e5a2-6ec5-4600-8b8f-23d82deb7aa5,property.fan,premium,128.7,128.7,high,low,8,namecheap,,,
+7f43b90a-4940-4fae-836d-234cfeb872d6,estate.lgbt,available,11.98,93.98,high,low,6,namecheap,,,17/09/2026 02:55
+3d167e7e-54f2-4ed4-b5f0-5dad17629576,estate.accountants,available,117.99,117.99,high,low,6,namesilo,,,17/09/2026 02:55
+6f5de797-634b-4e7a-b5ee-5055d7677bb6,property.juegos,available,478.98,,high,low,8,namecheap,,,
+b66df849-dc9b-43cc-90a7-2eb5c00efee0,property.you,premium,650,650,high,low,8,namecheap,,,
+cba4f970-407c-4d21-b2e3-287d1399b1b7,property.mobile,premium,375,,high,low,8,name.com,,,
 9b834199-76b4-4876-b807-2f7e84434bb4,real.report,resell,,,high,medium,4,Dynadot Inc,31/03/2025 22:09,31/03/2028 22:09,26/09/2026 08:31
-5e6ac123-52f6-47ae-8417-729a75ebdb80,home.horse,premium,854,29.5,high,medium,4,namesilo,,,24/09/2026 23:55
+575b5fae-de24-4927-b9ee-210c8cf33535,property.hosting,available,309.99,329.99,high,low,8,namesilo,,,
+39f97369-37ea-4a45-963f-b5ae41b614c4,estate.gg,resell,,,high,low,6,"Spaceship, Inc (https://www.spaceship.com)",,,26/09/2026 05:53
+ba2d6de3-5b53-479d-80e6-9f728c049dee,estate.bargains,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+c7e6ce30-9905-4f70-bb0b-efd1a2debcf3,property.mortgage,premium,500,,high,low,8,name.com,,,
 7a8fca8f-6128-44b8-a850-5189c4d3677f,real.delivery,resell,,,high,medium,4,Dynadot Inc,14/06/2026 17:00,14/06/2027 17:00,26/09/2026 08:30
-131e2873-5b77-4b00-8118-096095a42914,house.cruises,available,54.98,68.98,high,medium,5,namecheap,,,24/09/2026 18:37
-fa1e36dd-5118-4992-b262-bab5d63bd801,house.academy,premium,250,250,high,medium,5,name.com,,,24/09/2026 18:37
-83c17d80-3321-4396-9c01-7f1ff90b75a6,house.rest,premium,819,1170,high,medium,5,namecheap,,,24/09/2026 18:37
-5e23f052-da3c-4fc4-9c34-2628bd035af1,agent.realty,premium,3450,3450,high,medium,5,namesilo,,,17/09/2026 17:11
-d6348b20-af22-44d5-8533-6ec91f7b23fd,house.airforce,available,109.98,134.98,high,medium,5,namecheap,,,24/09/2026 18:37
-c7d0039e-74b4-4b2d-94a8-9e78d4ad7c79,house.ventures,resell,,,high,medium,5,"Sav.com, LLC",26/08/2020 23:03,26/08/2027 23:03,26/09/2026 06:44
-93b1d84d-a6c5-47fc-8e81-11d874a8f085,house.charity,available,7.48,37.98,high,medium,5,namecheap,,,24/09/2026 18:37
-a312bb5e-bf6d-47e4-a33a-ce4611814013,house.run,resell,,,high,medium,5,Xin Net Technology Corporation,15/02/2020 05:53,15/02/2027 05:53,26/09/2026 06:44
-1067b178-6db4-45c1-a9eb-e5ccd5b1bc3e,house.bond,resell,,,high,medium,5,Dynadot Inc,15/11/2020 15:29,15/11/2033 23:59,26/09/2026 06:44
+ee8ca098-4252-45c7-86c1-3a4f0f6447d7,property.camp,premium,520,520,high,low,8,namecheap,,,
+cb511360-f7e7-4df6-8a05-25dee7ab9786,property.voyage,available,9.99,,high,low,8,name.com,,,
+3f8440ff-d7e1-4004-9729-4da7e73a1880,estate.cars,available,1999.99,2199,high,low,6,namesilo,,,17/09/2026 02:55
+e2bef8c3-af47-49d4-b1ec-62138af12508,estate.buzz,premium,116,53.92,high,low,6,namesilo,,,17/09/2026 02:55
+44627a0c-fbe3-49a2-b8a2-16c66ef4ff1b,estate.bike,available,12.99,38.99,high,low,6,namesilo,,,17/09/2026 02:55
+9dbd4dec-5786-4c0c-9976-e1d60b854f38,property.singles,available,12.99,,high,low,8,name.com,,,
+c21aef03-b84e-4b1a-9765-f946aae718c6,property.gallery,resell,,,high,low,8,"GoDaddy.com, LLC",12/02/2014 16:00,12/02/2027 16:00,26/09/2026 08:22
+e25e9f70-df1e-4d69-829f-2a8943f3765f,estate.salon,available,55.98,69.98,high,low,6,namecheap,,,17/09/2026 02:55
+4a14bb01-58b1-4ad1-a12a-a149e78d03fb,estate.talk,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+4b142740-c659-4be2-8a67-032c89e188b4,estate.lighting,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 02:55
+92586ad2-0e5f-4469-87e4-a7a5f7be78e2,property.hospital,available,57.99,57.99,high,low,8,namesilo,,,
+6b3969df-ef97-475a-8b37-e6d4ca6af7f5,property.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 a98cc914-a208-45c0-ac0c-4a94f8d743e7,real.systems,resell,,,high,medium,4,Dynadot Inc,03/06/2022 13:15,03/06/2027 13:15,26/09/2026 08:31
 31c13e19-30fd-49da-b0ae-03c88b90d398,real.esq,premium,811.25,811.25,high,medium,4,name.com,,,25/09/2026 14:00
-54cdbc18-4892-44f6-a22f-95eb8c7ec5c9,house.camp,premium,520,520,high,medium,5,namecheap,,,24/09/2026 18:37
 5de1d7fc-4dae-4799-9171-48110bcd814f,real.taxi,resell,,,high,medium,4,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,26/09/2026 08:31
-5fd7ae90-68a3-454b-bb0d-759d8299e4ea,house.engineer,premium,123.75,123.75,high,medium,5,name.com,,,24/09/2026 18:37
-b3e936f6-e9bd-4c40-83a3-157654ee4fd2,home.sexy,premium,13800,13800,high,medium,4,namesilo,,,24/09/2026 23:55
+90b0d1b1-cbf6-45be-89f2-ba59fa76307e,estate.car,available,2070,2400,high,low,6,namecheap,,,22/09/2026 18:59
+0643e478-7c87-4db0-8fe1-5e55c0aa0576,real.ai,resell,,,high,medium,4,"GoDaddy.com, LLC",16/12/2017 00:05,18/05/2027 00:05,26/09/2026 08:31
+5474f4ca-75bb-40fb-a585-024fa78f70c6,property.life,resell,,,high,low,8,"Spaceship, Inc.",17/03/2018 07:38,17/03/2027 07:38,26/09/2026 08:22
+c9a77ec3-14d2-4861-a738-96907aaa01de,estate.school,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",02/03/2024 00:03,02/03/2027 00:03,26/09/2026 05:53
+b98a774a-5de6-4a31-bb6e-dcaae471209d,property.industries,premium,260,260,high,low,8,namecheap,,,
+060b80a4-1a3f-4052-a884-b658857f6f9d,estate.study,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+55794d57-2d7b-43b8-a785-1b1303709db6,property.enterprises,premium,260,260,high,low,8,namecheap,,,
+f74b607c-a8a5-4de0-9dc0-75721b261ffa,property.bio,resell,,,high,low,8,"NameCheap, Inc.",20/04/2023 14:12,20/04/2027 14:12,26/09/2026 08:22
+4894c8f1-b8da-4614-befe-338e24858058,property.to,resell,,,high,low,8,NAMECHEAP,08/12/2025 17:30,08/12/2027 17:30,26/09/2026 08:22
 5e976b79-1d75-4516-9929-2840d2c27cb1,real.zip,premium,1298.7,1298.7,high,medium,4,namecheap,,,25/09/2026 14:00
+c963e91c-7d00-43db-beb9-c8ba75f13b44,estate.republican,available,7.49,28.99,high,low,6,namesilo,,,17/09/2026 02:55
+3f75e3b7-4d42-4c0f-aa1e-a6acabc3fbfd,property.theater,available,19.99,,high,low,8,name.com,,,
+91743686-4161-48f9-b474-4f8755d27e0c,property.cricket,premium,6500,130,high,low,8,namecheap,,,
 e173893d-007c-4e4d-979f-378f9bfcc22e,home.store,resell,,,high,medium,4,Namify Domains Inc,23/12/2016 11:20,23/12/2029 23:59,26/09/2026 06:42
+81919217-86ac-41be-81c7-fbd54861f4ab,estate.sbs,premium,384,768,high,low,6,namesilo,,,17/09/2026 02:55
 73c353e7-8595-45d9-ba82-43a84357899f,real.rodeo,premium,96,11.8,high,medium,4,namesilo,,,27/09/2026 06:35
-bb465058-8e97-4020-8af0-761fabb0858e,house.tours,resell,,,high,medium,5,"Spaceship, Inc.",24/09/2021 17:00,24/09/2027 17:00,26/09/2026 06:44
-8cc1edac-d2b8-4714-89e6-3b587428c4f2,house.accountant,premium,625,81.25,high,medium,5,name.com,,,24/09/2026 18:37
-5339ee16-1e72-4443-b55f-1cf52441cddc,house.moe,premium,100,23.99,high,medium,5,name.com,,,24/09/2026 18:37
-5b488931-5ad1-482c-b35b-77c7bad3763c,house.boo,premium,648.7,648.7,high,medium,5,namecheap,,,24/09/2026 18:37
+fac6eff6-edc1-4362-a9dd-b23b475b96cc,estate.airforce,available,103.99,103.99,high,low,6,namesilo,,,17/09/2026 02:55
+345401b7-b276-4593-86ef-9b510b101275,estate.style,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
+8325147b-ebe8-4387-91da-0c0b5fe74ceb,property.soy,premium,698.1,698.1,high,low,8,namecheap,,,
+8bcdc7bb-a847-4ff2-bfe8-01dd186ef6ea,property.jetzt,available,9.99,,high,low,8,name.com,,,
+66a9c958-2e7b-4f4c-af66-6822acc839be,estate.flowers,available,64.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
+43cb32fc-23ad-4c4b-825e-43cf8cc9ea0a,property.osaka,available,,,high,low,8,,,,
+20a1c8df-1078-4e61-bbac-615436ee3183,estate.dating,available,20.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
+bd3040bc-4828-4ce1-8b5c-d99488028d12,property.boo,premium,648.7,648.7,high,low,8,namecheap,,,
+9bd01831-c306-481f-bab9-7b2f93287d76,property.supplies,available,24.99,24.99,high,low,8,namesilo,,,
 ce290230-9c4a-420c-901c-28fd63b7b978,home.financial,resell,,,high,medium,4,Dynadot Inc,20/03/2019 03:24,20/03/2027 03:24,26/09/2026 06:42
-33e9127b-543f-43a6-b8e9-b8c2e70c83a8,house.reviews,premium,500,500,high,medium,5,name.com,,,24/09/2026 18:37
-f15ab91a-9c53-4e94-adcb-5275619f7f27,house.tickets,available,393.98,608.98,high,medium,5,namecheap,,,24/09/2026 18:37
-c3042c7a-ea57-4afa-869a-cba09564322d,home.ngo,premium,65,32.5,high,medium,4,namecheap,,,24/09/2026 23:55
+ec63741e-c098-4dd0-bbd0-baee1b0583aa,property.esq,premium,843.7,843.7,high,low,8,namecheap,,,
+637c22e1-59db-410f-83c7-e6541d44368e,property.social,resell,,,high,low,8,Squarespace Domains II LLC,10/03/2019 11:44,10/03/2027 11:44,26/09/2026 08:22
 e070d3c1-151d-4720-85ff-5b061d5e76e1,real.voting,available,1599.99,1599.99,high,medium,4,name.com,,,25/09/2026 14:00
-e8850beb-597d-475d-889b-4abcc5691d0c,house.discount,premium,123.75,123.75,high,medium,5,name.com,,,24/09/2026 18:37
-aac7c22b-3ab2-4976-82e7-1e4cbb72693a,house.organic,available,19.99,73.99,high,medium,5,name.com,,,24/09/2026 18:37
-b4a3c0ba-d647-4ee4-8c8a-fba2c82e89cb,house.love,premium,7280,10400,high,medium,5,namecheap,,,24/09/2026 18:37
-82809422-3497-4b8e-b0fc-765efca283ac,home.wtf,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",04/04/2026 15:15,04/04/2027 15:15,26/09/2026 06:42
-2d3f6d9f-d7a4-4d4a-a06a-531b444dac7b,apartment.properties,premium,854,854,high,low,9,namesilo,,,19/09/2026 16:17
+cecce97a-7461-4af5-b5d3-8ef84ee05698,estate.degree,available,52.99,52.99,high,low,6,namesilo,,,17/09/2026 02:55
+b1a048b9-f69b-429d-adfb-9418c5d1c344,property.art,premium,3900,91,high,low,8,namecheap,,,
 65b41500-bb75-482d-bfc8-752af54864c3,real.bet,resell,,,high,medium,4,"Sav.com, LLC",23/05/2017 10:59,23/05/2027 10:59,26/09/2026 08:30
-dda10307-b830-42ef-b054-896280f98b36,land.land,resell,,,high,low,4,Dynadot Inc,02/08/2015 16:41,02/08/2027 16:41,26/09/2026 07:08
+1bd01935-fffe-4af2-ba5d-ef4b88e2056f,estate.app,resell,,,high,low,6,"Sav.com, LLC",12/07/2023 23:12,12/07/2027 23:12,26/09/2026 05:53
+7dcfa41d-f1dc-49e8-be5e-b5e64640c357,estate.space,premium,6900,6900,high,low,6,namesilo,,,17/09/2026 02:55
+5267c7c8-c275-4c2e-9788-6da19357ab26,estate.florist,available,32.99,32.99,high,low,6,namesilo,,,17/09/2026 02:55
 7f9b0d74-909c-4a8c-bb9a-acc9c2dc959f,home.direct,resell,,,high,medium,4,"Sav.com, LLC",26/07/2015 16:00,26/07/2027 16:00,26/09/2026 06:42
 54790d74-d686-4533-8c5d-acabc58b4f2d,home.me,resell,,,high,medium,4,"GoDaddy.com, LLC",29/04/2008 18:00,29/04/2032 18:00,26/09/2026 06:42
+04579440-fd6a-42fd-b3b7-d31e3247d3ca,property.cool,premium,520,520,high,low,8,namecheap,,,
 284f7c7e-2826-43ba-a410-9880cfacb5b9,real.flowers,available,64.99,114.99,high,medium,4,namesilo,,,25/09/2026 14:00
-fb73aa4a-4125-4398-b8d1-078f5b91c078,home.academy,resell,,,high,medium,4,"Spaceship, Inc.",11/06/2023 15:15,11/06/2027 15:15,26/09/2026 06:42
-a9c6e2e2-5e15-4622-beb3-9119e3faff42,house.game,premium,1625,1625,high,medium,5,name.com,,,24/09/2026 18:37
-c8340ba9-156a-4126-aa58-7d4edd48f23e,housing.construction,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",08/06/2022 03:43,08/06/2027 03:43,26/09/2026 06:44
-766f9530-5773-47d6-bb0b-e2027982ea1b,house.tips,premium,123.75,123.75,high,medium,5,name.com,,,24/09/2026 18:37
-f0375905-904f-4107-8696-ecd54b3b095c,house.spot,premium,650,650,high,medium,5,namecheap,,,24/09/2026 18:37
-df4c495d-4f9f-4dd4-8e06-15f32140278d,house.works,resell,,,high,medium,5,"Spaceship, Inc.",12/08/2015 16:00,12/08/2027 16:00,26/09/2026 06:44
-58e57a34-4902-48c8-b969-24577f5bd7dd,home.navy,available,41.99,41.99,high,medium,4,namesilo,,,24/09/2026 23:55
-a95ce924-9396-425c-9a0d-735fe76d5fed,housing.diy,premium,910,1300,high,low,7,namecheap,,,24/09/2026 12:13
+f52b542e-4763-4800-85ef-1c7051f2533e,property.tires,available,5.99,78.99,high,low,8,namesilo,,,
+e6c0c589-eb96-40e8-b180-87cef7e62261,estate.horse,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 02:55
+58804ce8-f357-4b41-a961-9441bd56ef40,property.kim,premium,85.8,85.8,high,low,8,namecheap,,,
+30d493aa-7363-438c-b9b3-b646bff2e327,home.realty,premium,4550,6500,high,medium,4,namecheap,,,24/09/2026 23:55
+383297c6-229b-4bed-ae10-80d12a98a209,estate.clinic,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
+b3717206-1971-4809-ac58-ac77f7f49b8c,property.xxx,available,154.98,,high,low,8,namecheap,,,
+4ff3556b-c80c-4939-9b4a-45c5e89cdf87,estate.viajes,available,37.99,37.99,high,low,6,namesilo,,,17/09/2026 02:55
+ef8fd971-4ca2-49bb-bbce-31afe41e9b80,estate.fun,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+dc66e53d-756a-4f7a-937e-0847effb7f7c,property.clothing,available,19.99,,high,low,8,name.com,,,
+ce558187-69fa-488e-b19e-7664b24630c0,property.how,premium,768.3,768.3,high,low,8,namecheap,,,
+25119722-1417-4b0d-b9e2-650432141929,property.graphics,available,23.99,23.99,high,low,8,namesilo,,,
+009c6d0e-3d01-4e16-a0ca-d7e1fec98df8,estate.express,resell,,,high,low,6,"Sav.com, LLC - 38",27/07/2026 15:16,27/07/2027 15:16,26/09/2026 05:53
+485b5378-ad71-44e5-9133-9195a1aa37ba,estate.phd,premium,843.7,843.7,high,low,6,namecheap,,,17/09/2026 02:55
 ebb9d3d3-49cd-4d68-adff-91b579940d8c,home.club,resell,,,high,medium,4,"Spaceship, Inc.",19/07/2019 22:26,19/07/2027 22:26,26/09/2026 06:42
-d25045c3-bf8b-456b-b2c5-3fe0970d1023,land.zone,premium,128.7,128.7,high,low,4,namecheap,,,
-0e71041c-5388-40c8-94b2-e8dc51ed0a19,housing.mortgage,available,62.99,62.99,high,low,7,namesilo,,,24/09/2026 12:13
-ad1b16f9-e05f-42d1-bb6b-13e49ac9bd62,housing.lease,premium,118.8,118.8,high,low,7,namesilo,,,24/09/2026 12:13
-a864d2b9-c4b6-4811-999b-67b87f1cacf2,house.sale,premium,1250,1250,high,medium,5,name.com,,,24/09/2026 18:37
-13d6f4a4-07a2-42a8-8135-b1c653b49cd0,house.trade,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",29/07/2019 12:36,29/07/2030 12:36,26/09/2026 06:44
+c9e875e6-4c23-47f4-8e89-1a5d45708035,real.observer,premium,854,854,high,medium,4,namesilo,,,25/09/2026 14:00
+06aad6df-4bac-4805-b6dd-6ac25b3308ea,estate.top,resell,,,high,low,6,阿里云计算有限公司,01/12/2017 01:47,01/12/2026 01:47,26/09/2026 05:53
+86bd09bd-0fde-4aca-977a-f3c3e137c160,property.racing,premium,130,130,high,low,8,namecheap,,,
+651d8ec1-47f6-4739-be54-15e5c9b5fe1b,real.company,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/09/2020 23:17,25/09/2028 23:17,26/09/2026 08:31
+bbe3e857-9b92-4872-8440-b25f57a61441,real.kaufen,available,5.99,26.99,high,medium,4,namesilo,,,25/09/2026 14:00
+6dc2db69-429a-4b76-ae65-91d42f7a5c91,property.soccer,available,19.99,,high,low,8,name.com,,,
+c2436af2-d522-494f-ae0c-da7f5595e0bb,estate.foundation,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
+f8033f4e-ffc1-4a06-ae2c-b8525f5a8fb1,property.vana,available,2498,,high,low,8,namecheap,,,
+3e7cbb47-30c5-45fc-982b-f4be1f0914aa,home.lawyer,premium,1107,1107,high,medium,4,namesilo,,,24/09/2026 23:55
+cf4765ff-3fbd-429b-a1e3-23825e76b3c7,real.forum,premium,437.5,625,high,medium,4,name.com,,,25/09/2026 14:00
+88cb1a7b-096e-4f51-93a3-882729d1c7de,home.tips,resell,,,high,medium,4,GoDaddy Online Services Cayman Islands Ltd.,12/07/2015 16:00,12/07/2027 16:00,26/09/2026 06:42
+15a3134c-6f13-4985-a57c-e532a43a09b8,property.organic,available,19.99,,high,low,8,name.com,,,
+8316dccb-32a6-4ad5-9e82-e0242b6edc5b,property.nexus,premium,167.7,167.7,high,low,8,namecheap,,,
+d0ecf03d-6f36-4b8f-b233-b32d02777ff7,property.review,premium,6500,130,high,low,8,namecheap,,,
+e4b33b32-2e9f-4ecc-9377-ab880977ea7c,estate.game,available,310.98,547.98,high,low,6,namecheap,,,17/09/2026 02:55
+a3140970-1bb5-45dc-89df-2cdc0331de67,real.green,premium,768,768,high,medium,4,namesilo,,,25/09/2026 14:00
+ea926ba6-4d04-4016-9be3-1c9fac9f5f37,estate.cruises,available,56.99,56.99,high,low,6,namesilo,,,17/09/2026 02:55
+f5afa1d6-9f63-4fc1-83ef-c56cd0a961dd,estate.works,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
+233db8b2-346f-462a-a8fc-06a109123005,real.moi,premium,640,640,high,medium,4,namesilo,,,25/09/2026 14:00
+a3b61b77-5353-40c8-9894-4d7ee17b93e2,real.boston,premium,52,23.4,high,medium,4,namecheap,,,25/09/2026 14:00
+76e07077-b669-4c9e-9403-85475fc6a135,property.moi,premium,89.25,89.25,high,low,8,namesilo,,,
+c7add19c-0a06-42ce-9487-3f97b0d7db0c,property.gratis,available,23.99,23.99,high,low,8,namesilo,,,
+9da0c80e-f540-4b76-bd26-599979c3bb8c,real.ing,premium,3750,3750,high,medium,4,name.com,,,25/09/2026 14:00
+0b947ab5-a10f-4f33-93cb-922157336430,home.voyage,premium,512,512,high,medium,4,namesilo,,,24/09/2026 23:55
+296fe20d-657d-40ba-957d-b712a552a3ee,real.xxx,premium,644.8,644.8,high,medium,4,namecheap,,,25/09/2026 14:00
+8807edc1-8bd1-403a-a47c-3d021a83d2c0,property.taxi,available,10.99,,high,low,8,name.com,,,
+9e448fa9-6919-48a8-97c5-5d649ad81174,property.restaurant,available,29.99,,high,low,8,name.com,,,
+6d3b5fb6-3cf2-4b68-99c7-9319d93aa1f7,estate.biz,resell,,,high,low,6,Dynadot Inc,13/06/2021 03:11,13/06/2027 03:11,26/09/2026 05:53
+43486427-b582-445a-a3f7-b602ffc8c375,real.shoes,available,34.98,81.98,high,medium,4,namecheap,,,25/09/2026 14:00
+0ead5998-5e5e-44ea-97bb-6e35d2acaffa,estate.toys,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
+1822bcb0-9cb1-4fed-966c-10b44092d9a5,home.care,resell,,,high,medium,4,"GoDaddy.com, LLC",20/08/2015 16:00,20/08/2028 16:00,26/09/2026 06:42
+d10bb4a8-b3a9-4b06-9bf9-eb287d15471e,property.icu,premium,57.85,231.4,high,low,8,namecheap,,,
+0f4c44d1-e3a1-4c15-b941-a28678b339d5,home.cafe,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",15/07/2015 16:00,15/07/2027 16:00,26/09/2026 06:42
+0ac43873-098a-45e8-8156-f870b5cfac37,real.free,premium,1250,1250,high,medium,4,name.com,,,25/09/2026 14:00
+0442cd07-29b0-4876-97bb-cdbe8233d627,property.country,available,,,high,low,8,,,,
+7fdd6d6b-99e5-40fa-a13d-de2b2190c683,home.site,resell,,,high,medium,4,Radix Technologies Inc. SEZC / CO Services Cayman Limited,10/11/2020 12:34,10/11/2026 23:59,26/09/2026 06:42
+ed100eab-51a6-4581-b30c-5bd87b57fc0c,property.beer,available,2.19,32.49,high,low,8,namesilo,,,
+779cf9df-e72b-4d4d-a130-a719363cf259,property.wtf,premium,42.9,42.9,high,low,8,namecheap,,,
+15f082a1-a296-40d2-b160-9c7142771f58,property.boats,premium,845,15.73,high,low,8,namecheap,,,
+585af6d6-62c7-465a-8388-589a3bfc2307,estate.vana,available,2298,2498,high,low,6,namecheap,,,17/09/2026 02:55
+01dbc6d5-160e-4cc9-baa7-3a83c5f86387,estate.menu,available,27.99,27.99,high,low,6,namesilo,,,17/09/2026 02:55
+cf4403a1-26fc-4b6b-8635-1aef1877b939,home.reisen,available,3.99,20.99,high,medium,4,namesilo,,,24/09/2026 23:55
+adcc4ae9-93d5-4a6a-9f25-6482522a1356,property.university,premium,128.7,128.7,high,low,8,namecheap,,,
+f81e8dd2-5f34-4875-87c2-7447ee21d6cc,home.guitars,available,104.99,114.99,high,medium,4,namesilo,,,24/09/2026 23:55
+28b1b2c1-09c7-4c17-aade-82c1c28ee730,estate.fashion,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 02:55
+c8be4946-68ac-4bba-816a-caf89382979e,property.democrat,available,9.99,,high,low,8,name.com,,,
+98939f0d-fada-48bb-84e8-ddf8f9d81392,estate.forex,premium,1300,1300,high,low,6,namecheap,,,17/09/2026 02:55
+c70ea443-1efd-4c2c-9e03-966816a738bf,home.pub,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",15/01/2015 23:44,15/01/2027 23:44,26/09/2026 06:42
+38938af3-6235-4588-9554-54280f5fe364,real.sucks,premium,2658.67,2658.67,high,medium,4,namesilo,,,25/09/2026 14:00
+00da2435-cb94-4b12-9e9b-efa8925b9217,property.voto,available,19.99,,high,low,8,name.com,,,
+cb35c0e2-abd4-44ba-8336-acb401c24a04,property.associates,premium,78.54,78.54,high,low,8,namesilo,,,
+75a0217f-9d09-498c-97db-ac5801dfd113,real.red,resell,,,high,medium,4,"Name.com, Inc.",02/05/2014 16:01,02/05/2027 16:01,26/09/2026 08:31
+619e0935-247e-4c30-beea-d61beb407087,estate.cfd,premium,384,768,high,low,6,namesilo,,,17/09/2026 02:55
+96e516ce-7c89-42c2-98b8-bb2754d24d87,home.promo,premium,3450,3450,high,medium,4,namesilo,,,24/09/2026 23:55
+5bab6f4c-7f2e-4136-af85-abeef7f7c2cd,home.plumbing,resell,,,high,medium,4,Dynadot Inc,14/08/2021 11:23,14/08/2027 11:23,26/09/2026 06:42
+d8bced45-f9a4-4a57-b1ba-6a75d1de41a2,estate.run,resell,,,high,low,6,"DNSPod, Inc.",30/06/2024 17:00,30/06/2027 17:00,26/09/2026 05:53
+a4afaf7b-4e28-4aa8-b407-a0f9af9844f2,home.camp,resell,,,high,medium,4,Dynadot Inc,04/03/2021 08:05,04/03/2027 08:05,26/09/2026 06:42
+8f61376a-ea38-4835-bfcc-d6367cedfba5,estate.science,premium,640,77.35,high,low,6,namesilo,,,17/09/2026 02:55
+f26cbab6-4f79-4955-a91a-37726225691c,estate.protection,available,2070,2950,high,low,6,namecheap,,,17/09/2026 02:55
+a356597a-818b-4ecc-8c9a-45ce85069754,home.hamburg,resell,,,high,medium,4,,13/02/2017 13:56,13/02/2027 13:56,26/09/2026 06:42
+f553eac8-e764-49fa-8038-c97d46585485,property.ventures,resell,,,high,low,8,"Sav.com, LLC",19/04/2017 10:22,19/04/2027 10:22,26/09/2026 08:22
+516b6147-c1f7-4b00-ae88-95b78229629c,real.tax,resell,,,high,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",12/03/2021 17:12,12/03/2027 17:12,26/09/2026 08:31
+47736aa9-0726-424f-abed-5b682c9c8df6,property.foundation,premium,128.7,128.7,high,low,8,namecheap,,,
+b9081b51-298e-4133-9266-cfdcf3380498,home.tienda,available,59.99,59.99,high,medium,4,namesilo,,,24/09/2026 23:55
+bed53f5d-5e85-4dc7-97a0-f5ddc433b1e6,real.contact,resell,,,high,medium,4,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00,26/09/2026 08:31
+6edafb5e-7524-4676-9998-4dbc2b8852c9,real.cx,resell,,,high,medium,4,West263 International Limited,22/07/2023 13:29,22/07/2027 13:29,26/09/2026 08:31
+f8e455b9-deca-4fc3-9aea-577e53b90dc0,home.melbourne,available,58,58,high,medium,4,namesilo,,,24/09/2026 23:55
+4c483e1c-6c52-42f1-8139-e400df46432d,estate.rest,premium,230.4,230.4,high,low,6,namesilo,,,17/09/2026 02:55
+a79a29ab-7586-4160-8108-94d224785e95,estate.watch,premium,512,512,high,low,6,namesilo,,,17/09/2026 02:55
+7976f7a6-fa3e-49a8-b8c4-fab1aba7fc42,estate.town,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
+bb63ebb0-188b-4ca8-8e8e-6f590d5e5d56,property.channel,premium,623.75,,high,low,8,name.com,,,
+f896358d-4a5e-4252-a4fd-c49dbf214808,home.bike,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/01/2017 14:48,03/01/2027 14:48,26/09/2026 06:42
+7b5ca65f-e47a-4ed8-a4bb-bc99af916fa8,estate.faith,premium,116,29.5,high,low,6,namesilo,,,17/09/2026 02:55
+db8a80af-51e9-4e4d-92cc-c84d8c7d38da,real.uno,premium,302.5,302.5,high,medium,4,namesilo,,,25/09/2026 14:00
+b52786b9-bf6a-472c-9828-cc4897bed8df,property.spot,premium,650,650,high,low,8,namecheap,,,
+e9fe6ef0-9f9a-4efa-9fea-abff83073045,housing.maison,available,57.99,57.99,high,low,7,namesilo,,,24/09/2026 12:13
+06927579-567e-4eea-ade6-f793e3be5e7d,estate.engineer,premium,71.4,71.4,high,low,6,namesilo,,,17/09/2026 02:55
+286aefe5-42cd-44ed-a183-0a02fb1b4d1a,estate.website,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+e55a9eab-2454-46c1-9d63-82c41a43e762,real.ltd,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/09/2017 17:31,03/09/2031 17:31,26/09/2026 08:31
+199422a7-7811-4064-b382-3e50d85e1620,property.voting,available,1448,,high,low,8,namecheap,,,
+31e67f60-ba23-4dc0-b3d3-d77165f3c4ca,estate.mortgage,premium,520,520,high,low,6,namecheap,,,17/09/2026 02:55
+b2130a4f-b908-4d73-92a2-d768b823e32c,estate.bio,resell,,,high,low,6,Dynadot Inc,16/05/2026 18:44,16/05/2027 18:44,26/09/2026 05:53
+60c904fd-59c5-4d27-b03c-b5af86d0bc57,real.host,premium,10350,10350,high,medium,4,namesilo,,,25/09/2026 14:00
+fca553b5-770c-43af-966c-a2ccce8e2663,estate.cc,resell,,,high,low,6,Dynadot Inc,02/10/2009 08:00,02/10/2027 08:00,26/09/2026 05:53
+34509104-611a-4245-80fa-f487bcb575ba,property.college,premium,650,650,high,low,8,namecheap,,,
+d4f9d268-a1e5-4efb-a437-99576b7a7c9c,property.creditcard,available,9.99,,high,low,8,name.com,,,
+58ff949d-046b-491d-b657-65dc7e480b88,real.codes,premium,118.8,118.8,high,medium,4,namesilo,,,25/09/2026 14:00
+aad90cb4-4e64-49a9-9f5f-81132835130f,estate.prof,premium,843.7,843.7,high,low,6,namecheap,,,17/09/2026 02:55
+8f6a09fa-a45a-4f41-8034-25258d154383,property.florist,available,14.99,,high,low,8,name.com,,,
+089e0118-2a97-4925-a502-8f105e1f04ef,property.living,premium,650,1300,high,low,8,namecheap,,,
+73091afb-eb15-40d8-93fd-a929c8720a39,real.cooking,premium,250,46.99,high,medium,4,name.com,,,25/09/2026 14:00
+53624c2b-5821-4b1f-8d7d-091a208332dd,real.family,resell,,,high,medium,4,Dynadot Inc,26/04/2025 15:15,26/04/2027 15:15,26/09/2026 08:31
+5dfe0cb3-70b6-41d8-a276-66e2c6fc0af3,property.red,resell,,,high,low,8,"Sav.com, LLC - 31",23/07/2026 15:15,23/07/2027 15:15,26/09/2026 08:22
+f7a5a219-22de-48c6-aa72-6ce50010e64d,estate.credit,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+b102e2bd-ca94-41be-9ad6-995afb05c1fc,real.town,premium,78.54,78.54,high,medium,4,namesilo,,,25/09/2026 14:00
+cc2addbf-b0ab-4204-a0d2-9bdedd93aaa3,home.coffee,resell,,,high,medium,4,"Spaceship, Inc.",18/01/2018 14:12,18/01/2027 14:12,26/09/2026 06:42
+41888c27-ebde-4cba-acbf-11589ffc42f3,estate.rodeo,available,12.99,12.99,high,low,6,namesilo,,,17/09/2026 02:55
+7ded29a4-9737-4983-b76f-c56a53818853,real.diet,available,299.99,299.99,high,medium,4,name.com,,,25/09/2026 14:00
+c7b11428-6347-4fc2-a671-08611a2294c7,estate.meme,premium,845,845,high,low,6,namecheap,,,17/09/2026 02:55
+29465db4-96f4-4eed-bfc7-252e7b278ef2,real.hospital,available,57.99,57.99,high,medium,4,namesilo,,,25/09/2026 14:00
+2cf2df09-e272-479e-b55b-4b7ae622b110,estate.tickets,available,359.99,488.88,high,low,6,namesilo,,,17/09/2026 02:55
+cc2cdbdf-865c-4a40-b80b-96fafd8929c8,home.onl,premium,325,650,high,medium,4,namecheap,,,24/09/2026 23:55
+7f3d49d2-266d-4228-a2e2-4fe26dda29fb,estate.green,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+2ec95e89-4304-4487-91c2-6bcd2a8c9a33,estate.restaurant,available,20.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
+9cf56e86-779f-491a-831c-1033b4a93053,property.diy,premium,650,1300,high,low,8,namecheap,,,
+ef506394-f781-455f-9ccc-d5607b2f47c5,real.energy,resell,,,high,medium,4,"Sav.com, LLC - 21",31/12/2024 15:15,31/12/2026 15:15,26/09/2026 08:30
+0d90142f-179b-474c-8f86-08ad455672a9,estate.host,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+2554e673-9d3f-4769-a148-555e13fee288,real.guru,resell,,,high,medium,4,"Sav.com, LLC - 5",21/07/2026 15:15,21/07/2027 15:15,26/09/2026 08:31
+0b4b4b3e-1c66-4b25-91f5-29683eaf4184,property.plumbing,premium,520,520,high,low,8,namecheap,,,
+ec5b6d22-44f9-4f1f-b775-fef45936bc3c,estate.associates,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+05df2c43-5a54-40cb-aa0c-83f4da83bf8b,real.builders,resell,,,high,medium,4,"Sav.com, LLC - 35",01/12/2025 15:15,01/12/2026 15:15,26/09/2026 08:31
+bd51fcbc-1c89-4ab0-a9e7-9c5c860c0634,home.team,resell,,,high,medium,4,"GoDaddy.com, LLC",26/07/2015 16:00,26/07/2028 16:00,26/09/2026 06:42
+09fb962f-ad6e-4fc2-b597-983e62ef1119,estate.industries,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
+f60051f8-fd16-4042-98a7-c17473e102fc,property.republican,available,5.99,,high,low,8,name.com,,,
+6486e271-db1c-42bf-9fe8-2e0dd6c6a854,real.cyou,premium,384,768,high,medium,4,namesilo,,,25/09/2026 14:00
+9c0d3b60-d8c7-4f50-9c45-1aa3a44d16aa,real.loan,premium,13800,116,high,medium,4,namesilo,,,25/09/2026 14:00
+48a46948-0c68-478c-b5b1-fc8489266100,estate.guitars,available,104.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
+cb145410-f288-479f-bf7c-b57a0c309cb4,property.marketing,premium,85.8,85.8,high,low,8,namecheap,,,
+8b0707e9-48c4-4f2c-a468-c2b14912da6b,real.reisen,premium,25,25,high,medium,4,name.com,,,25/09/2026 14:00
+e0bbdf6b-ae5e-4fee-9c7c-11834d79d222,property.fit,premium,520,31.2,high,low,8,namecheap,,,
+b2ba2822-5501-4261-8f0d-df66604bd639,home.berlin,resell,,,high,medium,4,,14/12/2016 10:35,14/12/2027 10:35,26/09/2026 06:42
+f9e1525c-8f8a-4725-b090-dcdef83a572c,property.bargains,premium,520,520,high,low,8,namecheap,,,
+c45557ca-d214-436f-9880-fe9d612605d2,real.mov,premium,1248.75,1248.75,high,medium,4,name.com,,,25/09/2026 14:00
+d4fb3e2f-8f70-4f1b-a4a6-a093be23bef7,real.blackfriday,available,114.99,114.99,high,medium,4,namesilo,,,25/09/2026 14:00
+5b10ff9e-180c-4b4e-90ef-ba1ae35bdb21,home.bar,premium,8190,11700,high,medium,4,namecheap,,,24/09/2026 23:55
+4b865091-61ab-471e-ba5b-2cccb1d27c18,property.surgery,premium,128.7,128.7,high,low,8,namecheap,,,
+a9fc6edb-51b2-415f-a815-441161323757,estate.promo,available,14.49,24.99,high,low,6,namesilo,,,17/09/2026 02:55
+96db4e86-504f-4e3e-aa16-cee2a179c8ab,estate.srl,premium,54.28,30.68,high,low,6,namesilo,,,17/09/2026 02:55
+20704c94-6583-40f5-88dc-8796f8dacf47,estate.kim,available,12.99,23.49,high,low,6,namesilo,,,17/09/2026 02:55
+477155be-669c-4d58-9351-2446cd2ed186,real.bingo,premium,520,520,high,medium,4,namecheap,,,25/09/2026 14:00
+0c0b15b5-4924-4c06-9b7d-aa1285e02bbf,estate.plus,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2019 10:08,16/09/2027 10:08,26/09/2026 05:53
+946c1149-1f3c-49db-abdb-43ebbdfa960c,estate.vote,available,34.99,90.99,high,low,6,namesilo,,,17/09/2026 02:55
+c5dcf602-dc43-4b1b-9830-384a73242d1e,real.guitars,premium,832,832,high,medium,4,namesilo,,,25/09/2026 14:00
+65d58e45-5045-4da7-ac74-2b13e14bb5e1,house.villas,premium,260,260,high,medium,5,namecheap,,,24/09/2026 18:37
+d4774a1b-814c-4e8f-b10d-fe941f7cff30,real.glass,available,72.99,72.99,high,medium,4,namesilo,,,25/09/2026 14:00
+b291496c-dac3-4093-abe1-0d8cf7c32921,estate.com,resell,,,high,low,6,"GoDaddy.com, LLC",18/08/1994 04:00,03/02/2030 06:53,26/09/2026 05:53
+032a3c4a-80ce-4ebb-9ad3-2d91fd40d432,estate.ong,available,18.98,24.98,high,low,6,namecheap,,,17/09/2026 02:55
+c3d191af-6bd6-413c-ac2a-1dc0d940a72a,real.cool,resell,,,high,medium,4,Dynadot Inc,29/03/2024 20:00,29/03/2027 20:00,26/09/2026 08:30
+e437e63e-d97c-4826-9f6e-51a583e911c0,property.education,resell,,,high,low,8,"GoDaddy.com, LLC",02/04/2014 16:00,02/04/2027 16:00,26/09/2026 08:22
+8b1c4311-790b-43c1-b1cb-c60b5c953383,real.network,resell,,,high,medium,4,Dynadot Inc,01/05/2020 23:19,01/05/2028 23:19,26/09/2026 08:31
+79627775-95d6-43cd-bd42-19344987d858,real.mortgage,premium,512,512,high,medium,4,namesilo,,,25/09/2026 14:00
+15d671d1-99f2-4523-b16e-b3b725b3b9e1,property.game,available,498,,high,low,8,namecheap,,,
+2c0e7180-9b95-4355-9fcc-50eaca9a7326,property.green,premium,325,325,high,low,8,namecheap,,,
+d3fee6f5-f01f-4ff6-a76d-7a092599cd5e,home.cars,available,1999.99,2199,high,medium,4,namesilo,,,24/09/2026 23:55
+e072fb4f-d099-41e7-846c-59eddfefab6f,property.software,premium,520,520,high,low,8,namecheap,,,
+a2a97174-79f4-4cb1-88f5-4b1da1b2428d,property.bike,available,14.99,,high,low,8,name.com,,,
+c1a2671d-e7eb-4590-adb6-7382e01b1f0c,estate.email,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+16524e64-8565-4222-b832-5b38c1c3088f,property.ooo,premium,375000,,high,low,8,name.com,,,
+57414d27-29f8-4a62-b878-5347e96128ed,estate.tattoo,available,34.99,34.99,high,low,6,namesilo,,,17/09/2026 02:55
+0c1e5365-a7bc-4fba-9b44-0eb699253885,property.audio,available,104.99,114.99,high,low,8,namesilo,,,
+8c49b578-179e-4b92-a7d5-ad5515023491,property.dad,premium,648.7,648.7,high,low,8,namecheap,,,
+9fd09013-a328-459b-92b1-6adcc8cd6589,property.studio,premium,520,520,high,low,8,namecheap,,,
+45c03539-f76a-4e2a-951f-89a94ceb8969,real.study,premium,116,116,high,medium,4,namesilo,,,25/09/2026 14:00
+7554a27b-6fe8-403c-8a15-15a05f384acf,property.fish,premium,128.7,128.7,high,low,8,namecheap,,,
+028e630c-120d-456b-80c0-53be5df61741,real.cars,available,1999.99,2199,high,medium,4,namesilo,,,25/09/2026 14:00
+0b4221b0-80bb-4155-9d2f-0371b15d41a1,real.luxe,resell,,,high,medium,4,"GoDaddy.com, LLC",22/01/2021 23:57,22/01/2027 23:57,26/09/2026 08:31
+a37bc33f-37d8-469d-b5ba-5962f3031dc6,property.vegas,resell,,,high,low,8,"GoDaddy.com, LLC",11/04/2021 18:37,11/04/2027 18:37,26/09/2026 08:22
+28d81e72-0e66-4be3-b93a-d3e3290d9979,real.media,resell,,,high,medium,4,Dynadot Inc,02/09/2021 17:00,02/09/2027 17:00,26/09/2026 08:31
+daab1902-4f61-4990-a7fe-0f08b8558a51,estate.gripe,premium,38.94,38.94,high,low,6,namesilo,,,17/09/2026 02:55
+e98e9010-1031-407e-a42a-94895d654d8b,home.kim,resell,,,high,medium,4,"DNSPod, Inc.",31/07/2016 10:08,31/07/2027 10:08,26/09/2026 06:42
+1d6eb88a-0d3e-49a5-868b-4d14fa948f5b,real.dealer,premium,4278,2660,high,medium,4,namesilo,,,25/09/2026 14:00
+b42e3cc7-04ae-4726-a1d1-41b588134b4e,estate.zone,resell,,,high,low,6,"DNSPod, Inc.",03/03/2024 15:15,03/03/2027 15:15,26/09/2026 05:53
+8c71e7b9-1743-4c7b-a136-db760ccd4140,home.tickets,available,359.99,488.88,high,medium,4,namesilo,,,24/09/2026 23:55
+d6201242-cd94-4379-a56f-df60f28bcbaa,property.guru,resell,,,high,low,8,"Spaceship, Inc.",12/07/2015 16:00,12/07/2027 16:00,26/09/2026 08:22
+dd0118e6-08a5-42b5-9ae3-bfdda604e85b,estate.boston,premium,260,23.4,high,low,6,namecheap,,,17/09/2026 02:55
+4c83f85b-95db-438b-aa52-2e16d4c694ee,property.yoga,available,32.49,32.49,high,low,8,namesilo,,,
+37169cb2-716f-490b-9133-6581904614ef,estate.fish,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+af946811-343a-4b10-95a5-9f948a09edba,estate.new,available,488.98,601.98,high,low,6,namecheap,,,17/09/2026 02:55
+7eac79ff-bf9d-40b4-840e-b3b701a7b3b2,estate.repair,available,5.98,47.48,high,low,6,namecheap,,,17/09/2026 02:55
+cf124456-969b-4d49-bf0a-ada0a0f9c0cc,house.haus,premium,250,250,high,medium,5,name.com,,,24/09/2026 18:37
+d87224b3-5ba4-4b3a-91c8-00d517690b8e,estate.limo,available,54.99,54.99,high,low,6,namesilo,,,17/09/2026 02:55
+e5010d49-3992-400a-9720-d27f6783d69e,property.foo,premium,167.7,167.7,high,low,8,namecheap,,,
+33148cdf-018c-4626-b158-efb8e1d27aa2,real.insure,available,76.98,91.98,high,medium,4,namecheap,,,25/09/2026 14:00
+170a34eb-659b-4768-9860-49cd617d16be,property.garden,premium,260,31.2,high,low,8,namecheap,,,
+2ea00472-04c9-4e69-88b8-14503a6b928a,estate.contractors,available,35.49,35.49,high,low,6,namesilo,,,17/09/2026 02:55
+f9057b24-2e3f-422c-a8a3-f49980b37965,estate.irish,available,7.49,22.49,high,low,6,namesilo,,,17/09/2026 02:55
+25b54cc0-19e2-46d3-b7ed-973d0c702558,estate.eco,premium,4550,74.75,high,low,6,namecheap,,,17/09/2026 02:55
+eb1e86d5-c8ad-49e7-85c4-5558203af8c8,home.expert,resell,,,high,medium,4,"Wild West Domains, LLC",12/07/2015 16:00,12/07/2027 16:00,26/09/2026 06:42
+7637f49c-2ddd-474a-aa10-2b6f7d9beeaa,real.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,25/09/2026 14:00
+0343fffb-15c9-43dc-ae5c-a7dd2bc6f9b8,home.software,premium,3250,3250,high,medium,4,namecheap,,,24/09/2026 23:55
+2c0cdba1-f202-4d2b-b201-0b1be1f149b6,estate.loan,premium,6900,116,high,low,6,namesilo,,,17/09/2026 02:55
+947a08c8-7782-4cc1-921a-dcd8fed40f3d,home.locker,premium,8583.6,8.8,high,medium,4,namesilo,,,24/09/2026 23:55
+dadc4e64-c962-4009-9cd8-5b51a8ab7a8e,home.black,resell,,,high,medium,4,"Spaceship, Inc.",07/09/2025 15:15,07/09/2027 15:15,26/09/2026 06:42
+9569de1e-c161-41f3-9c57-36592c2f4c8a,estate.ing,premium,845,845,high,low,6,namecheap,,,17/09/2026 02:55
+bd74a07e-7807-4c8c-9a11-a39d75ce06a0,property.black,available,29.99,,high,low,8,name.com,,,
+93567e0b-e637-449e-b302-e712e3dd6eed,home.adult,premium,322.4,322.4,high,medium,4,namecheap,,,24/09/2026 23:55
+4e00a53c-3b2d-403a-b3d1-c44702f2c5dd,home.cyou,premium,384,768,high,medium,4,namesilo,,,24/09/2026 23:55
+ded07d59-b4de-4883-a3e5-7f82bf629cee,estate.deal,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+80321055-8d0c-46a1-9f9d-6eed5cddf47f,property.network,resell,,,high,low,8,Porkbun LLC,06/03/2025 15:15,06/03/2027 15:15,26/09/2026 08:22
+8c57a651-20f1-41c4-a031-ec99ae6b861a,property.desi,available,22.98,,high,low,8,namecheap,,,
+9c1801ba-2785-40ed-af5a-4212ff70a230,real.doctor,resell,,,high,medium,4,Dynadot Inc,09/04/2025 15:16,09/04/2027 15:16,26/09/2026 08:30
+61ca1c2f-fc3d-4a47-a38d-7642899c4743,real.ceo,premium,499,499,high,medium,4,name.com,,,25/09/2026 14:00
+97426885-98a7-4bdc-a55e-3c6c1eecc681,estate.mov,premium,648.7,648.7,high,low,6,namecheap,,,17/09/2026 02:55
+e2bc78ea-e8a2-4918-b899-f66d8bb9c7e8,property.meme,premium,195,195,high,low,8,namecheap,,,
+5a6566db-0767-426a-ae17-c60fc0f7846e,home.college,premium,3450,3450,high,medium,4,namesilo,,,24/09/2026 23:55
+e6166abb-ecbd-46f3-a519-19219e02c6b2,property.charity,available,5.99,,high,low,8,name.com,,,
+8832f0cc-cd61-47e2-a37b-63425e45f9e0,real.link,resell,,,high,medium,4,"Spaceship, Inc.",10/01/2019 10:06,10/01/2027 10:06,26/09/2026 08:31
+73a841bb-a06d-48d6-81ec-d686969431b6,estate.mx,resell,,,high,low,6,1api GmbH,26/09/2009 00:00,25/09/2027 00:00,26/09/2026 05:53
+fd154aa8-f3ec-48ed-b2c5-856dced1407a,estate.film,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
+2bcd09d9-46ff-4c5d-9982-ee8f1e84d673,estate.hockey,available,59.99,59.99,high,low,6,namesilo,,,17/09/2026 02:55
+6f0a6c82-9523-48c3-addc-bb6450a9c24b,property.services,available,,,high,low,8,,,,
+4017b87a-c00c-448e-967a-1708b8c6bd14,property.cfd,premium,167.38,669.5,high,low,8,namecheap,,,
+499f1934-62d4-496f-8545-bfbfded06dff,estate.click,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
+97f4acae-4835-4f18-a4be-f21bcbc1f78c,property.pizza,available,19.99,,high,low,8,name.com,,,
+2f2f15a1-3d6e-4b34-a908-7a080ffa7394,real.plus,resell,,,high,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2019 10:07,16/09/2027 10:07,26/09/2026 08:31
+bd537510-cca3-44ea-9536-c3c70615f334,real.channel,premium,648.7,648.7,high,medium,4,namecheap,,,25/09/2026 14:00
+1964c09d-b605-48e7-9468-c45bf24dce07,estate.productions,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+6de1d7dd-5a3d-459b-86d0-35743770df1c,home.accountants,available,117.99,117.99,high,medium,4,namesilo,,,24/09/2026 23:55
+89152540-fcc7-45c4-b45e-444628a33a13,estate.college,premium,650,650,high,low,6,namecheap,,,17/09/2026 02:55
+f60b8518-50c7-453f-bd6b-3b9e4ec615b3,estate.parts,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
+3a8d8678-35cb-43d6-9590-4cb77353e296,property.hiphop,available,,,high,low,8,,,,
+834699d8-0add-45c9-b83c-778207b027a9,property.ceo,available,9.99,146.98,high,low,8,namecheap,,,25/09/2026 13:11
+1f4c0efb-055f-4b5b-8ece-256fb4953068,real.bio,resell,,,high,medium,4,Porkbun LLC,25/06/2024 15:15,25/06/2027 15:15,26/09/2026 08:30
+e5b17f69-1768-4248-bc53-89e9a686ce31,home.casino,resell,,,high,medium,4,Automattic Inc.,13/01/2021 23:18,13/01/2028 23:18,26/09/2026 06:42
+95e6aef6-65ac-4ea4-95d3-ef45a0e1688a,real.graphics,resell,,,high,medium,4,Porkbun LLC,15/07/2017 21:27,15/07/2027 21:27,26/09/2026 08:31
+6f6b2af4-e44f-472f-a162-326394ccd08c,home.report,resell,,,high,medium,4,"GoDaddy.com, LLC",02/09/2015 18:10,02/09/2027 18:10,26/09/2026 06:42
+d366305f-de4d-4558-95a4-7fd8aa2428f6,property.plus,resell,,,high,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",16/09/2019 10:07,16/09/2027 10:07,26/09/2026 08:22
+82eacdf1-470c-4be6-91b2-cb6c6ba99cdf,real.navy,available,41.99,41.99,high,medium,4,namesilo,,,25/09/2026 14:00
+014806b3-1f4e-40cf-a234-d80484b57fa9,property.moda,available,19.99,,high,low,8,name.com,,,
+cd3257e2-ab31-4267-8062-42aa15ef8158,estate.schule,available,28.99,28.99,high,low,6,namesilo,,,17/09/2026 02:55
+a0f1cb79-c881-4d15-8177-6e97e2cbd75d,real.desi,available,19.98,22.98,high,medium,4,namecheap,,,25/09/2026 14:00
+c307a078-772e-404c-abfc-330ef19f4d19,property.guitars,available,104.99,114.99,high,low,8,namesilo,,,
+ee321474-ccb8-47ce-9b85-ed84e932a94c,real.day,premium,623.75,623.75,high,medium,4,name.com,,,25/09/2026 14:00
+99b969cf-6160-45d5-884e-ed62eb306096,estate.hiv,available,195.99,195.99,high,low,6,namesilo,,,17/09/2026 02:55
+a21bd391-b9fa-41cc-9f7e-6c19c897c93b,estate.university,available,65.98,77.98,high,low,6,namecheap,,,17/09/2026 02:55
+0567ebdd-1381-4a55-a245-7f670e868731,estate.delivery,available,6.75,61.99,high,low,6,namesilo,,,17/09/2026 02:55
+ab8debbe-7c84-41aa-9a8d-26f069a968e3,estate.fit,resell,,,high,low,6,"Spaceship, Inc.",03/07/2026 16:34,03/07/2027 16:34,26/09/2026 05:53
+8edb4068-277b-4747-a491-3cab64ba3e0e,property.talk,premium,650,650,high,low,8,namecheap,,,
+7580e14f-1c41-423d-84ef-3400234438cb,property.love,premium,2600,5200,high,low,8,namecheap,,,
+be7d5d2d-05b8-4d4d-9cb7-97969757b9bd,property.info,resell,34500,35.99,high,low,8,"GoDaddy.com, LLC",31/07/2001 02:11,31/07/2027 02:11,26/09/2026 08:22
+1bc7f27f-2b37-4967-9345-8ebe06545a23,estate.christmas,available,34.99,34.99,high,low,6,namesilo,,,17/09/2026 02:55
+2356b5e4-866a-4077-8931-2f9c74ab5fc5,property.im,available,,,high,low,8,,,,
+3ff39b8d-2577-4540-bcfd-f7e49145d1d2,home.press,premium,6900,6900,high,medium,4,namesilo,,,24/09/2026 23:55
+36054b57-8631-444f-9f84-ec29d1dc5b99,real.phd,premium,843.7,843.7,high,medium,4,namecheap,,,25/09/2026 14:00
+cfa88d81-30d7-432c-b71f-7d1589705981,estate.diet,available,108.98,159.98,high,low,6,namecheap,,,17/09/2026 02:55
+aa6da6cf-6bbe-43ce-9abf-5be77446abe8,land.rent,premium,650,650,high,low,4,namecheap,,,
+0f5000cf-7f65-4f24-ba88-e58f0ff9878c,estate.locker,premium,318.46,8.8,high,low,6,namesilo,,,17/09/2026 02:55
+c6e9c207-bcd7-42d6-ab9c-20a5e32467a8,home.cloud,premium,3250,6500,high,medium,4,namecheap,,,24/09/2026 23:55
+5da98672-ea24-4ea8-b567-704ed8ad9064,home.forum,premium,325,325,high,medium,4,namecheap,,,24/09/2026 23:55
+9adcde62-71ff-4ae6-b861-6758ae956aa3,estate.gay,premium,116,116,high,low,6,namesilo,,,17/09/2026 02:55
+32da8850-2a33-4156-8734-132660f7190b,real.gay,premium,2660,2660,high,medium,4,namesilo,,,25/09/2026 14:00
+3fd55de5-2553-4fe7-981c-f64fab605ea3,home.support,premium,242,242,high,medium,4,namesilo,,,24/09/2026 23:55
+0a2bb3c3-43c6-4806-ad37-07af4edfad6e,home.uno,premium,6900,6900,high,medium,4,namesilo,,,24/09/2026 23:55
+37fd8305-27b5-47d0-ab43-7bf54b669dc4,property.cruises,available,14.99,,high,low,8,name.com,,,
+36a5fb4f-cbe5-42b2-8fce-2af214bba871,estate.spot,premium,650,650,high,low,6,namecheap,,,17/09/2026 02:55
+af5378b9-f4f1-4253-81ca-3acce413bb71,real.tickets,available,359.99,488.88,high,medium,4,namesilo,,,25/09/2026 14:00
+8d0a69cd-6d89-4fbf-9b96-a76d227d6bf2,home.pet,premium,1300,1300,high,medium,4,namecheap,,,24/09/2026 23:55
+76a91d5b-5101-4921-93f9-b22bb6802f2d,property.vodka,available,32.49,32.49,high,low,8,namesilo,,,
+26d76193-2cb1-4d6c-a412-807fe332cf4d,property.courses,premium,1300,1300,high,low,8,namecheap,,,
+30642c56-a35c-42e3-9bf0-fbca0a071357,estate.pw,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",10/07/2026 15:34,10/07/2036 15:34,26/09/2026 05:53
+97306b40-9bba-4b4a-a1e1-97d826c36d77,property.delivery,available,8.99,,high,low,8,name.com,,,
+a7726af8-40cf-42d0-ab00-fcac11d2b49d,property.cards,premium,520,520,high,low,8,namecheap,,,27/09/2026 06:38
+db7e73bf-1b62-4ece-8a57-b264cbc04bf6,property.download,premium,455,65,high,low,8,namecheap,,,
+d56b237f-ccb9-443c-9c2e-37690eb1fad0,estate.bot,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+0c3b5dbc-ed45-43ee-8876-05fff01661b1,estate.healthcare,available,88.99,88.99,high,low,6,namesilo,,,17/09/2026 02:55
+293d9763-144a-4f5c-b935-c36184b36140,home.international,resell,,,high,medium,4,Dynadot Inc,04/07/2015 18:58,04/07/2027 18:58,26/09/2026 06:42
+3e165a2e-2266-4b15-b58f-d6a47f7e3829,estate.group,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",07/06/2016 20:28,07/06/2027 20:28,26/09/2026 05:53
+c845560c-edae-4915-9712-cd1da2417161,estate.solar,available,64.99,64.99,high,low,6,namesilo,,,17/09/2026 02:55
+0092179b-d310-4578-be3a-831de6062261,estate.cat,available,26.98,38.98,high,low,6,namecheap,,,17/09/2026 02:55
+c1b79938-bdc4-4238-b465-4da86ffaeb40,real.limited,premium,118.8,118.8,high,medium,4,namesilo,,,25/09/2026 14:00
+a760cd98-f982-42db-9784-67c3f43dd69c,home.gallery,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/06/2015 16:00,17/06/2028 16:00,26/09/2026 06:42
+3edcb45e-1be9-49c3-b094-79bde4c9d056,real.bot,premium,3450,3450,high,medium,4,namesilo,,,25/09/2026 14:00
+8c1a3fc4-7eb0-4599-9810-6035c8abdf89,property.exposed,premium,128.7,128.7,high,low,8,namecheap,,,
+668a0ff4-8de5-4a6a-ac55-e452453c25b1,real.webcam,premium,640,77.35,high,medium,4,namesilo,,,25/09/2026 14:00
+ee813b67-221f-4803-a32f-5eda7ce662c9,home.finance,resell,,,high,medium,4,Dynadot Inc,16/11/2024 15:15,16/11/2027 15:15,26/09/2026 06:42
+c3751c88-f706-4cef-a18b-709a037f3845,home.gay,premium,2660,2660,high,medium,4,namesilo,,,24/09/2026 23:55
+3cab2c64-fd21-4761-b3a0-ae592d945017,apartment.land,available,15.99,41.99,high,low,9,namesilo,,,19/09/2026 16:17
+982a2ced-59d1-44f4-b116-3bd6b93bfea6,real.beer,resell,,,high,medium,4,"22net, Inc.",17/05/2022 00:00,17/05/2030 00:00,26/09/2026 08:31
+c6cbe5d2-3f49-436d-99a6-c25e36189d20,estate.porn,available,69.98,154.98,high,low,6,namecheap,,,17/09/2026 02:55
+915a717a-de1b-4f25-9e57-57c4e3d0466e,home.archi,premium,1950,1950,high,medium,4,namecheap,,,24/09/2026 23:55
+b9dd4a3d-6b35-4e99-a7ec-199b1eb3057e,housing.condos,premium,118.8,118.8,high,low,7,namesilo,,,24/09/2026 12:13
+f86393ad-d2b3-4506-8e3a-ceb93abea085,property.mov,premium,167.7,167.7,high,low,8,namecheap,,,
+f3a85bd2-7a79-4570-a03f-2700226df880,home.graphics,resell,,,high,medium,4,Dynadot Inc,09/01/2021 23:16,09/01/2027 23:16,26/09/2026 06:42
+d46643aa-e83d-4371-ad99-507f36e73232,estate.diamonds,available,54.99,54.99,high,low,6,namesilo,,,17/09/2026 02:55
+7deace2d-1d2f-4551-968e-40233278d3ff,property.monster,premium,650,15.73,high,low,8,namecheap,,,
+e4b16d91-feae-41ee-aca6-667936fa11d8,home.photos,resell,,,high,medium,4,GoDaddy Online Services Cayman Islands Ltd.,15/06/2015 16:49,15/06/2027 16:49,26/09/2026 06:42
+d509ae79-2500-4c64-b798-787042600232,estate.date,premium,390,65,high,low,6,namecheap,,,17/09/2026 02:55
+888b13f7-30e7-4235-a0cf-617b5f63a40c,estate.team,premium,242,242,high,low,6,namesilo,,,17/09/2026 02:55
+22cdd90a-31cd-429f-9e74-6d0a0104fe98,real.pw,premium,749.17,1498.33,high,medium,4,name.com,,,25/09/2026 14:00
+b878fdee-f952-4993-9070-8d6c113a1120,house.realty,premium,4550,6500,high,medium,5,namecheap,,,24/09/2026 18:37
+cc012790-e0e3-413a-aa34-584ffea35432,home.moi,premium,640,640,high,medium,4,namesilo,,,24/09/2026 23:55
+752c61bb-5905-4bcc-bd7e-e5563d0b7952,home.so,resell,,,high,medium,4,Dynadot LLC,28/04/2011 00:00,28/04/2026 00:00,
+f47405f8-17ac-49dc-81dc-907d6a1cf4bc,home.games,premium,1107,1107,high,medium,4,namesilo,,,24/09/2026 23:55
+f60a65c4-ccb1-4071-9190-a239a5a0016c,real.hosting,available,309.99,429.99,high,medium,4,namesilo,,,25/09/2026 14:00
+2fc31508-c292-4719-ac90-cdcaa0b7421f,real.rest,premium,787.5,1125,high,medium,4,name.com,,,25/09/2026 14:00
+8d064d62-e0b0-4a99-9c38-6be72a7e57d8,real.vana,available,3999.99,3999.99,high,medium,4,name.com,,,25/09/2026 14:00
+3eaaa6df-abe7-47cf-8f8f-50384d6a2898,property.games,resell,,,high,low,8,"DNSPod, Inc.",08/06/2021 16:00,08/06/2027 16:00,26/09/2026 08:22
+33215b17-019e-4f38-8477-e2520e7e51f7,estate.hospital,available,57.99,57.99,high,low,6,namesilo,,,17/09/2026 02:55
+0d980e5d-c410-4353-aacc-092f134539e1,estate.melbourne,available,58,58,high,low,6,namesilo,,,17/09/2026 02:55
+f960ce4e-d023-4657-a882-1f59bfd52846,estate.vacations,available,38.99,38.99,high,low,6,namesilo,,,17/09/2026 02:55
+e4f7e5fd-9c46-4a59-97db-eb6a4f0bed77,estate.tv,resell,,,high,low,6,1API GmbH,19/03/2010 04:10,19/03/2027 04:10,26/09/2026 05:53
+468fd488-d8c4-4226-8d31-cb5412b86df5,home.flights,resell,,,high,medium,4,Virtualia LLC,08/12/2022 15:15,08/12/2026 15:15,26/09/2026 06:42
+0bcf0cfa-a66f-4079-bd5e-070de0627315,estate.press,premium,4140,4140,high,low,6,namesilo,,,17/09/2026 02:55
+fd55f920-522b-40fc-9abb-f97a300c3dcf,real.gratis,premium,512,512,high,medium,4,namesilo,,,25/09/2026 14:00
+d72df8c7-82d6-4f87-bcc9-acbdb609f605,home.ltda,premium,56.64,33.04,high,medium,4,namesilo,,,24/09/2026 23:55
+2641b62e-e5cf-4cf9-b2a8-501157715501,home.watch,resell,,,high,medium,4,"GoDaddy.com, LLC",22/07/2015 16:03,22/07/2027 16:03,26/09/2026 06:42
+a1c77af7-f7a2-431d-8d4b-0c38505da1fe,estate.paris,available,66.98,66.98,high,low,6,namecheap,,,17/09/2026 02:55
+68830462-3690-4e51-92cb-8ea72a550b71,real.courses,premium,116,116,high,medium,4,namesilo,,,25/09/2026 14:00
+29c1d943-f532-4ad4-b0e2-02a057477946,estate.audio,available,104.99,114.99,high,low,6,namesilo,,,17/09/2026 02:55
+718eb863-0200-407d-aad4-e9c97002ccff,real.legal,resell,,,high,medium,4,"Sav.com, LLC - 21",25/01/2026 15:15,25/01/2027 15:15,26/09/2026 08:31
+35c89a45-9e2f-4816-aba5-12e0be95374b,home.services,resell,,,high,medium,4,"GoDaddy.com, LLC",19/06/2015 17:51,19/06/2030 17:51,26/09/2026 06:42
+b77d5c65-4c11-446f-82d9-d7b711a17a0e,estate.xyz,resell,,,high,low,6,"GoDaddy.com, LLC",14/09/2021 17:27,14/09/2027 23:59,26/09/2026 05:53
+05f93f1d-c6c1-4690-97de-f2fadec6393f,home.sydney,available,58,58,high,medium,4,namesilo,,,24/09/2026 23:55
+3f97ed90-6dcf-4131-b25f-e2592cffb84e,estate.observer,premium,1040,1040,high,low,6,namecheap,,,17/09/2026 02:55
+33203d2f-273d-4725-a09c-03292e7a78d4,estate.baby,available,17.99,54.99,high,low,6,namesilo,,,17/09/2026 02:55
+0ce6fb19-a112-42a1-8934-c4623d13c915,estate.tips,premium,520,520,high,low,6,namecheap,,,17/09/2026 02:55
+e7440f1d-2892-4e50-bd40-585603bc8ddd,real.hamburg,available,59.99,59.99,high,medium,4,name.com,,,25/09/2026 14:00
+4c29571e-4634-4728-811e-960b3c48f5b9,real.holiday,available,64.99,64.99,high,medium,4,namesilo,,,25/09/2026 14:00
+129e98fb-a0fd-4090-a2d2-1a6c725ed6a6,real.ong,premium,3250,1625,high,medium,4,namecheap,,,25/09/2026 14:00
+952a94a6-34d7-4d97-9320-884ac558d3a9,estate.coach,available,17.99,77.99,high,low,6,namesilo,,,17/09/2026 02:55
+2e40b531-5ba0-4543-8d47-69004390351e,realty.immobilien,available,14.99,48.99,high,low,6,name.com,,,21/08/2026 21:24
+b96a6b57-bc71-46f1-bfb1-f8f1c5c8d579,estate.chat,premium,42.9,85.8,high,low,6,namecheap,,,17/09/2026 02:55
+76d7b85e-b463-4378-8d36-f813e0633e5a,real.mobi,resell,,,high,medium,4,"Sav.com, LLC - 5",09/08/2026 15:15,09/08/2027 15:15,26/09/2026 08:31
+c8a3ef9a-68f7-4d48-87c2-acda0e32c54d,real.cc,resell,,,high,medium,4,"GoDaddy.com, LLC",06/08/2002 15:17,06/08/2027 15:17,26/09/2026 08:31
+89bac4fb-8b26-4d7c-b31a-22eb03f546f5,home.bond,premium,390,780,high,medium,4,namecheap,,,24/09/2026 23:55
+d3e22dfb-fe8f-4554-a3b6-f2474e10ed6a,estate.cricket,available,25.98,31.98,high,low,6,namecheap,,,17/09/2026 02:55
+59889ae6-08c7-4e2e-8f1b-5fe9cb676c50,estate.xxx,available,69.98,154.98,high,low,6,namecheap,,,17/09/2026 02:55
+7a760c1d-527a-463b-936f-b120126b6732,housing.rent,premium,242,242,high,low,7,namesilo,,,24/09/2026 12:13
+a87dd48b-dc83-4b22-8812-823b2894af53,real.exposed,premium,242,242,high,medium,4,namesilo,,,25/09/2026 14:00
+c4105454-02fb-40b5-bb46-e6c1adfcd76c,estate.webcam,premium,640,77.35,high,low,6,namesilo,,,17/09/2026 02:55
+f06201c6-67fe-4d29-9b9e-a6163af901a2,estate.moe,premium,96,14.16,high,low,6,namesilo,,,17/09/2026 02:55
+40bcd4b7-c585-4e2b-9e98-bd9d459a32c7,real.dad,premium,623.75,623.75,high,medium,4,name.com,,,25/09/2026 14:00
+56da9315-cf9d-4058-81ad-b54ae2588560,real.reise,available,27.89,97.99,high,medium,4,namesilo,,,25/09/2026 14:00
+1f70d866-3fe9-4c5f-a50b-a4ef04babb40,estate.moda,premium,854,854,high,low,6,namesilo,,,17/09/2026 02:55
+26baeb91-b6f8-4b38-a81d-4aa9bd330d65,estate.free,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+a63722df-f41d-43a5-8e5b-ebfba00c5a18,estate.engineering,premium,118.8,118.8,high,low,6,namesilo,,,17/09/2026 02:55
+7b3815ec-edb1-432c-a675-6a5166d726eb,real.credit,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",24/12/2025 15:15,24/12/2026 15:15,26/09/2026 08:31
+6da41ae5-576b-4d0f-b845-a27891396236,home.vodka,premium,3450,640,high,medium,4,namesilo,,,24/09/2026 23:55
+67385678-2914-41f7-a643-a0e95d0fcc96,realty.immo,premium,123.75,123.75,high,low,6,name.com,,,21/08/2026 21:24
+a20004e7-3814-4774-b0dd-5bce362d466f,home.coupons,premium,12420,12420,high,medium,4,namesilo,,,24/09/2026 23:55
+e450d70d-8f37-4308-b365-b10e21122c29,estate.fyi,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
+98ba4a5a-7ee7-458c-9cff-5a79e38f25f1,estate.courses,premium,640,640,high,low,6,namesilo,,,17/09/2026 02:55
+761f6bd5-0dc6-482f-8134-1f6246feba90,estate.fishing,premium,47.2,29.5,high,low,6,namesilo,,,17/09/2026 02:55
+350d56bd-7e87-45f1-911d-7a0bd45fa8cb,home.download,resell,,,high,medium,4,Dynadot Inc,27/10/2017 06:01,27/10/2029 06:01,26/09/2026 06:42
+13c7389d-bf92-484d-9291-438381a82120,home.rest,premium,1152,1152,high,medium,4,namesilo,,,24/09/2026 23:55
+a4de20df-4d8a-4656-8352-e2b1fd1310ff,home.markets,premium,520,520,high,medium,4,namecheap,,,24/09/2026 23:55
+e8b9b87f-1586-45f1-97cc-1f86290ebe8b,real.prof,premium,811.25,811.25,high,medium,4,name.com,,,25/09/2026 14:00
+756be294-0614-4c2c-86d5-d751d38724e3,real.viajes,available,43.98,57.98,high,medium,4,namecheap,,,25/09/2026 14:00
+c187387b-6414-4901-8529-45ceafaf5666,home.website,premium,13800,13800,high,medium,4,namesilo,,,24/09/2026 23:55
+fb46ca5a-ff29-4da2-a9ec-c46a3bed4720,home.immobilien,premium,854,854,high,medium,4,namesilo,,,24/09/2026 23:55
+cc238ca8-edcc-417b-9b0f-8d178174ecbc,estate.win,premium,448,53.92,high,low,6,namesilo,,,17/09/2026 02:55
+4670e470-39b6-4f1a-8493-56fca2dbd3b7,real.osaka,available,39.99,39.99,high,medium,4,name.com,,,25/09/2026 14:00
+c643044e-4e4e-4b23-bcfa-e719f5aaba82,estate.tires,available,5.99,78.99,high,low,6,namesilo,,,17/09/2026 02:55
+0b98bb7c-6ceb-4026-b6e9-01fd13aa8c5f,home.lifestyle,premium,910,1300,high,medium,4,namecheap,,,24/09/2026 23:55
+2387a636-682b-456a-95da-493e93613e54,home.shoes,premium,512,512,high,medium,4,namesilo,,,24/09/2026 23:55
+44ed6bc5-deff-4c6f-93ed-cfe47976ce09,real.parts,premium,250,250,high,medium,4,name.com,,,25/09/2026 14:00
+26593ec6-3ab4-41d4-80a8-42add0bc7c0c,real.foo,premium,1298.7,1298.7,high,medium,4,namecheap,,,25/09/2026 14:00
+d663dd1b-ccba-415d-91cc-7bae4f1fefe4,home.viajes,available,43.98,57.98,high,medium,4,namecheap,,,24/09/2026 23:55
+f5367b11-9214-4eb3-98d9-76693cd50f91,land.estate,resell,,,high,low,4,1API GmbH,12/02/2014 16:00,12/02/2027 16:00,26/09/2026 07:08
+7d84b0ee-cd1c-4777-a942-e1d4cbd96d2e,home.barcelona,available,38.98,38.98,high,medium,4,namecheap,,,24/09/2026 23:55
+6b26098d-55bb-4e20-a2ab-cfce013ba0c1,real.markets,resell,,,high,medium,4,"NameCheap, Inc.",23/09/2025 15:16,23/09/2027 15:16,26/09/2026 08:31
+a3d4c1ce-1f73-469f-974c-7b9688df0e55,real.nexus,premium,1248.75,1248.75,high,medium,4,name.com,,,25/09/2026 14:00
+5cd21ae8-a5e6-48e6-8fb2-e9f8a681ee15,home.creditcard,resell,,,high,medium,4,Dynadot Inc,21/01/2026 22:22,21/01/2027 22:22,26/09/2026 06:42
+b85f974b-cb60-4a30-91a2-d4bbcc89f85d,real.ltda,premium,66.3,66.3,high,medium,4,namecheap,,,25/09/2026 14:00
+b57fd8d6-01cf-4c8a-991f-05bcbb29aa4d,home.villas,resell,,,high,medium,4,"NameCheap, Inc.",16/06/2026 15:16,16/06/2027 15:16,26/09/2026 06:42
+55b91c30-7099-4f74-a6ff-464f88bc3933,real.rich,resell,,,high,medium,4,Porkbun LLC,06/09/2025 05:47,06/09/2027 05:47,26/09/2026 08:31
+43c27f18-c6a3-4049-baac-57cd07af5c13,realty.homes,premium,2500,2500,high,low,6,name.com,,,21/08/2026 21:24
+88235001-74d9-4fa6-a175-47c9876ea2d8,agent.immobilien,premium,242,242,high,medium,5,namesilo,,,17/09/2026 17:11
+c6ce7290-0bf7-4aaf-88f7-bcc1966c9254,house.apartments,premium,128.7,128.7,high,medium,5,namecheap,,,24/09/2026 18:37
+79b9deb2-49d5-4953-b047-d9b6d3eb6a7f,home.observer,premium,12420,12420,high,medium,4,namesilo,,,24/09/2026 23:55
+4476c723-56fb-4f23-8530-29d71ff29ca7,house.living,premium,455,650,high,medium,5,namecheap,,,24/09/2026 18:37
+0ddbc133-0186-46ee-9a06-9ab490b225a5,house.life,resell,,,high,medium,5,"Spaceship, Inc.",29/11/2017 08:09,29/11/2026 08:09,26/09/2026 06:44
+cf397d7e-c29d-40f5-8254-200c5a364383,house.online,premium,7812.5,31250,high,medium,5,name.com,,,24/09/2026 18:37
+e17b6794-3e03-471f-b053-55fccdbebef5,real.locker,premium,1654.52,8.8,high,medium,4,namesilo,,,25/09/2026 14:00
+161a56e1-4936-4736-97a7-1a563cc9b371,home.deals,resell,,,high,medium,4,"Sav.com, LLC",26/07/2015 16:52,26/07/2027 16:52,26/09/2026 06:42
+2e1603cb-a880-4d44-b15a-f996456c312c,house.rent,premium,12500,12500,high,medium,5,name.com,,,24/09/2026 18:37
+64ad9454-b6f1-4131-9952-d87d07773970,real.pet,resell,,,high,medium,4,"Sav.com, LLC",10/05/2020 10:16,10/05/2027 10:16,26/09/2026 08:31
+d883487e-f930-4b22-b7cc-8ab47d814996,real.la,resell,,,high,medium,4,"GoDaddy.com, Inc.",12/04/2023 08:44,12/04/2027 23:59,26/09/2026 08:31
+b9eb00e7-2f65-4c4c-9d33-40a5bdefc95f,real.blue,premium,1107,1107,high,medium,4,namesilo,,,25/09/2026 14:00
+d551e419-7c3a-4f87-83ec-4cb141d6d2c4,home.deal,premium,1300,1300,high,medium,4,namecheap,,,24/09/2026 23:55
+ba36be0c-7ede-48f3-8f1b-133f042ae3e4,house.melbourne,premium,456.73,456.73,high,medium,5,namecheap,,,24/09/2026 18:37
+de3b40db-5aa7-41ab-b3af-5a0192afe2a6,home.loan,resell,,,high,medium,4,"eNom, LLC",08/09/2022 17:39,08/09/2028 17:39,26/09/2026 06:42
+e3c1de26-84d3-49c6-b346-ee0c7c9e7ef3,real.sydney,available,58,58,high,medium,4,namesilo,,,25/09/2026 14:00
+bbe1110d-01e1-4d5e-932a-42c20869b82e,house.inc,premium,2015,2600,high,medium,5,namecheap,,,24/09/2026 18:37
+3f4aebbd-214f-413f-8ede-54c19b1d4437,home.voting,available,1398,1448,high,medium,4,namecheap,,,24/09/2026 23:55
+0d7d86c4-6a2b-4f7c-89e9-2260a8615496,real.soy,premium,698.1,698.1,high,medium,4,namecheap,,,25/09/2026 14:00
+fc4ecb84-eb3f-4e5f-a2c8-c576b1ff6ec7,home.poker,resell,,,high,medium,4,"Spaceship, Inc.",22/11/2023 15:15,22/11/2026 15:15,26/09/2026 06:42
+01b95b6d-0031-4722-a220-6b0e69f9ca8c,house.study,premium,65,65,high,medium,5,namecheap,,,24/09/2026 18:37
+e1daf178-0be4-45df-b752-965d78670949,home.trading,resell,,,high,medium,4,Porkbun LLC,13/03/2017 20:32,13/03/2027 23:59,26/09/2026 06:42
+91518dff-79f4-4fcd-8dbb-302ef4f58fe2,house.place,premium,82.5,82.5,high,medium,5,name.com,,,24/09/2026 18:37
+d50528bb-99ef-4d3c-852e-346d9a739208,real.accountants,premium,512,512,high,medium,4,namesilo,,,25/09/2026 14:00
+d26bc62b-e183-4e2f-9b01-02430e91e71b,house.juegos,available,599.99,599.99,high,medium,5,name.com,,,24/09/2026 18:37
+bc6e48fd-c50c-4b9c-8b1a-4ad407a66c85,house.lifestyle,premium,455,650,high,medium,5,namecheap,,,24/09/2026 18:37
+e802baf8-d001-4298-a05e-6ecde327b2ba,real.attorney,premium,1107,1107,high,medium,4,namesilo,,,25/09/2026 14:00
+0bd9b112-87f3-44da-ba99-e9e6f16cfc0d,house.services,premium,500,500,high,medium,5,name.com,,,24/09/2026 18:37
+8c805eb6-5c5d-4c57-9bfc-f1d26e7cd85c,house.dev,premium,811.25,811.25,high,medium,5,name.com,,,24/09/2026 18:37
+fef94952-3843-43ed-8a09-1c34dd4c5235,real.cricket,premium,3450,116,high,medium,4,namesilo,,,25/09/2026 14:00
+9b650280-24f8-4bb0-adbc-7b49c7d9313a,home.vote,resell,,,high,medium,4,Dynadot Inc,22/07/2023 15:15,22/07/2027 15:15,26/09/2026 06:42
+7303563b-ec4b-44fb-accc-df710b2455df,real.cab,resell,,,high,medium,4,"Sav.com, LLC - 3",31/12/2025 15:15,31/12/2026 15:15,26/09/2026 08:31
+98767089-3603-49a5-b836-3e792cc67c5e,real.paris,available,65.99,65.99,high,medium,4,name.com,,,25/09/2026 14:00
+465e83e3-6671-4a48-a85f-5bb2b9f6551b,house.fish,premium,260,260,high,medium,5,namecheap,,,24/09/2026 18:37
+edde6e70-d21d-4f19-9ccd-21919725cac7,land.homes,premium,845,15.73,high,low,4,namecheap,,,
+8bce9e8c-24dd-4271-8b52-b525dc62fea0,agent.land,resell,,,high,medium,5,Unstoppable Domains Inc,23/11/2024 17:02,23/11/2027 17:02,26/09/2026 01:26
+83c224fd-8b9a-4df1-8124-d6353c5dd7bb,land.maison,premium,260,260,high,low,4,namecheap,,,
+b5d35d7a-0ea9-49bf-bc13-e1c41fd9e35e,home.baby,resell,,,high,medium,4,"Spaceship, Inc.",17/06/2021 02:05,17/06/2027 23:59,26/09/2026 06:42
+f08620ac-8b7c-4aaf-bc2b-b2d700ed1cd7,house.tech,premium,812.5,3250,high,medium,5,namecheap,,,24/09/2026 18:37
+87dd7c58-d04f-4ee8-963e-2acc25c2867c,home.cool,resell,,,high,medium,4,Realtime Register B.V.,01/07/2015 19:01,01/07/2027 19:01,26/09/2026 06:42
+7cf3257a-93d1-493d-ba74-76f7421bbb0e,real.tv,resell,,,high,medium,4,InternetX GmbH,01/05/2000 07:00,09/04/2027 03:59,26/09/2026 08:31
+f3ecb851-7baa-44d1-823f-7e41ea14b44f,house.bayern,available,47.99,50.99,high,medium,5,name.com,,,24/09/2026 18:37
+60a02bda-5f6c-4d48-8327-bbcdcac912ac,real.games,premium,1250,1250,high,medium,4,name.com,,,25/09/2026 14:00
+034e6959-14fa-4080-8c56-df88ab52b0ee,house.maison,available,60.98,69.98,high,medium,5,namecheap,,,24/09/2026 18:37
+62a911fe-abb8-4783-8876-7294ff3ca738,home.bingo,resell,,,high,medium,4,Dynadot Inc,06/04/2024 15:15,06/04/2027 15:15,26/09/2026 06:42
+7d8bc56a-ab6a-4715-8052-7d4b18e2f1b0,home.lat,resell,,,high,medium,4,Atom.com Domains LLC,10/09/2026 04:27,10/09/2027 23:59,26/09/2026 06:42
+fd313b82-c3f6-442a-92d2-d7a288934bb4,home.gratis,premium,118.8,118.8,high,medium,4,namesilo,,,24/09/2026 23:55
+3e57a9d8-b9a9-4ff1-89ee-a763c9185057,realty.maison,premium,83.99,82.5,high,low,6,name.com,,,21/08/2026 21:24
