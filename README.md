@@ -1,10 +1,10 @@
-# One-Word Real Estate Domain Names (136,706)
+# One-Word Real Estate Domain Names (137,523)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-136%2C706%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-137%2C523%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set covers 110,670 one-word domain names linked to real estate, across 506 TLDs. Median ask is $818.81. Updated daily, it spans mainstream and niche extensions suited for property, listing, and land-focused brands.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **136,706 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **137,523 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 136,706 domains · **Median ask:** $376.53 · **High-demand under $2,500:** 150
+**Public extract:** 1,000 rows · **Live catalog:** 137,523 domains · **Median ask:** $375.11 · **High-demand under $2,500:** 143
 
 **Last updated:** 2026-10-08
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
@@ -67,23 +67,23 @@ print(df.head())
 | home.accountants | available | $117.99    | $117.99       | high           | medium | 4      | namesilo                                                |
 | real.global      | resell    | $29,612.50 | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | home.adult       | premium   | $322.40    | $322.40       | high           | medium | 4      | namecheap                                               |
-| home.auto        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
-| house.courses    | resell    | $2.19      | $38.99        | high           | medium | 5      | Dynadot Inc                                             |
-| home.archi       | premium   | $1,950     | $1,950        | high           | medium | 4      | namecheap                                               |
-| home.car         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
+| home.army        | available | $18.99     | $39.99        | high           | medium | 4      | namesilo                                                |
 | property.contact | resell    | $5,921.32  | —             | high           | medium | 8      | Porkbun LLC                                             |
-| home.associates  | premium   | $38.94     | $38.94        | high           | medium | 4      | namesilo                                                |
-| home.cars        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
+| home.archi       | premium   | $1,950     | $1,950        | high           | medium | 4      | namecheap                                               |
+| home.barcelona   | available | $38.98     | $38.98        | high           | medium | 4      | namecheap                                               |
 | property.cruises | resell    | $14.99     | —             | high           | medium | 8      | name.com                                                |
-| home.bar         | premium   | $8,190     | $11,700       | high           | medium | 4      | namecheap                                               |
-| home.country     | available | $2,298     | $2,450        | high           | medium | 4      | namecheap                                               |
+| home.attorney    | premium   | $1,107     | $1,107        | high           | medium | 4      | namesilo                                                |
+| home.cars        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                |
 | property.fashion | resell    | $32.49     | $32.49        | high           | medium | 8      | namesilo                                                |
-| home.cloud       | premium   | $3,250     | $6,500        | high           | medium | 4      | namecheap                                               |
-| home.desi        | available | $19.98     | $22.98        | high           | medium | 4      | namecheap                                               |
+| home.bar         | premium   | $8,190     | $11,700       | high           | medium | 4      | namecheap                                               |
+| home.exposed     | available | $22.49     | $22.49        | high           | medium | 4      | namesilo                                                |
 | property.info    | resell    | $34,500    | $35.99        | high           | medium | 8      | GoDaddy.com, LLC                                        |
-| home.college     | premium   | $3,450     | $3,450        | high           | medium | 4      | namesilo                                                |
-| home.diamonds    | available | $54.99     | $54.99        | high           | medium | 4      | namesilo                                                |
+| home.bond        | premium   | $390       | $780          | high           | medium | 4      | namecheap                                               |
+| home.guitars     | available | $104.99    | $114.99       | high           | medium | 4      | namesilo                                                |
 | property.now     | resell    | $625       | —             | high           | medium | 8      | Dynadot Inc                                             |
+| home.cloud       | premium   | $3,250     | $6,500        | high           | medium | 4      | namecheap                                               |
+| home.melbourne   | available | $58        | $58           | high           | medium | 4      | namesilo                                                |
+| property.salon   | resell    | $14.99     | —             | high           | medium | 8      | Sav.com, LLC                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 136,706 live domains                                 |
+| 1,000-row public sample | 137,523 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 150 high-demand names under $2,500                   |
+| Basic exported fields   | 143 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
