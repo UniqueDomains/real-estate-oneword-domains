@@ -1,10 +1,10 @@
-# One-Word Real Estate Domain Names (136,747)
+# One-Word Real Estate Domain Names (136,473)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-136%2C747%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-136%2C473%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set covers 110,670 one-word domain names linked to real estate, across 506 TLDs. Median ask is $818.81. Updated daily, it spans mainstream and niche extensions suited for property, listing, and land-focused brands.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **136,747 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **136,473 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 136,747 domains · **Median ask:** $395.08 · **High-demand under $2,500:** 1,606
+**Public extract:** 1,000 rows · **Live catalog:** 136,473 domains · **Median ask:** $395.08 · **High-demand under $2,500:** 1,859
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 136,747 live domains                                 |
+| 1,000-row public sample | 136,473 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 1,606 high-demand names under $2,500                 |
+| Basic exported fields   | 1,859 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
