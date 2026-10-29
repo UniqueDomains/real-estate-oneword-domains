@@ -1,10 +1,10 @@
-# One-Word Real Estate Domain Names (135,363)
+# One-Word Real Estate Domain Names (135,366)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-135%2C363%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-135%2C366%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This set covers 110,670 one-word domain names linked to real estate, across 506 TLDs. Median ask is $818.81. Updated daily, it spans mainstream and niche extensions suited for property, listing, and land-focused brands.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **135,363 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **135,366 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 135,363 domains · **Median ask:** $392.47 · **High-demand under $2,500:** 2,916
+**Public extract:** 1,000 rows · **Live catalog:** 135,366 domains · **Median ask:** $391.88 · **High-demand under $2,500:** 2,667
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-29
 **Canonical page:** `https://unique.domains/domains/sector/real-estate`
 **Best for:** founders, investors, studios
 
@@ -69,20 +69,20 @@ print(df.head())
 | home.associates  | premium   | $38.94     | $38.94        | high           | low    | 4      | namesilo                                                |
 | home.auto        | available | $1,999.99  | $2,199        | high           | low    | 4      | namesilo                                                |
 | real.global      | resell    | $29,612.50 | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| home.enterprises | premium   | $512       | $512          | high           | low    | 4      | namesilo                                                |
+| home.attorney    | premium   | $1,107     | $1,107        | high           | low    | 4      | namesilo                                                |
 | home.car         | available | $1,999.99  | $2,199        | high           | low    | 4      | namesilo                                                |
 | property.contact | resell    | $5,921.32  | —             | high           | low    | 8      | Porkbun LLC                                             |
-| home.gmbh        | premium   | $242       | $242          | high           | low    | 4      | namesilo                                                |
+| home.enterprises | premium   | $512       | $512          | high           | low    | 4      | namesilo                                                |
 | home.country     | available | $2,298     | $2,450        | high           | low    | 4      | namecheap                                               |
 | property.cruises | resell    | $14.99     | —             | high           | low    | 8      | name.com                                                |
-| home.homes       | premium   | $11,040    | $11,040       | high           | low    | 4      | namesilo                                                |
+| home.gmbh        | premium   | $242       | $242          | high           | low    | 4      | namesilo                                                |
 | home.desi        | available | $19.98     | $22.98        | high           | low    | 4      | namecheap                                               |
 | property.fashion | resell    | $32.49     | $32.49        | high           | low    | 8      | namesilo                                                |
-| home.horse       | premium   | $854       | $29.50        | high           | low    | 4      | namesilo                                                |
+| home.homes       | premium   | $11,040    | $11,040       | high           | low    | 4      | namesilo                                                |
 | home.diamonds    | available | $54.99     | $54.99        | high           | low    | 4      | namesilo                                                |
 | property.info    | resell    | $34,500    | $35.99        | high           | low    | 8      | GoDaddy.com, LLC                                        |
-| home.hot         | premium   | $1,107     | $1,107        | high           | low    | 4      | namesilo                                                |
-| home.guitars     | available | $104.99    | $114.99       | high           | low    | 4      | namesilo                                                |
+| home.horse       | premium   | $854       | $29.50        | high           | low    | 4      | namesilo                                                |
+| home.exposed     | available | $22.49     | $22.49        | high           | low    | 4      | namesilo                                                |
 | property.now     | resell    | $625       | —             | high           | low    | 8      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 135,363 live domains                                 |
+| 1,000-row public sample | 135,366 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,916 high-demand names under $2,500                 |
+| Basic exported fields   | 2,667 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Real Estate Domain Names*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Real Estate Domain Names*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
