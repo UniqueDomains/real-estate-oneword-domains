@@ -831,7 +831,6 @@ f60b8518-50c7-453f-bd6b-3b9e4ec615b3,estate.parts,premium,78.54,78.54,high,low,6
 b2ba2822-5501-4261-8f0d-df66604bd639,home.berlin,resell,,,high,low,4,,14/12/2016 10:35,14/12/2027 10:35,26/09/2026 06:42
 6de1d7dd-5a3d-459b-86d0-35743770df1c,home.accountants,available,117.99,117.99,high,low,4,namesilo,,,24/09/2026 23:55
 6f6b2af4-e44f-472f-a162-326394ccd08c,home.report,resell,,,high,low,4,"GoDaddy.com, LLC",02/09/2015 18:10,02/09/2027 18:10,26/09/2026 06:42
-ee813b67-221f-4803-a32f-5eda7ce662c9,home.finance,resell,,,high,low,4,Dynadot Inc,16/11/2024 15:15,16/11/2027 15:15,26/09/2026 06:42
 3fd55de5-2553-4fe7-981c-f64fab605ea3,home.support,premium,242,242,high,low,4,namesilo,,,24/09/2026 23:55
 eb1e86d5-c8ad-49e7-85c4-5558203af8c8,home.expert,resell,,,high,low,4,"Wild West Domains, LLC",12/07/2015 16:00,12/07/2027 16:00,26/09/2026 06:42
 0567ebdd-1381-4a55-a245-7f670e868731,estate.delivery,available,6.75,61.99,high,low,6,namesilo,,,17/09/2026 02:55
@@ -975,7 +974,6 @@ c187387b-6414-4901-8529-45ceafaf5666,home.website,premium,13800,13800,high,low,4
 53207721-20eb-4adb-b6a0-89d0c4d674dd,house.vodka,resell,,,high,low,5,"GoDaddy.com, LLC",26/06/2026 12:05,26/06/2027 12:05,26/09/2026 06:44
 01b95b6d-0031-4722-a220-6b0e69f9ca8c,house.study,premium,65,65,high,low,5,namecheap,,,24/09/2026 18:37
 756be294-0614-4c2c-86d5-d751d38724e3,real.viajes,available,43.98,57.98,high,medium,4,namecheap,,,25/09/2026 14:00
-de3b40db-5aa7-41ab-b3af-5a0192afe2a6,home.loan,resell,,,high,low,4,"eNom, LLC",08/09/2022 17:39,08/09/2028 17:39,26/09/2026 06:42
 cf397d7e-c29d-40f5-8254-200c5a364383,house.online,premium,7812.5,31250,high,low,5,name.com,,,24/09/2026 18:37
 161a56e1-4936-4736-97a7-1a563cc9b371,home.deals,resell,,,high,low,4,"Sav.com, LLC",26/07/2015 16:52,26/07/2027 16:52,26/09/2026 06:42
 e3c1de26-84d3-49c6-b346-ee0c7c9e7ef3,real.sydney,available,58,58,high,medium,4,namesilo,,,25/09/2026 14:00
@@ -999,3 +997,5 @@ d883487e-f930-4b22-b7cc-8ab47d814996,real.la,resell,,,high,medium,4,"GoDaddy.com
 d04b8bfd-46d7-4ff1-b787-1e7c54dc9c2d,house.desi,available,19.98,22.98,high,low,5,namecheap,,,24/09/2026 18:37
 c6ce7290-0bf7-4aaf-88f7-bcc1966c9254,house.apartments,premium,118.8,118.8,high,low,5,namesilo,,,05/11/2026 07:01
 8d276f3b-c8ea-4360-8c47-505d2928d943,house.supply,premium,85.8,85.8,high,low,5,namecheap,,,24/09/2026 18:37
+7812e880-c7e8-44a2-a28d-ab47d5e3ca12,house.shop,premium,3250,3250,high,low,5,namecheap,,,24/09/2026 18:37
+4476c723-56fb-4f23-8530-29d71ff29ca7,house.living,premium,455,650,high,low,5,namecheap,,,24/09/2026 18:37
